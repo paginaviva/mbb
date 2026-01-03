@@ -1,0 +1,135 @@
+/* home_mobile.css - SOLO MÓVIL/TABLET */
+
+:root {
+    --gap-size: 15px;
+    --primary-color: #003366;
+    --secondary-color: #cc0000;
+    --text-color: #333;
+    --light-bg: #f8f9fa;
+    --border-color: #ddd;
+}
+
+.mt-4 {
+    margin-top: 1.5rem;
+}
+
+/* Layout General - Mobile */
+.home-grid-container-mobile {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+/* Estilos Comunes de Bloques - Mobile */
+.home-block-mobile {
+    background: #fff;
+    padding: 15px;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+}
+
+.block-title-mobile {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    border-bottom: 2px solid var(--primary-color);
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+/* Bloque A: La jornada de ayer - Mobile */
+.date-group-mobile {
+    margin-bottom: 20px;
+}
+
+.date-header-mobile {
+    background: var(--light-bg);
+    padding: 5px 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+}
+
+.post-list-small-mobile {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.post-list-small-mobile li {
+    margin-bottom: 8px;
+    font-size: 0.9rem;
+}
+
+.post-list-small-mobile a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.post-list-small-mobile a:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
+/* Bloque B: Lo más reciente - Mobile */
+.latest-news-grid-mobile {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+/* Media query para tablets */
+@media (min-width: 768px) {
+    .latest-news-grid-mobile {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.latest-card-mobile h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    line-height: 1.3;
+}
+
+.latest-card-mobile a {
+    text-decoration: none;
+    color: #000;
+}
+
+.latest-card-mobile a:hover {
+    color: var(--secondary-color);
+}
+
+/* Bloque D y E: Listas verticales - Mobile */
+.vertical-list-item-mobile {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.vertical-list-item-mobile:last-child {
+    border-bottom: none;
+}
+
+.vertical-list-item-mobile h4 {
+    font-size: 1rem;
+    margin: 0;
+    color: #555;
+}
+
+.vertical-list-item-mobile h3 {
+    font-size: 1.1rem;
+    margin: 0;
+}
+
+.vertical-list-item-mobile a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.vertical-list-item-mobile a:hover {
+    color: var(--primary-color);
+}

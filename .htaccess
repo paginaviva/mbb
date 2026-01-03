@@ -1,0 +1,116 @@
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the "ea-php81" package as the default "PHP" programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php81___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
+
+<IfModule mod_security.c>
+    SecFilterEngine Off
+    SecFilterScanPOST Off
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+</IfModule>
+
+# Permitir todos los user-agents
+BrowserMatchNoCase ".*" good_bot
+Order Allow,Deny
+Allow from all
+
+
+### --- PÁGINAS ELIMINADAS DEFINITIVAMENTE (410 GONE) / REWRITE --- ###
+
+# Activar mod_rewrite para las reglas que siguen
+RewriteEngine On
+
+### --- SOPORTE PARA /tag/<slug> --- ###
+# Solo si no es un fichero real ni un directorio real
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# No tocar /tag/breaking/ porque ya tiene un 410 explícito abajo
+RewriteCond %{REQUEST_URI} !^/tag/breaking/?$
+# /tag/lo-que-sea o /tag/lo-que-sea/ -> lista_posts_tag.php?tag=lo-que-sea
+RewriteRule ^tag/([^/]+)/?$ lista_posts_tag.php?tag=$1 [L,QSA]
+
+
+### --- URLs con QUERY STRING (mod_rewrite) --- ###
+
+# 1) https://www.meridiano.com/index.php?ed=cubanos-grandes-ligas-mlb"f=20210425
+RewriteCond %{QUERY_STRING} (^|&)ed=cubanos-grandes-ligas-mlb("|%22)?f=20210425(&|$)
+RewriteRule ^index\.php$ - [G,L]
+
+# 2) https://www.meridiano.com/?ed=colombianos-grandes-ligas-mlb
+RewriteCond %{QUERY_STRING} (^|&)ed=colombianos-grandes-ligas-mlb(&|$)
+RewriteRule ^$ - [G,L]
+
+# 3) https://www.meridiano.com/?ed=cubanos-grandes-ligas-mlb
+RewriteCond %{QUERY_STRING} (^|&)ed=cubanos-grandes-ligas-mlb(&|$)
+RewriteRule ^$ - [G,L]
+
+# 4) https://www.meridiano.com/index.php?ed=mlb-noticias-20211128
+RewriteCond %{QUERY_STRING} (^|&)ed=mlb-noticias-20211128(&|$)
+RewriteRule ^index\.php$ - [G,L]
+
+# 5) https://www.meridiano.com/index.php?ed=venezolanos-grandes-ligas-mlb
+RewriteCond %{QUERY_STRING} (^|&)ed=venezolanos-grandes-ligas-mlb(&|$)
+RewriteRule ^index\.php$ - [G,L]
+
+# 6) https://www.meridiano.com/?ed=beisbol-venezolano-lvbp-liga-venezolana-beisbol-profesional
+RewriteCond %{QUERY_STRING} (^|&)ed=beisbol-venezolano-lvbp-liga-venezolana-beisbol-profesional(&|$)
+RewriteRule ^$ - [G,L]
+
+# 7) https://www.meridiano.com/?ed=colombianos-grandes-ligas-mlb"f=20210627
+RewriteCond %{QUERY_STRING} (^|&)ed=colombianos-grandes-ligas-mlb("f=20210627|%22f=20210627)?(&|$)?
+RewriteRule ^$ - [G,L]
+
+# --- Parámetros "blackhole" ---
+RewriteCond %{QUERY_STRING} ^blackhole=2dcb000cfb$
+RewriteRule ^$ - [G,L]
+
+RewriteCond %{QUERY_STRING} ^blackhole=5bb008ce68$
+RewriteRule ^$ - [G,L]
+
+# --- Ediciones MLB noticias ---
+RewriteCond %{QUERY_STRING} ^ed=mlb-noticias-20210319$
+RewriteRule ^$ - [G,L]
+
+RewriteCond %{QUERY_STRING} ^ed=mlb-noticias-20210429$
+RewriteRule ^$ - [G,L]
+
+RewriteCond %{QUERY_STRING} ^ed=mlb-noticias-20210520$
+RewriteRule ^$ - [G,L]
+
+RewriteCond %{QUERY_STRING} ^ed=mlb-noticias-20210612$
+RewriteRule ^$ - [G,L]
+
+RewriteCond %{QUERY_STRING} ^ed=mlb-noticias-20210710$
+RewriteRule ^$ - [G,L]
+
+# --- Ediciones México ---
+RewriteCond %{QUERY_STRING} ^ed=mx-lmb-noticias-20210216$
+RewriteRule ^$ - [G,L]
+
+RewriteCond %{QUERY_STRING} ^ed=mx-lmp-noticias-20210224$
+RewriteRule ^$ - [G,L]
+
+# --- Peticiones directas a index.php?ed=... ---
+RewriteCond %{THE_REQUEST} \s/index\.php\?ed=mlb-noticias-20210319
+RewriteRule ^index\.php$ - [G,L]
+
+RewriteCond %{THE_REQUEST} \s/index\.php\?ed=mlb-noticias-20210429
+RewriteRule ^index\.php$ - [G,L]
+
+RewriteCond %{THE_REQUEST} \s/index\.php\?ed=mlb-noticias-20210710
+RewriteRule ^index\.php$ - [G,L]
+
+
+# --- URLs LIMPIAS SIN QUERY STRING (mod_alias) ---
+Redirect 410 /table-block/
+Redirect 410 /amet-purus-bravida-quisblandit-turpis-mursus/
+Redirect 410 /congue-quisque-egestas-diam-arcu-euismod/
+Redirect 410 /massa-sapien-faucibus-etmolestie-phasellus/
+Redirect 410 /ornare-arcu-duivivamus-arcu-felis-bibendum/
+Redirect 410 /science/
+Redirect 410 /tag/breaking/

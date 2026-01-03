@@ -1,0 +1,43 @@
+<?php
+// Listas de categorías y etiquetas especiales para gestión administrativa
+return [
+    'categories' => [
+        'Bateadores Históricos',
+        'Hazañas Individuales',
+        'Historia del Beisbol Venezolano',
+        'Lanzadores Históricos',
+        'LVBP',
+        'Managers Históricos',
+        'Resumen Diario',
+        'Resumen Mensual',
+        'Resumen Semanal',
+        'Round Robin',
+        'Salón de la Fama del Beisbol Venezolano',
+        'Serie del Caribe',
+        'Venezuela',
+        'Serie de las Américas',
+        'Béisbol Internacional',
+    ],
+    'tags' => [
+        '"La Final" 2025-26',
+        '500 hits en la LVBP',
+        'Artículo Patrocinado',
+        'Artículos Destacados',
+        'CBPC',
+        'Draft de Refuerzos',
+        'Juego de 3 jonrones',
+        'Jugador de la Semana',
+        'Jugador del Mes',
+        'Jugador Más Valioso',
+        'Novato del Año',
+        'Resumen Diario',
+        'Resumen Mensual',
+        'Resumen Semanal',
+        'Round Robin 2025-26',
+        'Serie de Comodín 2025-26',
+        'Serie del Caribe 2026',
+        'Tabla de Posiciones',
+        'Serie de las Américas 2026',
+        'Ausencia de Venezuela',
+    ]
+];

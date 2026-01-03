@@ -1,0 +1,69 @@
+/* header_custom.css - Ajustes personalizados para el header */
+
+/* Reducir altura del header en todas las pantallas */
+header.masthead {
+    padding-top: 4rem !important;
+    padding-bottom: 3rem !important;
+    margin-bottom: 2rem !important;
+}
+
+/* Limitar ancho del header al contenedor y añadir padding lateral */
+header.masthead {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Limitar ancho del navbar para que coincida con el header */
+#mainNav .container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Ajustes para tablet y móvil */
+@media (max-width: 991px) {
+    header.masthead {
+        padding-top: 3rem !important;
+        padding-bottom: 2rem !important;
+    }
+
+    header.masthead .site-heading h1 {
+        font-size: 2rem !important;
+    }
+
+    header.masthead .site-heading .subheading {
+        font-size: 1rem !important;
+    }
+}
+
+/* Ajustes para móvil pequeño */
+@media (max-width: 576px) {
+    header.masthead {
+        padding-top: 8rem !important;
+        padding-bottom: 2rem !important;
+        min-height: 200px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    header.masthead .site-heading h1 {
+        font-size: 1.8rem !important;
+    }
+
+    header.masthead .site-heading .subheading {
+        font-size: 1rem !important;
+    }
+}
+
+/* Desktop: reducir altura también */
+@media (min-width: 992px) {
+    header.masthead {
+        padding-top: 6rem !important;
+        padding-bottom: 4rem !important;
+    }
+}

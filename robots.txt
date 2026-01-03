@@ -1,0 +1,10 @@
+﻿User-agent: *
+Disallow: /assets/
+Disallow: /css/
+Disallow: /js/
+
+# Permitir indexar el contenido accesible vía URLs limpias
+Allow: /
+
+# Sitemap XML
+Sitemap: https://www.meridiano.com/sitemap.xml
