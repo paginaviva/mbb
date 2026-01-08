@@ -110,7 +110,15 @@ function render_seccion($config)
     // Config variables for header_secciones.php (based on header_common.php)
     $site_h1 = $config['CABECERA']['titulo'];
     $site_subheading = $config['CABECERA']['subtitulo'] ?? '';
-    $masthead_bg = isset($config['CABECERA']['imagen_fondo']) ? SITE_URL . $config['CABECERA']['imagen_fondo'] : '';
+    // Validación defensiva: evitar doble dominio si imagen_fondo ya es URL absoluta
+    $imagen_fondo_raw = $config['CABECERA']['imagen_fondo'] ?? '';
+    if (preg_match('/^https?:\/\//i', $imagen_fondo_raw)) {
+        // Ya es URL absoluta, no concatenar SITE_URL
+        $masthead_bg = $imagen_fondo_raw;
+    } else {
+        // Ruta relativa, añadir SITE_URL
+        $masthead_bg = isset($config['CABECERA']['imagen_fondo']) ? SITE_URL . $config['CABECERA']['imagen_fondo'] : '';
+    }
 
     // SEO
     $page_title = $config['SEO']['meta_title'] ?? $site_h1;
@@ -119,6 +127,11 @@ function render_seccion($config)
     // OG Tags
     $og_title = $page_title;
     $og_description = $page_description;
+    // Construir URL canónica de la sección usando su slug
+    $seccion_slug = $config['IDENTIDAD']['slug'] ?? '';
+    if ($seccion_slug) {
+        $og_url = SITE_URL . 'seccion/' . $seccion_slug . '.php';
+    }
     if ($masthead_bg) {
         $og_image = $masthead_bg;
     }
@@ -204,11 +217,19 @@ function render_seccion($config)
                             <p class="mb-0">No hay contenido disponible con estos criterios en esta sección.</p>
                         </div>
                     <?php else: ?>
-                        <?php foreach ($final_posts as $post): ?>
+                        <?php foreach ($final_posts as $post): 
+                            // Validación defensiva: evitar doble dominio si la URL ya es absoluta
+                            $link_url = $post['url'];
+                            if (!preg_match('/^https?:\/\//i', $link_url)) {
+                                // URL relativa, necesita ../ para subir desde /seccion/
+                                $link_url = '../' . $link_url;
+                            }
+                        ?>
                             <article class="post-item mb-5 border-bottom pb-4">
                                 <div class="post-header">
                                     <h3 class="post-title h4 mb-2">
-                                        <a href="../<?php echo $post['url']; ?>"
+                                        <a href="<?php echo htmlspecialchars($link_url, ENT_QUOTES, 'UTF-8'); ?>"
+                                            target="_blank"
                                             class="text-decoration-none text-dark hover-primary">
                                             <?php echo $post['title']; ?>
                                         </a>
