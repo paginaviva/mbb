@@ -1,0 +1,229 @@
+﻿❌ ARCHIVOS CON FECHAS INCORRECTAS
+--------------------------------------------------------------------------------
+
+📄 cardenales-9-5-bravos-acuna-castiga-temprano-lara-barre-cima.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 15/01/26
+       Contexto: ection class="meridiano-bloque-cuerpo"> <p><em>15/01/26 – Round Robin de la LVBP, Estadio Antonio Herre
+
+
+📄 caribes-vuelta-0-5-cuatro-jonrones-relevo-magallanes.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 12/01/26
+       Contexto: class="meridiano-bloque-cuerpo"> <p>El <strong>12/01/26</strong>, en un Round Robin donde cada out pesa c
+
+
+📄 enero-libreto-round-robin-final-23-enero.php
+   Ocurrencias: 6
+   ----------------------------------------------------------------------
+   [0] Fecha: 02/01/2026
+       Contexto: escription = 'El Round Robin de la LVBP inicia el 02/01/2026 con cinco equipos y 16 juegos por club; la Serie
+
+   [1] Fecha: 02/01/2026
+       Contexto: 01'; $twitter_description = 'Round Robin desde el 02/01/2026, cinco equipos, 16 juegos por club. La Final inic
+
+   [2] Fecha: 02/01/2026
+       Contexto: escription = 'El Round Robin de la LVBP inicia el 02/01/2026 con cinco equipos y 16 juegos por club; la Serie
+
+   [3] Fecha: 02/01/2026
+       Contexto: l <strong>Round Robin</strong> empieza el <strong>02/01/2026</strong> y la <strong>Serie Final</strong> está
+
+   [4] Fecha: 23/01/2026
+       Contexto: al</strong> está pautada para iniciar el <strong>23/01/2026</strong>, a un máximo de siete juegos.</p> <p
+
+   [5] Fecha: 23/01/2026
+       Contexto: </strong> está prevista para comenzar el <strong>23/01/2026</strong> y se juega al mejor de siete: <strong>cu
+
+
+📄 lvbp-fecha-regreso-round-robin-07-01.php
+   Ocurrencias: 3
+   ----------------------------------------------------------------------
+   [0] Fecha: 07/01/26
+       Contexto: la LVBP fijó oficialmente el <strong>miércoles 07/01/26</strong> como fecha de reanudación del Round Rob
+
+   [1] Fecha: 07/01/26
+       Contexto: <p>La Junta Directiva informó que el <strong>07/01/26</strong> será el punto de reinicio del Round Rob
+
+   [2] Fecha: 07/01/26
+       Contexto: co escrito en piedra es que el <strong>miércoles 07/01/26</strong> vuelve a rodar la pelota del Round Robin
+
+
+📄 magallanes-10-4-aguilas-remontada-poder-noche-monumental.php
+   Ocurrencias: 2
+   ----------------------------------------------------------------------
+   [0] Fecha: 15/01/26
+       Contexto: st_author = 'Redacción Meridiano'; $post_date = '15/01/26'; $masthead_bg = rtrim(SITE_URL, '/') . '/assets/
+
+   [1] Fecha: 15/01/26
+       Contexto: ection class="meridiano-bloque-cuerpo"> <p><em>15/01/26 – Round Robin de la LVBP, Estadio Monumental Si
+
+
+📄 magallanes-alerta-lesion-yasiel-puig.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 15/01/26
+       Contexto: st_author = 'Redacción Meridiano'; $post_date = '15/01/26'; $masthead_bg = rtrim(SITE_URL, '/') . '/assets/
+
+
+📄 mercado-leones-lista-extraoficial-draft-postemporada.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 02/01/2026
+       Contexto: strong>Round Robin</strong> arrancando el <strong>02/01/2026</strong>, comenzó a circular una <strong>lista e
+
+
+📄 palmisano-traza-ruta-mas-sedes-lvbp-vitrina-internacional.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 15/01/26
+       Contexto: st_author = 'Redacción Meridiano'; $post_date = '15/01/26'; $masthead_bg = rtrim(SITE_URL, '/') . '/assets/
+
+
+📄 reestructuracion-marcha-lvbp-mueve-piezas-equipos-hablaran-redes.php
+   Ocurrencias: 3
+   ----------------------------------------------------------------------
+   [0] Fecha: 04/01/26
+       Contexto: nd Robin.</li> <li>El comunicado del <strong>04/01/26</strong> fija la reanudación y deja claro que el
+
+   [1] Fecha: 04/01/26
+       Contexto: ornadas pospuestas. Por eso, en su comunicado del 04/01/26, la <strong>LVBP</strong> no se limitó a decir c
+
+   [2] Fecha: 04/01/26
+       Contexto: o rol de juegos publicado, pero el comunicado del 04/01/26 deja claro que el calendario original quedó desf
+
+
+📄 resurgir-pitcheo-caribes-liderar-round-robin.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 15/01/26
+       Contexto: st_author = 'Redacción Meridiano'; $post_date = '15/01/26'; $masthead_bg = rtrim(SITE_URL, '/') . '/assets/
+
+
+📄 ruta-tv-round-robin-fechas-rivales-como-verlo.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 2/01/2026
+       Contexto: >.</li> <li>El calendario arranca el <strong>2/01/2026, 7:00 p. m., con Caribes vs Cardenales</strong> d
+       
+       ❌ ARCHIVOS CON FECHAS INCORRECTAS
+--------------------------------------------------------------------------------
+
+📄 13-dic-fecha-bisagra-lvbp-cuota-importados.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 13/12/2025
+       Contexto: > <p>La regla establece que <strong>después del 13/12/2025 ningún equipo podrá reducir el número de jugad
+
+
+📄 antonio-pinero-rendimiento-lesion-uso-alineacion.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 30/12/2025
+       Contexto: style="border:1px solid #ccc;padding:8px;">Perfil 30/12/2025</td> <td style="border:1px solid #ccc;padd
+
+
+📄 bravos-afianza-tigres-responde-tabla-rojo-vivo.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 03/12/25
+       Contexto: col-lg-8 col-xl-7"> <p><em>Fecha: 03/12/25</em></p> <p>La más reciente jornada de la LVBP d
+
+
+📄 hernan-perez-corazon-ofensivo-caribes-apuntan-cima.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 05/12/25
+       Contexto: l-lg-8 col-xl-7"> <p><em>Caracas, 05/12/25</em></p> <h2>De refuerzo a referencia absoluta
+
+
+📄 jose-pirela-leyenda-segundo-impulsador-aguilas-zulia.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 05/12/25
+       Contexto: l-lg-8 col-xl-7"> <p><em>Caracas, 05/12/25</em></p> <h2>Un Grand Slam que lo cambió todo
+
+
+📄 magallanes-primer-bate-encendido-promesa-refuerzos-importados.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 05/12/25
+       Contexto: l-lg-8 col-xl-7"> <p><em>Caracas, 05/12/25</em></p> <h2>Carlos Rodríguez, el tono alto d
+
+
+📄 mercado-leones-lista-extraoficial-draft-postemporada.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 08/12/2025
+       Contexto: requisito de haber estado activo hasta el <strong>08/12/2025</strong>, según el marco reglamentario citado al
+
+
+📄 noche-extrainnings-blanqueos-rachas-cruzadas-lvbp.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 02/12/25
+       Contexto: l-lg-8 col-xl-7"> <p><em>Caracas, 02/12/25</em></p> <p>La octava semana de la LVBP se abrió
+
+
+📄 odubel-herrera-turco-canje-sacude-recta-final-magallanes-tigres.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 14/12/2025
+       Contexto: nda eliminatoria. Y por eso el movimiento de este 14/12/2025 cayó con ruido de tribuna llena: <strong>Navegan
+
+
+📄 resumen-04-dic-remontada-zuliana-joya-mata-bravos-firmes-punta.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 4/12/25
+       Contexto: un pequeño partido de playoff. Y la jornada del 4/12/25 fue una prueba clara: cuatro duelos, cuatro histo
+
+
+📄 resumen-mes-diciembre-tabla-vuelta-ronda-regular-lvbp.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 29/12/25
+       Contexto: a el 27 de diciembre y publicada esta crónica el 29/12/25, la LVBP amanece con un tablero claro en números
+
+
+================================================================================
+RESUMEN: 11 archivos con problemas | 11 ocurrencias totales
+
+❌ ARCHIVOS CON FECHAS INCORRECTAS
+--------------------------------------------------------------------------------
+
+📄 apellido-acuna-jornada-lvbp.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 29/11/25
+       Contexto: 2> <p>Si algo dejó claro la jornada del <strong>29/11/25</strong> es que, mientras los Acuña estén en un
+
+
+📄 jornada-golpes-directos-tiburones-magallanes-tigres-lara.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 29/11/25
+       Contexto: <p>Si algo dejó claro la jornada del <strong>29/11/25</strong> es una fotografía muy clara de cómo vi
+
+
+📄 noche-golpes-autoridad-magallanes-enracha-tiburones-leones-puerto-cruz.php
+   Ocurrencias: 2
+   ----------------------------------------------------------------------
+   [0] Fecha: 28/11/25
+       Contexto: <p>La jornada del <strong>viernes 28/11/25</strong> fue de esas que mueven piezas importante
+
+   [1] Fecha: 28/11/25
+       Contexto: se complican</h2> <p>Si algo dejó la noche del 28/11/25 es la sensación de que <strong>las tendencias em
+
+
+📄 tres-jonrones-21-heroes-leyenda-pendiente-hazana-casi-nadie-logra-venezuela.php
+   Ocurrencias: 1
+   ----------------------------------------------------------------------
+   [0] Fecha: 14/11/2025
+       Contexto: ual de una gesta que agranda la lista</h2> <p>El 14/11/2025, <strong>Bravos 7–3 Cardenales</strong> en Barq
+
+
+================================================================================
+RESUMEN: 4 archivos con problemas | 5 ocurrencias totales
+================================================================================

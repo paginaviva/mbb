@@ -1,0 +1,55 @@
+[2026-01-18 17:06:23] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:06:23] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:06:23] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:08:19] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:08:19] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:08:19] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:08:19] [SESSION] [IP: CLI] === FIN DE SESIÓN ===
+[2026-01-18 17:10:28] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:10:28] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:10:28] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:10:28] [SESSION] [IP: CLI] === FIN DE SESIÓN ===
+[2026-01-18 17:10:28] [INFO] [IP: CLI] Test de logging - INFO
+[2026-01-18 17:10:28] [EXITO] [IP: CLI] Test de logging - EXITO
+[2026-01-18 17:10:28] [WARNING] [IP: CLI] Test de logging - WARNING
+[2026-01-18 17:10:28] [ERROR] [IP: CLI] Test de logging - ERROR
+[2026-01-18 17:14:34] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:14:34] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:14:34] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:14:34] [SESSION] [IP: CLI] === FIN DE SESIÓN ===
+[2026-01-18 17:14:34] [INFO] [IP: CLI] Test de logging - INFO
+[2026-01-18 17:14:34] [EXITO] [IP: CLI] Test de logging - EXITO
+[2026-01-18 17:14:34] [WARNING] [IP: CLI] Test de logging - WARNING
+[2026-01-18 17:14:34] [ERROR] [IP: CLI] Test de logging - ERROR
+[2026-01-18 17:14:38] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:14:38] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:14:38] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:14:38] [SESSION] [IP: CLI] === FIN DE SESIÓN ===
+[2026-01-18 17:14:47] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:14:47] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:14:47] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:14:47] [SESSION] [IP: CLI] === FIN DE SESIÓN ===
+[2026-01-18 17:14:50] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:14:50] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:14:50] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:14:50] [SESSION] [IP: CLI] === FIN DE SESIÓN ===
+[2026-01-18 17:14:53] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:14:53] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:14:53] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:14:53] [SESSION] [IP: CLI] === FIN DE SESIÓN ===
+[2026-01-18 17:14:53] [INFO] [IP: CLI] Test de logging - INFO
+[2026-01-18 17:14:53] [EXITO] [IP: CLI] Test de logging - EXITO
+[2026-01-18 17:14:53] [WARNING] [IP: CLI] Test de logging - WARNING
+[2026-01-18 17:14:53] [ERROR] [IP: CLI] Test de logging - ERROR
+[2026-01-18 17:31:32] [SESSION] [IP: CLI] === INICIO DE SESIÓN ===
+[2026-01-18 17:31:32] [INFO] [IP: CLI] Fase actual: escaneo
+[2026-01-18 17:31:32] [INFO] [IP: CLI] ESCANEO COMPLETADO: 299 archivos, 23 fechas detectadas
+[2026-01-18 17:31:32] [INFO] [IP: CLI]   Noviembre 2025: 4 cambios
+[2026-01-18 17:31:32] [INFO] [IP: CLI]   Diciembre 2025: 11 cambios
+[2026-01-18 17:31:32] [INFO] [IP: CLI]   Enero 2026: 8 cambios
+[2026-01-18 17:31:32] [INFO] [IP: CLI] Etapa 2: Escaneo e Identificación - COMPLETADA
+[2026-01-18 17:31:32] [SESSION] [IP: CLI] === FIN DE SESIÓN ===
+[2026-01-18 17:31:32] [INFO] [IP: CLI] ESCANEO COMPLETADO: 299 archivos, 23 fechas detectadas
+[2026-01-18 17:31:32] [INFO] [IP: CLI]   Noviembre 2025: 4 cambios
+[2026-01-18 17:31:32] [INFO] [IP: CLI]   Diciembre 2025: 11 cambios
+[2026-01-18 17:31:32] [INFO] [IP: CLI]   Enero 2026: 8 cambios
