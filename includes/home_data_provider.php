@@ -235,7 +235,7 @@ function get_home_data() {
                 return mb_strtolower(trim($t), 'UTF-8'); 
             }, $post['tags']);
             
-            if (in_array('resumen diario la final', $tags_norm)) {
+            if (in_array('resumen diario la final', $tags_norm) || in_array('resumen diario round robin', $tags_norm)) {
                 $la_final_summaries[] = $post;
             }
         }
