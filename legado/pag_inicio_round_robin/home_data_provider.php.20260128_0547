@@ -223,27 +223,24 @@ function get_home_data() {
         }
     }
 
-    // --- Lógica Bloque A (La Final) ---
-    // Obtener posts con etiqueta "resumen diario la final"
-    // - latest_two: Los 2 más recientes para "La Final Ayer"
-    // - others: Los siguientes 4 para "Otros Juegos La Final"
-    $la_final_summaries = [];
+    // --- Lógica Bloque A (Round Robin) ---
+    // Obtener posts con etiqueta "resumen diario round robin"
+    // - latest_two: Los 2 más recientes para "Round Robin Ayer"
+    // - others: Los siguientes 4 para "Otros Juegos Round Robin"
+    $round_robin_summaries = [];
     foreach ($sorted_posts as $slug => $post) {
         $post = enrich_post($post, $slug);
         if (isset($post['tags']) && is_array($post['tags'])) {
-            $tags_norm = array_map(function($t) { 
-                return mb_strtolower(trim($t), 'UTF-8'); 
-            }, $post['tags']);
-            
-            if (in_array('resumen diario la final', $tags_norm)) {
-                $la_final_summaries[] = $post;
+            $tags_norm = array_map(function($t) { return mb_strtolower(trim($t), 'UTF-8'); }, $post['tags']);
+            if (in_array('resumen diario round robin', $tags_norm)) {
+                $round_robin_summaries[] = $post;
             }
         }
     }
     
     // Separar en 2 grupos
-    $data['block_a']['latest_two'] = array_slice($la_final_summaries, 0, 2);
-    $data['block_a']['others'] = array_slice($la_final_summaries, 2, 4);
+    $data['block_a']['latest_two'] = array_slice($round_robin_summaries, 0, 2);
+    $data['block_a']['others'] = array_slice($round_robin_summaries, 2, 4);
 
     // --- Lógica Artículo Patrocinado ---
     // Buscar posts con etiqueta "Artículo Patrocinado" (comparación normalizada)

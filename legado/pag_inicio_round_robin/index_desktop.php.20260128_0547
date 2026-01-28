@@ -97,13 +97,13 @@ if (file_exists($botones_secciones_path)) {
 
     <!-- ORDEN DESKTOP: Mantener original con grid-areas -->
 
-    <!-- BLOQUE A: La Final Ayer -->
+    <!-- BLOQUE A: Round Robin Ayer -->
     <?php if (!empty($home_data['block_a']['latest_two']) || !empty($home_data['block_a']['others'])): ?>
-        <section id="block-la-final-desktop" class="home-block-desktop">
+        <section id="block-round-robin-desktop" class="home-block-desktop">
 
             <!-- 2 Últimos Posts -->
             <?php if (!empty($home_data['block_a']['latest_two'])): ?>
-                <div class="block-title-desktop">La Final Ayer</div>
+                <div class="block-title-desktop">Round Robin Ayer</div>
                 <ul class="post-list-small-desktop">
                     <?php foreach ($home_data['block_a']['latest_two'] as $post): ?>
                         <li>
@@ -118,7 +118,7 @@ if (file_exists($botones_secciones_path)) {
 
             <!-- 4 Posts Adicionales -->
             <?php if (!empty($home_data['block_a']['others'])): ?>
-                <div class="block-title-desktop mt-4">Otros Juegos La Final</div>
+                <div class="block-title-desktop mt-4">Otros Juegos Round Robin</div>
                 <ul class="post-list-small-desktop">
                     <?php foreach ($home_data['block_a']['others'] as $post): ?>
                         <li>

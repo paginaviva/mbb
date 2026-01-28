@@ -95,10 +95,10 @@ if (file_exists($botones_secciones_path)) {
 
     <!-- ORDEN MÓVIL: A → B+C → E → D → Botón -->
 
-    <!-- BLOQUE A: Round Robin Ayer (2 posts) -->
+    <!-- BLOQUE A: La Final Ayer (2 posts) -->
     <?php if (!empty($home_data['block_a']['latest_two'])): ?>
-        <section id="block-round-robin-mobile" class="home-block-mobile">
-            <div class="block-title-mobile">Round Robin Ayer</div>
+        <section id="block-la-final-mobile" class="home-block-mobile">
+            <div class="block-title-mobile">La Final Ayer</div>
             <ul class="post-list-small-mobile">
                 <?php foreach ($home_data['block_a']['latest_two'] as $post): ?>
                     <li>
@@ -176,10 +176,10 @@ if (file_exists($botones_secciones_path)) {
         </section>
     <?php endif; ?>
 
-    <!-- BLOQUE: Otros Juegos Round Robin -->
+    <!-- BLOQUE: Otros Juegos La Final -->
     <?php if (!empty($home_data['block_a']['others'])): ?>
-        <section id="block-other-round-robin-mobile" class="home-block-mobile">
-            <div class="block-title-mobile">Otros Juegos Round Robin</div>
+        <section id="block-other-la-final-mobile" class="home-block-mobile">
+            <div class="block-title-mobile">Otros Juegos La Final</div>
             <ul class="post-list-small-mobile">
                 <?php foreach ($home_data['block_a']['others'] as $post): ?>
                     <li>

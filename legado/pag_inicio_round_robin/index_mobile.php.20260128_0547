@@ -1,5 +1,5 @@
 <?php
-// index_desktop.php - Versión DESKTOP
+// index_mobile.php - Versión MÓVIL/TABLET
 include 'header_index.php';
 include 'includes/home_data_provider.php';
 
@@ -7,8 +7,8 @@ include 'includes/home_data_provider.php';
 $home_data = get_home_data();
 ?>
 
-<!-- CSS SOLO DESKTOP -->
-<link href="css/home_desktop.css" rel="stylesheet" />
+<!-- CSS SOLO MÓVIL -->
+<link href="css/home_mobile.css" rel="stylesheet" />
 
 <!-- Estilos para Artículo Patrocinado -->
 <style>
@@ -17,10 +17,8 @@ $home_data = get_home_data();
         /* Amarillo claro */
         border: 3px solid #f57f17;
         /* Marco naranja oscuro */
-        padding: 20px;
-        margin: 20px auto;
-        max-width: 1140px;
-        /* Mismo ancho que grid */
+        padding: 15px;
+        margin: 15px 10px;
         border-radius: 8px;
     }
 
@@ -93,55 +91,35 @@ if (file_exists($botones_secciones_path)) {
     </div>
 <?php endif; ?>
 
-<div class="home-grid-container-desktop">
+<div class="home-grid-container-mobile">
 
-    <!-- ORDEN DESKTOP: Mantener original con grid-areas -->
+    <!-- ORDEN MÓVIL: A → B+C → E → D → Botón -->
 
-    <!-- BLOQUE A: La Final Ayer -->
-    <?php if (!empty($home_data['block_a']['latest_two']) || !empty($home_data['block_a']['others'])): ?>
-        <section id="block-la-final-desktop" class="home-block-desktop">
-
-            <!-- 2 Últimos Posts -->
-            <?php if (!empty($home_data['block_a']['latest_two'])): ?>
-                <div class="block-title-desktop">La Final Ayer</div>
-                <ul class="post-list-small-desktop">
-                    <?php foreach ($home_data['block_a']['latest_two'] as $post): ?>
-                        <li>
-                            <a href="<?php echo $post['url']; ?>" target="_blank"
-                                onclick="trackHomeClick('yesterday_latest', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', 0)">
-                                <?php echo htmlspecialchars($post['title']); ?>
-                            </a>
-                        </li>
-                    <?php endforeach; ?>
-                </ul>
-            <?php endif; ?>
-
-            <!-- 4 Posts Adicionales -->
-            <?php if (!empty($home_data['block_a']['others'])): ?>
-                <div class="block-title-desktop mt-4">Otros Juegos La Final</div>
-                <ul class="post-list-small-desktop">
-                    <?php foreach ($home_data['block_a']['others'] as $post): ?>
-                        <li>
-                            <a href="<?php echo $post['url']; ?>" target="_blank"
-                                onclick="trackHomeClick('yesterday_others', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', 0)">
-                                <?php echo htmlspecialchars($post['title']); ?>
-                            </a>
-                        </li>
-                    <?php endforeach; ?>
-                </ul>
-            <?php endif; ?>
-
+    <!-- BLOQUE A: Round Robin Ayer (2 posts) -->
+    <?php if (!empty($home_data['block_a']['latest_two'])): ?>
+        <section id="block-round-robin-mobile" class="home-block-mobile">
+            <div class="block-title-mobile">Round Robin Ayer</div>
+            <ul class="post-list-small-mobile">
+                <?php foreach ($home_data['block_a']['latest_two'] as $post): ?>
+                    <li>
+                        <a href="<?php echo $post['url']; ?>" target="_blank"
+                            onclick="trackHomeClick('yesterday_latest', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', 0)">
+                            <?php echo htmlspecialchars($post['title']); ?>
+                        </a>
+                    </li>
+                <?php endforeach; ?>
+            </ul>
         </section>
     <?php endif; ?>
 
     <!-- BLOQUE B+C: Lo más reciente -->
     <?php if (!empty($home_data['block_b']) || !empty($home_data['block_c'])): ?>
-        <section id="block-latest-desktop" class="home-block-desktop">
-            <div class="block-title-desktop">Lo más reciente</div>
-            <div class="latest-news-grid-desktop">
+        <section id="block-latest-mobile" class="home-block-mobile">
+            <div class="block-title-mobile">Lo más reciente</div>
+            <div class="latest-news-grid-mobile">
                 <?php $pos = 1;
                 foreach ($home_data['block_b'] as $post): ?>
-                    <article class="latest-card-desktop">
+                    <article class="latest-card-mobile">
                         <a href="<?php echo $post['url']; ?>" target="_blank"
                             onclick="trackHomeClick('latest', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', <?php echo $pos; ?>)">
                             <h2><?php echo $post['title']; ?></h2>
@@ -152,7 +130,7 @@ if (file_exists($botones_secciones_path)) {
 
                 <!-- Block C merged here -->
                 <?php foreach ($home_data['block_c'] as $post): ?>
-                    <article class="latest-card-desktop">
+                    <article class="latest-card-mobile">
                         <a href="<?php echo $post['url']; ?>" target="_blank"
                             onclick="trackHomeClick('last_articles', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', <?php echo $pos; ?>)">
                             <h2><?php echo $post['title']; ?></h2>
@@ -164,13 +142,30 @@ if (file_exists($botones_secciones_path)) {
         </section>
     <?php endif; ?>
 
+    <!-- BLOQUE E: Historias destacadas -->
+    <?php if (!empty($home_data['block_e'])): ?>
+        <section id="block-featured-mobile" class="home-block-mobile">
+            <div class="block-title-mobile">Historias destacadas LVBP</div>
+            <?php $pos = 1;
+            foreach ($home_data['block_e'] as $post): ?>
+                <div class="vertical-list-item-mobile">
+                    <a href="<?php echo $post['url']; ?>" target="_blank"
+                        onclick="trackHomeClick('featured_stories', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', <?php echo $pos; ?>)">
+                        <h3><?php echo $post['title']; ?></h3>
+                    </a>
+                </div>
+            <?php $pos++;
+            endforeach; ?>
+        </section>
+    <?php endif; ?>
+
     <!-- BLOQUE D: Resúmenes Semanales -->
     <?php if (!empty($home_data['block_d'])): ?>
-        <section id="block-summaries-desktop" class="home-block-desktop">
-            <div class="block-title-desktop">Resúmenes Semanales LVBP</div>
+        <section id="block-summaries-mobile" class="home-block-mobile">
+            <div class="block-title-mobile">Resúmenes Semanales LVBP</div>
             <?php $pos = 1;
             foreach ($home_data['block_d'] as $post): ?>
-                <div class="vertical-list-item-desktop">
+                <div class="vertical-list-item-mobile">
                     <a href="<?php echo $post['url']; ?>" target="_blank"
                         onclick="trackHomeClick('league_summaries', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', <?php echo $pos; ?>)">
                         <h4><?php echo $post['title']; ?></h4>
@@ -181,20 +176,20 @@ if (file_exists($botones_secciones_path)) {
         </section>
     <?php endif; ?>
 
-    <!-- BLOQUE E: Historias destacadas -->
-    <?php if (!empty($home_data['block_e'])): ?>
-        <section id="block-featured-desktop" class="home-block-desktop">
-            <div class="block-title-desktop">Historias destacadas LVBP</div>
-            <?php $pos = 1;
-            foreach ($home_data['block_e'] as $post): ?>
-                <div class="vertical-list-item-desktop">
-                    <a href="<?php echo $post['url']; ?>" target="_blank"
-                        onclick="trackHomeClick('featured_stories', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', <?php echo $pos; ?>)">
-                        <h3><?php echo $post['title']; ?></h3>
-                    </a>
-                </div>
-            <?php $pos++;
-            endforeach; ?>
+    <!-- BLOQUE: Otros Juegos Round Robin -->
+    <?php if (!empty($home_data['block_a']['others'])): ?>
+        <section id="block-other-round-robin-mobile" class="home-block-mobile">
+            <div class="block-title-mobile">Otros Juegos Round Robin</div>
+            <ul class="post-list-small-mobile">
+                <?php foreach ($home_data['block_a']['others'] as $post): ?>
+                    <li>
+                        <a href="<?php echo $post['url']; ?>" target="_blank"
+                            onclick="trackHomeClick('yesterday_others', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', 0)">
+                            <?php echo htmlspecialchars($post['title']); ?>
+                        </a>
+                    </li>
+                <?php endforeach; ?>
+            </ul>
         </section>
     <?php endif; ?>
 
