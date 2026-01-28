@@ -177,21 +177,21 @@ if (file_exists($botones_secciones_path)) {
     <?php endif; ?>
 
     <!-- BLOQUE: Otros Juegos La Final -->
-    <?php if (!empty($home_data['block_a']['others'])): ?>
         <section id="block-other-la-final-mobile" class="home-block-mobile">
             <div class="block-title-mobile">Otros Juegos La Final</div>
             <ul class="post-list-small-mobile">
-                <?php foreach ($home_data['block_a']['others'] as $post): ?>
-                    <li>
-                        <a href="<?php echo $post['url']; ?>" target="_blank"
-                            onclick="trackHomeClick('yesterday_others', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', 0)">
-                            <?php echo htmlspecialchars($post['title']); ?>
-                        </a>
-                    </li>
-                <?php endforeach; ?>
+                <?php if (!empty($home_data['block_a']['others'])): ?>
+                    <?php foreach ($home_data['block_a']['others'] as $post): ?>
+                        <li>
+                            <a href="<?php echo $post['url']; ?>" target="_blank"
+                                onclick="trackHomeClick('yesterday_others', '<?php echo $post['id']; ?>', '<?php echo addslashes($post['title']); ?>', '<?php echo $post['category']; ?>', 0)">
+                                <?php echo htmlspecialchars($post['title']); ?>
+                            </a>
+                        </li>
+                    <?php endforeach; ?>
+                <?php endif; ?>
             </ul>
         </section>
-    <?php endif; ?>
 
     <!-- Botón Más Artículos -->
     <div class="text-center my-4">

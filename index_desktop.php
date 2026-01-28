@@ -98,10 +98,9 @@ if (file_exists($botones_secciones_path)) {
     <!-- ORDEN DESKTOP: Mantener original con grid-areas -->
 
     <!-- BLOQUE A: La Final Ayer -->
-    <?php if (!empty($home_data['block_a']['latest_two']) || !empty($home_data['block_a']['others'])): ?>
         <section id="block-la-final-desktop" class="home-block-desktop">
 
-            <!-- 2 Últimos Posts -->
+            <!-- Último Post (máx. 1) -->
             <?php if (!empty($home_data['block_a']['latest_two'])): ?>
                 <div class="block-title-desktop">La Final Ayer</div>
                 <ul class="post-list-small-desktop">
@@ -116,10 +115,10 @@ if (file_exists($botones_secciones_path)) {
                 </ul>
             <?php endif; ?>
 
-            <!-- 4 Posts Adicionales -->
-            <?php if (!empty($home_data['block_a']['others'])): ?>
-                <div class="block-title-desktop mt-4">Otros Juegos La Final</div>
-                <ul class="post-list-small-desktop">
+            <!-- 4 Posts Adicionales (título siempre visible; lista vacía si no hay posts) -->
+            <div class="block-title-desktop mt-4">Otros Juegos La Final</div>
+            <ul class="post-list-small-desktop">
+                <?php if (!empty($home_data['block_a']['others'])): ?>
                     <?php foreach ($home_data['block_a']['others'] as $post): ?>
                         <li>
                             <a href="<?php echo $post['url']; ?>" target="_blank"
@@ -128,11 +127,10 @@ if (file_exists($botones_secciones_path)) {
                             </a>
                         </li>
                     <?php endforeach; ?>
-                </ul>
-            <?php endif; ?>
+                <?php endif; ?>
+            </ul>
 
         </section>
-    <?php endif; ?>
 
     <!-- BLOQUE B+C: Lo más reciente -->
     <?php if (!empty($home_data['block_b']) || !empty($home_data['block_c'])): ?>

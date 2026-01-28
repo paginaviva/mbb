@@ -225,8 +225,8 @@ function get_home_data() {
 
     // --- Lógica Bloque A (La Final) ---
     // Obtener posts con etiqueta "resumen diario la final"
-    // - latest_two: Los 2 más recientes para "La Final Ayer"
-    // - others: Los siguientes 4 para "Otros Juegos La Final"
+    // - latest_two: El 1 más reciente para "La Final Ayer"
+    // - others: Los siguientes 4 para "Otros Juegos La Final" (vacío si no hay posts La Final)
     $la_final_summaries = [];
     foreach ($sorted_posts as $slug => $post) {
         $post = enrich_post($post, $slug);
@@ -235,15 +235,16 @@ function get_home_data() {
                 return mb_strtolower(trim($t), 'UTF-8'); 
             }, $post['tags']);
             
-            if (in_array('resumen diario la final', $tags_norm) || in_array('resumen diario round robin', $tags_norm)) {
+            // Solo aceptar la etiqueta 'resumen diario la final' para este bloque
+            if (in_array('resumen diario la final', $tags_norm)) {
                 $la_final_summaries[] = $post;
             }
         }
     }
     
-    // Separar en 2 grupos
-    $data['block_a']['latest_two'] = array_slice($la_final_summaries, 0, 2);
-    $data['block_a']['others'] = array_slice($la_final_summaries, 2, 4);
+    // Separar en 1 + otros (others será vacío si no hay posts)
+    $data['block_a']['latest_two'] = array_slice($la_final_summaries, 0, 1);
+    $data['block_a']['others'] = array_slice($la_final_summaries, 1, 4);
 
     // --- Lógica Artículo Patrocinado ---
     // Buscar posts con etiqueta "Artículo Patrocinado" (comparación normalizada)
