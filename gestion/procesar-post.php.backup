@@ -1,0 +1,375 @@
+<?php
+include '../config.php';
+
+// Validar que se recibió el formulario
+if ($_SERVER['REQUEST_METHOD'] !== 'POST' || !isset($_POST['datos_documento'])) {
+    header('Location: crear-post-admin.php');
+    exit;
+}
+
+$datos_raw = $_POST['datos_documento'];
+$errores = [];
+
+// ============ PARSEAR EL BLOQUE [DATOS_DOCUMENTO] ============
+
+// Extractor de secciones mejorado
+function extraerSeccion($bloque, $nombre)
+{
+    // Buscar [NOMBRE] seguido de contenido hasta la siguiente sección de nivel similar
+    $secciones_conocidas = ['HEAD', 'CABECERA_VISUAL', 'CONTENIDO', 'CATEGORIAS', 'ETIQUETAS', 'DATOS_DOCUMENTO'];
+
+    // Crear patrón que busca [NOMBRE] y captura hasta la siguiente [SECCION_CONOCIDA]
+    $pattern = "/\[" . preg_quote($nombre) . "\]\s*(.*?)(?=\[(" . implode('|', $secciones_conocidas) . ")\]|$)/s";
+    if (preg_match($pattern, $bloque, $matches)) {
+        return trim($matches[1]);
+    }
+    return '';
+}
+
+// Extractor de campos mejorado - limpia URLs con corchetes
+function extraerCampo($texto, $campo)
+{
+    $pattern = "/" . preg_quote($campo) . ":\s*\[?(.+?)\]?(?=\n|$)/";
+    if (preg_match($pattern, $texto, $matches)) {
+        $valor = trim($matches[1]);
+        // Remover corchetes si quedaron al principio o final
+        $valor = trim($valor, '[]');
+        // Si el valor tiene formato de link markdown [texto](url), extraer la URL
+        if (preg_match('/\[(.+?)\]\((.+?)\)/', $valor, $link_matches)) {
+            $valor = $link_matches[2]; // Tomar la URL
+        }
+        return trim($valor);
+    }
+    return '';
+}
+
+// Extractor de campos multi-línea - captura hasta el siguiente campo o sección
+function extraerCampoMultilinea($texto, $campo)
+{
+    // Buscar el campo
+    $pattern = "/" . preg_quote($campo) . ":\s*/";
+    if (!preg_match($pattern, $texto, $matches, PREG_OFFSET_CAPTURE)) {
+        return '';
+    }
+
+    $inicio = $matches[0][1] + strlen($matches[0][0]);
+
+    // Buscar el final: siguiente campo (palabra seguida de :) o siguiente sección ([NOMBRE])
+    $patron_fin = "/\n(?:[A-Z][a-zA-Z]+:|\[)/";
+
+    if (preg_match($patron_fin, $texto, $fin_matches, PREG_OFFSET_CAPTURE, $inicio)) {
+        $longitud = $fin_matches[0][1] - $inicio;
+        $valor = substr($texto, $inicio, $longitud);
+    } else {
+        // Si no hay siguiente campo/sección, tomar hasta el final
+        $valor = substr($texto, $inicio);
+    }
+
+    return trim($valor);
+}
+
+
+// Extraer secciones principales
+$seccion_head = extraerSeccion($datos_raw, 'HEAD');
+$seccion_cabecera = extraerSeccion($datos_raw, 'CABECERA_VISUAL');
+$seccion_contenido = extraerSeccion($datos_raw, 'CONTENIDO');
+$seccion_categorias = extraerSeccion($datos_raw, 'CATEGORIAS');
+$seccion_etiquetas = extraerSeccion($datos_raw, 'ETIQUETAS');
+
+// ============ EXTRAER CAMPOS DE [HEAD] ============
+
+$nombre_archivo_html = extraerCampo($datos_raw, 'NombreArchivoHTML');
+$titulo_documento = extraerCampo($seccion_head, 'TituloDocumento');
+$meta_description = extraerCampo($seccion_head, 'MetaDescription');
+$og_image_url = extraerCampo($seccion_head, 'OgImage');
+$og_url = extraerCampo($seccion_head, 'OgUrl');
+$twitter_title = extraerCampo($seccion_head, 'TwitterTitle');
+$twitter_description = extraerCampo($seccion_head, 'TwitterDescription');
+$twitter_image_url = extraerCampo($seccion_head, 'TwitterImage');
+$autor_meta = extraerCampo($seccion_head, 'AutorMeta');
+
+// ============ EXTRAER CAMPOS DE [CABECERA_VISUAL] ============
+
+$imagen_fondo = extraerCampo($seccion_cabecera, 'ImagenFondo');
+$titulo_visible = extraerCampo($seccion_cabecera, 'TituloVisible');
+$subtitulo_visible = extraerCampoMultilinea($seccion_cabecera, 'SubtituloVisible');
+$autor_visible = extraerCampo($seccion_cabecera, 'AutorVisible');
+$fecha_visible = extraerCampo($seccion_cabecera, 'FechaVisible');
+
+// ============ EXTRAER CATEGORIAS Y ETIQUETAS ============
+
+$categorias_raw = trim($seccion_categorias);
+$etiquetas_raw = trim($seccion_etiquetas);
+
+// Limpiar caracteres especiales al final (corchetes, espacios)
+$categorias_raw = trim(rtrim($categorias_raw, ']\n'), " \t");
+$etiquetas_raw = trim(rtrim($etiquetas_raw, ']\n'), " \t");
+
+// Si hay corchetes sueltos al final, removerlos
+$categorias_raw = preg_replace('/[\[\]]+$/', '', $categorias_raw);
+$etiquetas_raw = preg_replace('/[\[\]]+$/', '', $etiquetas_raw);
+
+$categorias_array = array_filter(array_map('trim', explode(',', $categorias_raw)));
+$etiquetas_array = array_filter(array_map('trim', explode(',', $etiquetas_raw)));
+
+// Mantener compatibilidad: $category es la primera (principal), $categories son todas
+$category = $categorias_array[0] ?? '';
+$categories = $categorias_array; // Nueva variable para múltiples categorías
+$tags = $etiquetas_array;
+
+// ============ LIMPIEZA DE URLs ============
+
+// Remover formato markdown de URLs si está presente
+$og_image_url = preg_replace('/\[(.+?)\]\((.+?)\)/', '$2', $og_image_url);
+$twitter_image_url = preg_replace('/\[(.+?)\]\((.+?)\)/', '$2', $twitter_image_url);
+$og_url = preg_replace('/\[(.+?)\]\((.+?)\)/', '$2', $og_url);
+
+// ============ VALIDACIONES ============
+
+if (empty($nombre_archivo_html)) {
+    $errores[] = "NombreArchivoHTML es obligatorio.";
+}
+if (empty($titulo_documento)) {
+    $errores[] = "TituloDocumento es obligatorio.";
+}
+if (empty($meta_description)) {
+    $errores[] = "MetaDescription es obligatorio.";
+}
+if (empty($og_image_url)) {
+    $errores[] = "OgImage es obligatorio.";
+}
+if (empty($autor_meta)) {
+    $errores[] = "AutorMeta es obligatorio.";
+}
+if (empty($titulo_visible)) {
+    $errores[] = "TituloVisible (en [CABECERA_VISUAL]) es obligatorio.";
+}
+if (empty($subtitulo_visible)) {
+    $errores[] = "SubtituloVisible es obligatorio.";
+}
+if (empty($autor_visible)) {
+    $errores[] = "AutorVisible es obligatorio.";
+}
+if (empty($fecha_visible)) {
+    $errores[] = "FechaVisible es obligatorio.";
+}
+if (empty($seccion_contenido)) {
+    $errores[] = "[CONTENIDO] es obligatorio.";
+}
+if (empty($category)) {
+    $errores[] = "[CATEGORIAS] es obligatorio.";
+}
+if (empty($tags)) {
+    $errores[] = "[ETIQUETAS] es obligatorio.";
+}
+
+if (!empty($errores)) {
+    mostrarErrores($errores);
+}
+
+// ============ PROCESAR RUTAS DE IMÁGENES ============
+
+// Extraer nombre de imagen de URL completa
+function extraerNombreImagen($url)
+{
+    return basename($url);
+}
+
+$og_image_nombre = extraerNombreImagen($og_image_url);
+$twitter_image_nombre = extraerNombreImagen($twitter_image_url);
+
+// ============ CONVERTIR NOMBRE DE ARCHIVO A PHP SI ES NECESARIO ============
+
+if (!str_ends_with($nombre_archivo_html, '.php')) {
+    $nombre_archivo_php = str_replace('.html', '.php', $nombre_archivo_html);
+} else {
+    $nombre_archivo_php = $nombre_archivo_html;
+}
+
+// Usar ruta física completa: SITE_DIR + POST_DIR
+$ruta_post = SITE_DIR . ltrim(POST_DIR, '/') . $nombre_archivo_php;
+
+// Verificar que el directorio existe
+$dir_posts = dirname($ruta_post);
+if (!is_dir($dir_posts)) {
+    mostrarErrores(["El directorio de posts no existe: {$dir_posts}"]);
+}
+
+// Verificar que el directorio es escribible
+if (!is_writable($dir_posts)) {
+    mostrarErrores(["El directorio de posts no tiene permisos de escritura: {$dir_posts}"]);
+}
+
+// Verificar que el archivo no existe
+if (file_exists($ruta_post)) {
+    mostrarErrores(["El archivo {$nombre_archivo_php} ya existe."]);
+}
+
+// ============ LIMPIAR CONTENIDO HTML ============
+
+$contenido_html = trim($seccion_contenido);
+// Eliminar prefijo <html> si existe
+$contenido_html = preg_replace('/^<html[^>]*>/i', '', $contenido_html);
+$contenido_html = preg_replace('/<\/html>$/i', '', $contenido_html);
+
+// ============ GENERAR CONTENIDO DEL ARCHIVO PHP ============
+
+$codigo_php = "<?php
+include __DIR__ . '/../config.php';
+
+// [HEAD] - Metadatos para SEO y redes sociales
+\$page_title = " . var_export($titulo_documento, true) . ";
+\$og_type = \"article\";
+\$og_title = " . var_export($titulo_documento, true) . ";
+\$og_description = " . var_export($meta_description, true) . ";
+\$og_image = rtrim(SITE_URL, '/') . '/assets/img/" . htmlspecialchars($og_image_nombre) . "';
+\$og_url = rtrim(SITE_URL, '/') . '/post/" . htmlspecialchars($nombre_archivo_php) . "';
+\$og_site_name = OG_SITE_NAME;
+\$twitter_card = \"summary_large_image\";
+\$twitter_title = " . var_export($twitter_title, true) . ";
+\$twitter_description = " . var_export($twitter_description, true) . ";
+\$twitter_image = rtrim(SITE_URL, '/') . '/assets/img/" . htmlspecialchars($twitter_image_nombre) . "';
+\$page_description = " . var_export($meta_description, true) . ";
+\$page_author = " . var_export($autor_meta, true) . ";
+
+// [CABECERA_VISUAL] - Datos para el masthead y cabecera del post
+\$post_title = " . var_export($titulo_visible, true) . ";
+\$post_subtitle = " . var_export($subtitulo_visible, true) . ";
+\$post_author = " . var_export($autor_visible, true) . ";
+\$post_date = " . var_export($fecha_visible, true) . ";
+\$masthead_bg = rtrim(SITE_URL, '/') . '/assets/img/" . htmlspecialchars($imagen_fondo) . "';
+
+
+// [CATEGORIAS] y [ETIQUETAS] - Categorización del post
+\$category = " . var_export($category, true) . ";
+\$categories = " . var_export($categories, true) . ";
+\$tags = " . var_export($tags, true) . ";
+
+include __DIR__ . '/../header_common.php';
+?>
+<!-- Post Content-->
+<article class=\"mb-4\"> 
+    <div class=\"container px-4 px-lg-5\"> 
+        <div class=\"row gx-4 gx-lg-5 justify-content-center\"> 
+            <div class=\"col-md-10 col-lg-8 col-xl-7\"> 
+                " . $contenido_html . "
+            </div>
+        </div>
+    </div>
+</article>
+<?php include __DIR__ . '/../footer.php'; ?>
+";
+
+// ============ CREAR ARCHIVO DE POST ============
+
+try {
+    if (file_put_contents($ruta_post, $codigo_php) === false) {
+        mostrarErrores(["No se pudo crear el archivo {$nombre_archivo_php}."]);
+    }
+} catch (Exception $e) {
+    mostrarErrores(["Error al crear el archivo: " . $e->getMessage()]);
+}
+
+// ============ REGENERAR MANIFIESTO (DESACTIVADO AUTO) ============
+// El manifiesto se debe regenerar manualmente desde el dashboard
+// para evitar timeouts y errores de headers.
+
+// ============ REDIRIGIR AL POST CREADO ============
+
+// Construir URL del post
+$url_post = rtrim(SITE_URL, '/') . '/post/' . urlencode($nombre_archivo_php);
+
+header('Location: ' . $url_post);
+exit;
+
+// ============ FUNCIÓN PARA MOSTRAR ERRORES ============
+
+function mostrarErrores($errores)
+{
+?>
+    <!DOCTYPE html>
+    <html lang="es">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Error - Crear Post</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+        <style>
+            body {
+                background-color: #f8f9fa;
+                padding: 40px 0;
+            }
+
+            .error-container {
+                max-width: 700px;
+                margin: 0 auto;
+                background-color: white;
+                border-radius: 8px;
+                padding: 40px;
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            }
+
+            .error-header {
+                color: #dc3545;
+                margin-bottom: 30px;
+                font-size: 24px;
+                font-weight: 700;
+            }
+
+            .error-list {
+                background-color: #f8d7da;
+                border: 1px solid #f5c6cb;
+                border-radius: 4px;
+                padding: 20px;
+                margin-bottom: 30px;
+            }
+
+            .error-list ul {
+                margin: 0;
+                padding-left: 20px;
+            }
+
+            .error-list li {
+                color: #721c24;
+                margin-bottom: 10px;
+                font-size: 14px;
+            }
+
+            .btn-back {
+                background-color: #0d6efd;
+                color: white;
+                padding: 10px 20px;
+                text-decoration: none;
+                border-radius: 4px;
+                display: inline-block;
+            }
+
+            .btn-back:hover {
+                background-color: #0b5ed7;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="error-container">
+            <div class="error-header">⚠️ Error al crear el post</div>
+            <div class="error-list">
+                <ul>
+                    <?php foreach ($errores as $error): ?>
+                        <li><?php echo htmlspecialchars($error); ?></li>
+                    <?php endforeach; ?>
+                </ul>
+            </div>
+            <a href="crear-post-admin.php" class="btn-back">← Volver al formulario</a>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+
+    </html>
+<?php
+    exit;
+}
+?>

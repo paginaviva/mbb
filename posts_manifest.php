@@ -1,6 +1,6 @@
 <?php
 // Manifiesto de posts - Generado automáticamente
-// Última actualización: 2026-01-03 08:26:04
+// Última actualización: 2026-01-27 05:27:28
 // No editar manualmente
 
 $posts = array (
@@ -7390,63 +7390,6 @@ $posts = array (
     'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
     'url' => 'https://www.meridiano.com/post/serie-caribe-2026-costo-esconder-verdad-ultimo-inning.php',
   ),
-  'aguilas-estreno-round-robin-frio-magallanes-extrainnings' => 
-  array (
-    'title' => 'Águilas estrenó el Round Robin dejando frío a Magallanes en extrainnings',
-    'subtitle' => '<section class="meridiano-bloque-hooks">
-
-
-
-  <ul>
-
-    <li>Debut de Chourio en playoffs terminó siendo un manifiesto.</li>
-
-    <li>Back-to-back en el 10.º volteó el libreto y el ambiente.</li>
-
-    <li>La expulsión de Molina dejó a Magallanes sin timón en el cierre.</li>
-
-    <li>Zulia se monta en la punta y complica la ruta turca.</li>
-
-  </ul>
-
-</section>',
-    'category' => 'Resumen Diario',
-    'categories' => 
-    array (
-      0 => 'Resumen Diario',
-      1 => 'Venezuela',
-      2 => 'LVBP',
-      3 => 'Round Robin',
-      4 => 'Águilas del Zulia',
-      5 => 'Navegantes del Magallanes',
-    ),
-    'tags' => 
-    array (
-      0 => 'Resumen Diario Round Robin',
-      1 => 'Round Robin 2025-26',
-      2 => 'Jackson Chourio',
-      3 => 'José Pirela',
-      4 => 'Zac Grotz',
-      5 => 'Ricardo Sánchez',
-      6 => 'Brainer Bonaci',
-      7 => 'Yadier Molina',
-      8 => 'Junior Guerra',
-      9 => 'Silvino Bracho',
-      10 => 'Simón Muzziotti',
-      11 => 'Leandro Pineda',
-      12 => 'Diego Velásquez',
-      13 => 'Luis Sardiñas',
-      14 => 'José Gómez',
-      15 => 'Ángelo Castellano',
-      16 => 'Luis Suisbel',
-      17 => 'Ángel Reyes',
-      18 => 'Ernesto Mejía',
-    ),
-    'date' => '3 de enero de 2026',
-    'author' => 'Redacción Meridiano',
-    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
-    'url' => 'https://www.meridiano.com/post/aguilas-estreno-round-robin-frio-magallanes-extrainnings.php',
-  ),
   'bloqueo-home-aguilas-magallanes-valencia' => 
   array (
     'title' => '¿Hubo bloqueo en el home? La jugada que encendió el Águilas–Magallanes en Valencia',
@@ -7566,61 +7509,6 @@ $posts = array (
     'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
     'url' => 'https://www.meridiano.com/post/magallanes-round-robin-sin-rougned-odor.php',
   ),
-  'pinango-cambio-noche-cardenales-caribes-clasico-extrainnings' => 
-  array (
-    'title' => 'Piñango cambió la noche: Cardenales deja en el terreno a Caribes en otro clásico de extrainnings',
-    'subtitle' => '<section class="meridiano-bloque-hooks">
-
-
-
-  <ul>
-
-    <li>Caribes tomó dos ventajas y Lara remontó ambas en Barquisimeto.</li>
-
-    <li>Jonrón de Piñango en 0-2 sentenció el duelo en el 10.º.</li>
-
-    <li>Relevo larense largo y sin boletos sostuvo la reacción crepuscular.</li>
-
-    <li>Cardenales se monta 1-0 y Caribes arranca contra la pared.</li>
-
-  </ul>
-
-</section>',
-    'category' => 'Resumen Diario',
-    'categories' => 
-    array (
-      0 => 'Resumen Diario',
-      1 => 'Venezuela',
-      2 => 'LVBP',
-      3 => 'Round Robin',
-      4 => 'Cardenales de Lara',
-      5 => 'Caribes de Anzoátegui',
-    ),
-    'tags' => 
-    array (
-      0 => 'Resumen Diario Round Robin',
-      1 => 'Round Robin 2025-26',
-      2 => 'Yohendrick Piñango',
-      3 => 'Hernán Pérez',
-      4 => 'Aldrem Corredor',
-      5 => 'Balbino Fuenmayor',
-      6 => 'Rafael “Balita” Ortega',
-      7 => 'Willians Astudillo',
-      8 => 'Listher Sosa',
-      9 => 'DJ Johnson',
-      10 => 'Sebastián Perrone',
-      11 => 'César Valdez',
-      12 => 'Herlis Rodríguez',
-      13 => 'Andruw Monasterio',
-      14 => 'Luisangel Acuña',
-      15 => 'Alí Sánchez',
-      16 => 'Yonny Hernández',
-    ),
-    'date' => '3 de enero de 2026',
-    'author' => 'Redacción Meridiano',
-    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
-    'url' => 'https://www.meridiano.com/post/pinango-cambio-noche-cardenales-caribes-clasico-extrainnings.php',
-  ),
   'ruta-tv-round-robin-fechas-rivales-como-verlo' => 
   array (
     'title' => 'La ruta por TV del Round Robin: fechas, rivales y cómo verlo.',
@@ -7729,5 +7617,7160 @@ $posts = array (
     'author' => 'Redacción Meridiano',
     'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
     'url' => 'https://www.meridiano.com/post/siete-peloteros-suspendidos-dopaje-roster-invisible-2025-2026.php',
+  ),
+  'round-robin-pausa-lvbp-detiene-todos-contra-todos-nuevo-aviso' => 
+  array (
+    'title' => 'Round Robin en pausa: la LVBP detiene el todos contra todos hasta nuevo aviso',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Round Robin detenido en pleno corazón de la postemporada.</li>
+
+    <li>Jornada del 3 y, de facto, la del 4 quedan en blanco.</li>
+
+    <li>Calendario en jaque: ¿alcanzan los días para coronar campeón?</li>
+
+    <li>Seguridad, logística y público, el otro juego que debe ganar la liga.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Águilas del Zulia',
+      5 => 'Navegantes del Magallanes',
+      6 => 'Bravos de Margarita',
+      7 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículo Patrocinado',
+      1 => 'Giuseppe Palmizano',
+      2 => 'LVBP',
+      3 => 'Round Robin 2025-26',
+      4 => 'Serie del Caribe 2026',
+    ),
+    'date' => '3 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/round-robin-pausa-lvbp-detiene-todos-contra-todos-nuevo-aviso.php',
+  ),
+  'astudillo-reaparece-marca-diferencia-cardenales-bate-pesado-enero' => 
+  array (
+    'title' => 'Astudillo reaparece y marca diferencia: Cardenales gana un bate pesado para enero',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>De sancionado a pieza clave en un roster corto.</li>
+
+    <li>Un doble productor para anunciar que volvió en serio.</li>
+
+    <li>100 juegos de postemporada que ahora se ponen la franela crepuscular.</li>
+
+    <li>Cardenales suma una adición que no estaba en los planes iniciales.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Willians Astudillo',
+    ),
+    'date' => '5 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/astudillo-reaparece-marca-diferencia-cardenales-bate-pesado-enero.php',
+  ),
+  'jose-pirela-rompe-record-postemporadas-aguilas' => 
+  array (
+    'title' => 'José Pirela, el águila que no se cansa: rompe récord de postemporadas con Águilas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Diez enero seguidos vistiendo el mismo uniforme.</li>
+
+    <li>Líder vitalicio de hits y carreras en playoffs con Águilas.</li>
+
+    <li>Rompe el empate histórico y se queda solo en la cima.</li>
+
+    <li>OPS discreto en ronda regular, pero enero vuelve a ser su mes.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'José Pirela',
+    ),
+    'date' => '5 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/jose-pirela-rompe-record-postemporadas-aguilas.php',
+  ),
+  'lvbp-fecha-regreso-round-robin-07-01' => 
+  array (
+    'title' => 'La LVBP pone fecha al regreso: el Round Robin vuelve el 07/01',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Se rompe el “indefinido”: ya hay día y hora para volver.</li>
+
+    <li>Reestructuración del calendario: el otro juego que arranca el 07/01.</li>
+
+    <li>Equipos, viajes y fanáticos salen del limbo de los pospuestos.</li>
+
+    <li>Vuelve la pelota, pero con calendario nuevo por anunciar.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículo Patrocinado',
+      1 => 'LVBP',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '4 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/lvbp-fecha-regreso-round-robin-07-01.php',
+  ),
+  'reestructuracion-marcha-lvbp-mueve-piezas-equipos-hablaran-redes' => 
+  array (
+    'title' => 'Reestructuración en marcha: la LVBP mueve las piezas y los equipos hablarán en redes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>El calendario cambia: Round Robin garantizado, fechas por redefinir.</li>
+
+    <li>La liga marca la línea; los equipos bajan el mensaje a su gente.</li>
+
+    <li>Viajes, TV y boletos, en la mira de la reprogramación.</li>
+
+    <li>El fanático tendrá que seguir de cerca las redes oficiales.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'LVBP',
+    ),
+    'date' => '4 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/reestructuracion-marcha-lvbp-mueve-piezas-equipos-hablaran-redes.php',
+  ),
+  'amarista-balbino-a-tiro-round-robin-enero-historia' => 
+  array (
+    'title' => 'Amarista y Balbino “a tiro” del Round Robin: cuando enero también se juega contra la historia',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Un hit separa a Alexi Amarista del podio eterno.</li><li>Balbino Fuenmayor tiene el top-10 jonronero a tres swings.</li><li>El Round Robin premia a los veteranos que ajustan más rápido.</li><li>Marcas de por vida en la fase más ingrata del calendario.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Alexi Amarista',
+      1 => 'Balbino Fuenmayor',
+      2 => 'Alex Romero',
+    ),
+    'date' => '6 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/amarista-balbino-a-tiro-round-robin-enero-historia.php',
+  ),
+  'cuba-sigue-fuera-serie-caribe-2026-foco-clasico-centrocaribes' => 
+  array (
+    'title' => 'Cuba sigue fuera de la Serie del Caribe 2026: el calendario se cierra y el foco se muda al Clásico y los Centrocaribes',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Guadalajara sin Cuba: otra ausencia que pesa en el relato.</li><li>La Serie del Caribe se escapa; el año se redefine por otros frentes.</li><li>El debate no es el hecho, sino el “por qué” desde cada orilla.</li></ul></section>',
+    'category' => 'Cuba',
+    'categories' => 
+    array (
+      0 => 'Cuba',
+      1 => 'Serie del Caribe',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Federación Cubana de Béisbol',
+      2 => 'Clásico Mundial de Béisbol',
+    ),
+    'date' => '6 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cuba-sigue-fuera-serie-caribe-2026-foco-clasico-centrocaribes.php',
+  ),
+  'final-cinco-juegos-lvbp-calendario-cambiar-campeonato' => 
+  array (
+    'title' => 'La final a cinco juegos asoma en la LVBP: la carrera contra el calendario puede cambiar el campeonato',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Menos margen, más presión: el título podría decidirse en cinco.</li><li>Rotación y bullpen: el ajuste que cambia el libreto táctico.</li><li>La localía gana peso cuando el formato se encoge.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+    ),
+    'date' => '6 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/final-cinco-juegos-lvbp-calendario-cambiar-campeonato.php',
+  ),
+  'jackson-chourio-baja-round-robin-aguilas-pierde-carta-electrica' => 
+  array (
+    'title' => 'Jackson Chourio se baja del Round Robin y Águilas pierde su carta más eléctrica',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Baja de perfil alto en enero: el roster zuliano se reacomoda.</li><li>Compromisos con Cerveceros de Milwaukee, el telón de fondo.</li><li>Menos techo ofensivo, más presión sobre el plan del mánager.</li><li>En postemporada, el “permiso MLB” también juega su partido.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Jackson Chourio',
+      1 => 'MLB',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '6 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/jackson-chourio-baja-round-robin-aguilas-pierde-carta-electrica.php',
+  ),
+  'lvbp-mueve-calendario-mantiene-orden-duelos' => 
+  array (
+    'title' => 'La LVBP mueve el calendario, pero no el dado: se mantiene el orden de los duelos',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Se corre el rol, pero no se baraja el todos contra todos.</li><li>El 25 de enero aparece como frontera del cierre de la postemporada.</li><li>Giras y descansos se respetan, pese a la reprogramación.</li><li>La liga ajusta fechas sin reescribir la competitividad del Round Robin.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+    ),
+    'date' => '6 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/lvbp-mueve-calendario-mantiene-orden-duelos.php',
+  ),
+  'reprogramacion-round-robin-calendario-donde-ver-cada-juego' => 
+  array (
+    'title' => 'Reprogramación del Round Robin: así quedó el calendario y dónde ver cada juego',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Nuevo calendario en la mesa tras las jornadas pospuestas.</li>
+
+    <li>La liga evita dobles tandas y mantiene el orden de los duelos.</li>
+
+    <li>Fanático en modo agenda: fechas corridas y TV repartida por señales.</li>
+
+    <li>El Round Robin se organiza; la gran final aún espera definición.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'IVC',
+      2 => 'Televen',
+      3 => 'Venevisión',
+      4 => 'Meridiano TV Televisión',
+      5 => '1Baseball',
+      6 => 'BeisbolPlay',
+    ),
+    'date' => '6 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/reprogramacion-round-robin-calendario-donde-ver-cada-juego.php',
+  ),
+  'serie-americas-2026-plan-b-caracas-compite-fechas-compite-duda' => 
+  array (
+    'title' => 'Serie de las Américas 2026: el “plan B” de Caracas compite en fechas… pero ahora compite con la duda',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Torneo paralelo al Caribe: misma ventana, otro peso simbólico.</li><li>Sin amparo MLB–CBPC: el roster potencial cambia por completo.</li><li>Caracas y La Guaira como vitrina… si el evento llega a jugarse.</li><li>La política mete ruido donde debería hablar la pelota.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'Serie de las Américas',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'ABAM',
+      2 => 'Acuerdo Invernal MLB–CBPC',
+    ),
+    'date' => '6 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-2026-plan-b-caracas-compite-fechas-compite-duda.php',
+  ),
+  'venezuela-fuera-serie-caribe-2026-perder-sede-saca-torneo' => 
+  array (
+    'title' => 'Venezuela fuera de la Serie del Caribe 2026: cuando perder la sede también te saca del torneo',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Caracas se quedó sin vitrina… y sin representante.</li><li>La CBPC movió el evento a Guadalajara y la LVBP dijo “no”.</li><li>El campeón venezolano pierde su febrero más caribeño.</li><li>Desde afuera, la historia se lee con lentes políticos.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'Serie del Caribe',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'CBPC',
+      2 => 'LVBP',
+      3 => 'Giuseppe Palmisano',
+    ),
+    'date' => '6 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/venezuela-fuera-serie-caribe-2026-perder-sede-saca-torneo.php',
+  ),
+  'magallanes-rearma-round-robin-operacion-retorno-torres-tovar' => 
+  array (
+    'title' => 'Magallanes se rearma para el Round Robin: la “Operación retorno” de Torres y Tovar',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>La vieja guardia eléctrica vuelve al barco en plena tormenta</li>
+
+    <li>Yadier Molina mueve el tablero antes de recibir a Caribes</li>
+
+    <li>José Marcos Torres y Wilfredo Tovar reactivan la mística naviera</li>
+
+    <li>Magallanes busca su primera victoria del todos contra todos con casa llena</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'José Marcos Torres',
+      1 => 'Wilfredo Tovar',
+      2 => 'Yadier Molina',
+      3 => 'Round Robin 2025-26',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-rearma-round-robin-operacion-retorno-torres-tovar.php',
+  ),
+  'mlb-lvbp-pausa-mental-recomendacion-vilo-caribe' => 
+  array (
+    'title' => 'MLB pone a la LVBP en pausa mental: la recomendación que deja en vilo al Caribe',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Peloteros entre dos fuegos: seguridad en casa o vitrina invernal</li>
+
+    <li>LVBP revive el fantasma del 2019, pero con la Serie del Caribe en juego</li>
+
+    <li>La palabra “recomendación” pesa como un veto sin firma</li>
+
+    <li>El Caribe mira a Venezuela y se pregunta quién será el próximo afectado</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Águilas del Zulia',
+      4 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Serie del Caribe 2026',
+      2 => 'MLB',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/mlb-lvbp-pausa-mental-recomendacion-vilo-caribe.php',
+  ),
+  'round-robin-vuelve-hoy-play-ball-crisis-esperanza' => 
+  array (
+    'title' => 'El Round Robin vuelve hoy: play ball entre la crisis y la esperanza',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>La pelota regresa tras cuatro días de silencio obligado</li>
+
+    <li>Dirigentes y equipos pactan volver en un país en conmoción</li>
+
+    <li>Calendario en revisión, pero la afición recupera una rutina vital</li>
+
+    <li>El Round Robin se reanuda con más dudas fuera del campo que dentro</li>
+
+  </ul>
+
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículo Patrocinado',
+      1 => 'Round Robin 2025-26',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/round-robin-vuelve-hoy-play-ball-crisis-esperanza.php',
+  ),
+  'senor-enero-capitan-hoy-hilo-invisible-robert-perez-ildemaro-vargas' => 
+  array (
+    'title' => 'De “Señor Enero” al capitán de hoy: el hilo invisible entre Robert Pérez e Ildemaro Vargas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Robert Pérez sigue siendo la vara con la que se mide enero</li>
+
+    <li>Ildemaro Vargas se instala como el gran referente activo en playoffs</li>
+
+    <li>Cardenales de Lara encuentra continuidad histórica entre dos generaciones</li>
+
+    <li>La LVBP actual juega bajo la sombra –y el reto– de sus propios mitos</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Bateadores Históricos',
+    'categories' => 
+    array (
+      0 => 'Bateadores Históricos',
+      1 => 'Historia del Beisbol Venezolano',
+      2 => 'Venezuela',
+      3 => 'LVBP',
+      4 => 'Cardenales de Lara',
+      5 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Robert “Señor Enero” Pérez',
+      1 => 'Ildemaro Vargas',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/senor-enero-capitan-hoy-hilo-invisible-robert-perez-ildemaro-vargas.php',
+  ),
+  'cuba-luto-diamante-serie-nacional-pausa-serie-americas-duda' => 
+  array (
+    'title' => 'Cuba entre el luto y el diamante: Serie Nacional en pausa y Serie de las Américas en duda',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Luto oficial congela la pelota doméstica en plena zafra</li>
+
+    <li>Serie Nacional paralizada y silencio sobre el viaje a Venezuela</li>
+
+    <li>Selección cubana entre la necesidad de mostrarse y la prudencia</li>
+
+    <li>El calendario internacional se enreda justo cuando más exposición había</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Béisbol Internacional',
+    'categories' => 
+    array (
+      0 => 'Béisbol Internacional',
+      1 => 'Serie de las Américas',
+      2 => 'SNB Serie Nacional de Béisbol',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Serie Nacional Cuba',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cuba-luto-diamante-serie-nacional-pausa-serie-americas-duda.php',
+  ),
+  'guia-tv-semana-lvbp-pantalla-7-11-enero' => 
+  array (
+    'title' => 'Guía TV de la semana: así va la LVBP en pantalla del 7 al 11 de enero',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Cinco noches seguidas de Round Robin en horario estelar</li>
+
+    <li>Ocho canales y un streaming para no perderse un solo pitcheo</li>
+
+    <li>Doble juego hoy 7-Ene: la TV se parte en dos, el fanático también</li>
+
+    <li>La guía TV se vuelve tan importante como el propio calendario</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'IVC',
+      2 => 'ByM Sport',
+      3 => 'Meridiano TV',
+      4 => 'Televen',
+      5 => 'TVES',
+      6 => 'Venevisión',
+      7 => 'Canal i',
+      8 => '1 Baseball',
+      9 => 'BeisbolPlay',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/guia-tv-semana-lvbp-pantalla-7-11-enero.php',
+  ),
+  'ponches-enero-guerra-pedro-rodriguez-silvino-bracho-mandan-round-robin' => 
+  array (
+    'title' => 'Ponches de enero: Guerra, Pedro Rodríguez y Silvino Bracho mandan en el Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Tres brazos activos dominan el arte de ponchar en enero</li>
+
+    <li>Junior Guerra roza el centenar y pone la vara altísima</li>
+
+    <li>Zulia presume dos relevistas top para cerrar juegos calientes</li>
+
+    <li>El Round Robin se define cada vez más desde el montículo</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Águilas del Zulia',
+      3 => 'Lanzadores Históricos',
+    ),
+    'tags' => 
+    array (
+      0 => 'Junior Guerra',
+      1 => 'Pedro Rodríguez',
+      2 => 'Silvino Bracho',
+      3 => 'Round Robin 2025-26',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ponches-enero-guerra-pedro-rodriguez-silvino-bracho-mandan-round-robin.php',
+  ),
+  'bravos-elite-pitcheo-incognita-bateo-round-robin' => 
+  array (
+    'title' => 'Bravos, entre la élite del pitcheo y la incógnita del bateo rumbo al Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Tercer mejor pitcheo y mejor defensa… con seis derrotas seguidas a cuestas</li>
+
+    <li>Un equipo armado desde la lomita que aún busca respuestas con el madero</li>
+
+    <li>El todos contra todos pondrá a prueba si el slump fue accidente o alerta real</li>
+
+    <li>Bravos llega al Round Robin como candidato… pero con un signo de interrogación</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Bravos de Margarita',
+      3 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+    ),
+    'date' => '8 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/bravos-elite-pitcheo-incognita-bateo-round-robin.php',
+  ),
+  'cardenales-apuesta-lomita-almeida-font-compas-pausa' => 
+  array (
+    'title' => 'Cardenales apuesta a la lomita: Almeida y Font marcan el compás tras la pausa',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Lara vuelve al Round Robin poniendo la rotación al frente del proyecto</li>
+
+    <li>Adrián Almeida y Wilmer Font, pilares de un plan pensado para enero</li>
+
+    <li>Reprogramación del calendario obliga a afinar el orden de los abridores</li>
+
+    <li>El pasaporte a la final puede salir, otra vez, desde el montículo crepuscular</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Adrián Almeida',
+      1 => 'Wilmer Font',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '8 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-apuesta-lomita-almeida-font-compas-pausa.php',
+  ),
+  'caribes-grandeliga-andruw-monasterio-regresa-carlos-mendoza' => 
+  array (
+    'title' => 'Caribes: se va el grandeliga Andruw Monasterio y regresa Carlos Mendoza',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Caribes pierde a su grandeliga justo en pleno Round Robin</li>
+
+    <li>Regresa Carlos Mendoza con una línea ofensiva de impacto</li>
+
+    <li>El infield y el lineup se reconfiguran sobre la marcha</li>
+
+    <li>Los permisos de MLB vuelven a mandar en la planificación oriental</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Andruw Monasterio',
+      1 => 'Carlos Mendoza',
+      2 => 'MLB',
+    ),
+    'date' => '8 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-grandeliga-andruw-monasterio-regresa-carlos-mendoza.php',
+  ),
+  'magallanes-franco-pineda-enmanuel-de-jesus' => 
+  array (
+    'title' => 'Magallanes: Se va Franco, Pineda en la cuerda floja, llega  Enmanuel De Jesús',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Se va José Franco por límite de innings impuesto desde MLB</li>
+
+    <li>Enmanuel De Jesús toma el puesto y obliga a rearmar el bullpen</li>
+
+    <li>Leandro Pineda solo tiene permiso hasta el 14 de enero</li>
+
+    <li>Magallanes juega el Round Robin mirando también al fax de las organizaciones</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'José Franco',
+      1 => 'Enmanuel De Jesús',
+      2 => 'Leandro Pineda',
+      3 => 'Yadier Molina',
+      4 => 'MLB',
+      5 => 'Round Robin 2025-26',
+    ),
+    'date' => '8 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-franco-pineda-enmanuel-de-jesus.php',
+  ),
+  'linaje-bateador-enero-amarista-gorkys' => 
+  array (
+    'title' => 'El linaje del bateador de enero: de las gestas históricas a la era de Amarista y Gorkys',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Gorkys persigue la cifra redonda y se mete en la historia.</li>
+
+    <li>Amarista manda entre los activos como el espejo de enero.</li>
+
+    <li>Cabrera y Ravelo quedan como ecos de un enero mítico.</li>
+
+    <li>El linaje del bateador de enero trasciende cualquier ranking incompleto.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Bateadores Históricos',
+    'categories' => 
+    array (
+      0 => 'Bateadores Históricos',
+      1 => 'Historia del Beisbol Venezolano',
+      2 => 'Venezuela',
+      3 => 'LVBP',
+      4 => 'Round Robin',
+      5 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Alexi “El Ninja” Amarista',
+      1 => 'Artículo Patrocinado',
+      2 => 'Artículos Destacados',
+      3 => 'Gorkys Hernández',
+      4 => 'Miguel Cabrera',
+      5 => 'Rangel Ravelo',
+      6 => 'Round Robin 2025-26',
+    ),
+    'date' => '8 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/linaje-bateador-enero-amarista-gorkys.php',
+  ),
+  'zac-grotz-refuerzo-silencioso-estabiliza-rotacion-aguilas-zulia' => 
+  array (
+    'title' => 'Zac Grotz, el refuerzo silencioso que estabiliza la rotación de Águilas del Zulia',
+    'subtitle' => 'Zac Grotz llega desde Tiburones para elevar el piso de la rotación abridora zuliana y darle aire al bullpen en pleno Round Robin.',
+    'category' => 'Round Robin',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Águilas del Zulia',
+      4 => 'Tiburones de La Guaira',
+    ),
+    'tags' => 
+    array (
+      0 => 'Zac Grotz',
+      1 => 'Jackson Chourio',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '9 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/zac-grotz-refuerzo-silencioso-estabiliza-rotacion-aguilas-zulia.php',
+  ),
+  'round-robin-pantalla-meridiano-beisbolplay' => 
+  array (
+    'title' => 'Round Robin para todos: cómo se reparte la pantalla entre Meridiano y BeisbolPlay',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Señal abierta gratis le pelea innings al streaming de pago.</li>
+
+    <li>Meridiano mete seis juegos clave del todos contra todos en HD.</li>
+
+    <li>BeisbolPlay garantiza cada pitcheo del Round Robin y la Final.</li>
+
+    <li>El fanático escoge: bolsillo, comodidad o cobertura total.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Meridiano TV',
+      2 => 'BeisbolPlay',
+    ),
+    'date' => '9 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/round-robin-pantalla-meridiano-beisbolplay.php',
+  ),
+  'magallanes-lanza-campeon-arranca-sin-victorias-paradoja-round-robin' => 
+  array (
+    'title' => 'Magallanes lanza como campeón… y arranca sin victorias: la paradoja que puede romper el Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Abridores dominan, pero la pizarra no se mueve.</li>
+
+    <li>Bullpen golpeado en el peor momento: enero no perdona.</li>
+
+    <li>Line-up frío: sin carreras, no hay “salvados” que aguanten.</li>
+
+    <li>La remontada ilusionó… ahora toca sostenerla con ajustes.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Yadier Molina',
+      2 => 'Rougned Odor',
+      3 => 'Leandro Cedeño',
+      4 => 'Carlos Rodríguez',
+      5 => 'Luis Sardiñas',
+      6 => 'Asdrúbal Cabrera',
+      7 => 'Amílcar Chirinos',
+      8 => 'Ricardo Sánchez',
+      9 => 'Bryan Mata',
+      10 => 'Jaiker García',
+      11 => 'Mario Lissón',
+      12 => 'Eduardo Pérez',
+      13 => 'Federico Rojas',
+      14 => 'Esmil Rogers',
+      15 => 'Oliver Ortega',
+      16 => 'Félix Cepeda',
+    ),
+    'date' => '9 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-lanza-campeon-arranca-sin-victorias-paradoja-round-robin.php',
+  ),
+  'aldrem-corredor-bate-zurdo-draft-caribes-necesidad' => 
+  array (
+    'title' => 'Aldrem Corredor le cambió el tono al Draft de Caribes: cuando el bate zurdo no es lujo, es necesidad',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>Encaje real</strong>: un zurdo que obliga a replantear matchups rivales.</li><li><strong>Producción inmediata</strong>: hits desde el arranque del Round Robin.</li><li><strong>Draft con lupa</strong>: la escogencia discutida hoy luce clarita.</li><li><strong>Caribes se arma para enero</strong>: refuerzos que no piden “adaptación”.</li></ul></section>',
+    'category' => 'Caribes de Anzoátegui',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Leones del Caracas',
+      4 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Aldrem Corredor',
+      1 => 'Draft de Refuerzos',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '9 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aldrem-corredor-bate-zurdo-draft-caribes-necesidad.php',
+  ),
+  'lvbp-modo-premios-fechas-ternas-camino-mvp' => 
+  array (
+    'title' => 'La LVBP entra en modo premios: fechas, ternas y el camino hasta el MVP',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>10–11 de enero</strong>: salen las ternas, se encienden los debates.</li><li><strong>12–17 de enero</strong>: una semana completa de ganadores, día a día.</li><li><strong>Votación vs. fórmula</strong>: no todos los premios se “sienten” igual.</li><li><strong>El MVP cierra el ciclo</strong>: la conversación se guarda lo mejor para el final.</li></ul></section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+    ),
+    'tags' => 
+    array (
+      0 => 'Jugador Más Valioso',
+      1 => 'Mánager del Año',
+      2 => 'Novato del Año',
+      3 => 'Pitcher del Año',
+      4 => 'Premios LVBP',
+      5 => 'Regreso del Año',
+    ),
+    'date' => '9 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/lvbp-modo-premios-fechas-ternas-camino-mvp.php',
+  ),
+  'adrian-almeida-zurdo-guardo-mejor-enero-cardenales' => 
+  array (
+    'title' => 'Adrián Almeida, el zurdo que se guardó lo mejor para enero con Cardenales',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>De efectividad 5.77 a sello de calidad en el Round Robin.</li><li>Cuatro triunfos de por vida en RR: lidera a los brazos activos del club.</li><li>Cardenales encuentra estabilidad zurda en plena defensa del título.</li><li>El perfil clásico del “pitcher de enero” se viste de rojo y crema.</li></ul></section>',
+    'category' => 'Round Robin',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Adrián Almeida',
+    ),
+    'date' => '10 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/adrian-almeida-zurdo-guardo-mejor-enero-cardenales.php',
+  ),
+  'caribes-dupla-silenciosa-breto-corredor-tono-round-robin' => 
+  array (
+    'title' => 'Caribes y su dupla silenciosa: Breto desde la lomita y Corredor con el bate cambian el tono del Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>Bullpen zurdo y bate zurdo</strong>: la reacción de Caribes tiene nombre y apellido.</li><li><strong>Liarvis Breto</strong> sostiene ventajas; <strong>Aldrem Corredor</strong> las hace valer.</li><li><strong>La Tribu</strong> pasa de sobrevivir partidos a imponer libreto de playoffs.</li><li><strong>Profundidad real</strong>: no son estrellas de portada, pero sí del <em>boxscore</em>.</li></ul></section>',
+    'category' => 'Caribes de Anzoátegui',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Aldrem Corredor',
+      1 => 'Draft de Refuerzos',
+      2 => 'Liarvis Breto',
+      3 => 'Round Robin 2025-26',
+    ),
+    'date' => '10 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-dupla-silenciosa-breto-corredor-tono-round-robin.php',
+  ),
+  'danry-vasquez-elite-80-remolcadas-playoffs' => 
+  array (
+    'title' => 'Danry Vásquez ya es de élite: se mete en el club de las 80+ remolcadas de playoffs',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Cuatro empujadas más y pisó las <strong>82 CI</strong> de por vida.</li><li>Solo <strong>26 bateadores</strong> en la historia de la LVBP han llegado a 80+.</li><li>Promedia <strong>.367</strong> en postemporada: bate claramente “de enero”.</li><li><strong>Cardenales</strong> construye su plan de playoffs alrededor de su madero.</li></ul></section>',
+    'category' => 'Bateadores Históricos',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Bateadores Históricos',
+      4 => 'Hazañas Individuales',
+    ),
+    'tags' => 
+    array (
+      0 => 'Danry Vásquez',
+      1 => 'Robert Pérez',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '10 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/danry-vasquez-elite-80-remolcadas-playoffs.php',
+  ),
+  'leandro-pineda-bate-emergente-pieza-fija-plan-magallanes' => 
+  array (
+    'title' => 'Leandro Pineda: de bate emergente a pieza fija en el plan de Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>De “último turno”</strong> a nombre fijo en la tarjeta.</li><li><strong>Cinco jonrones en 61 turnos</strong>: el poder apareció en Valencia.</li><li><strong>El proceso con los coaches</strong> convirtió proyección en producción real.</li><li><strong>Magallanes</strong> consigue algo más que un novato: una amenaza estable.</li></ul></section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Leandro Pineda',
+      1 => 'Round Robin 2025-26',
+    ),
+    'date' => '10 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/leandro-pineda-bate-emergente-pieza-fija-plan-magallanes.php',
+  ),
+  'jose-pirela-50-remolcadas-playoffs-aguilas' => 
+  array (
+    'title' => 'José Pirela ya acecha la cima: 50 remolcadas históricas de playoffs con Águilas',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>El <strong>“Águila Negra”</strong> ya suma <strong>50 CI</strong> en enero con el equipo.</li><li>Solo <strong>Carlos Quintana (56)</strong> está por encima en la historia aguilucha.</li><li>El veterano llega a <strong>60 RBI</strong> totales de postemporada en su carrera.</li><li><strong>Águilas</strong> tiene en Pirela un motor histórico en plena lucha actual.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Águilas del Zulia',
+      3 => 'Bateadores Históricos',
+      4 => 'Hazañas Individuales',
+    ),
+    'tags' => 
+    array (
+      0 => 'José Pirela',
+      1 => 'Carlos Quintana',
+    ),
+    'date' => '10 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/jose-pirela-50-remolcadas-playoffs-aguilas.php',
+  ),
+  'aguilas-desata-ofensiva-guatamare-mete-presion-tabla' => 
+  array (
+    'title' => 'Águilas desata su ofensiva en Guatamare y mete presión en la tabla',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Zulia responde con once carreras para apagar el entusiasmo insular</li>
+
+    <li>La toletería zuliana castiga a Bravos con tres racimos demoledores</li>
+
+    <li>Chaparro y Pirela lideran un lineup que luce cada vez más completo</li>
+
+    <li>Águilas iguala la serie en Margarita y se afianza como escolta</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Round Robin',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Águilas del Zulia',
+      4 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Andrés Chaparro',
+      3 => 'José Pirela',
+      4 => 'Alí Castillo',
+      5 => 'Alexi “El Ninja” Amarista',
+      6 => 'José Rondón',
+      7 => 'Eduardo Torrealba',
+      8 => 'Abdiel Saldaña',
+      9 => 'Wilson García',
+    ),
+    'date' => '8 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aguilas-desata-ofensiva-guatamare-mete-presion-tabla.php',
+  ),
+  'aguilas-estreno-round-robin-frio-magallanes-extrainnings' => 
+  array (
+    'title' => 'Águilas estrenó el Round Robin dejando frío a Magallanes en extrainnings',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Debut de Chourio en playoffs terminó siendo un manifiesto.</li>
+
+    <li>Back-to-back en el 10.º volteó el libreto y el ambiente.</li>
+
+    <li>La expulsión de Molina dejó a Magallanes sin timón en el cierre.</li>
+
+    <li>Zulia se monta en la punta y complica la ruta turca.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Resumen Diario',
+    'categories' => 
+    array (
+      0 => 'Resumen Diario',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Round Robin',
+      4 => 'Águilas del Zulia',
+      5 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Jackson Chourio',
+      3 => 'José Pirela',
+      4 => 'Zac Grotz',
+      5 => 'Ricardo Sánchez',
+      6 => 'Brainer Bonaci',
+      7 => 'Yadier Molina',
+      8 => 'Junior Guerra',
+      9 => 'Silvino Bracho',
+      10 => 'Simón Muzziotti',
+      11 => 'Leandro Pineda',
+      12 => 'Diego Velásquez',
+      13 => 'Luis Sardiñas',
+      14 => 'José Gómez',
+      15 => 'Ángelo Castellano',
+      16 => 'Luis Suisbel',
+      17 => 'Ángel Reyes',
+      18 => 'Ernesto Mejía',
+    ),
+    'date' => '2 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aguilas-estreno-round-robin-frio-magallanes-extrainnings.php',
+  ),
+  'bravos-rompe-mala-racha-ninja-margarita-zulia' => 
+  array (
+    'title' => 'Bravos rompe la mala racha: El “Ninja” y seis brazos. 3-1 de Margarita sobre Zulia',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Triple de Amarista con dos outs cambia el juego y la narrativa</li>
+
+    <li>Seis brazos desde el bullpen apagan a Águilas y sostienen el 3-1</li>
+
+    <li>Bravos corta racha de seis derrotas y amanece en lo alto del todos contra todos</li>
+
+    <li>Zulia deja ir la ventaja temprana y complica su arranque en la semifinal</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Bravos de Margarita',
+      4 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Alexi “El Ninja” Amarista',
+      2 => 'Melvi Acosta',
+      3 => 'Gorkys Hernández',
+      4 => 'Breyvic Valera',
+      5 => 'Wilson García',
+      6 => 'Zac Grotz',
+      7 => 'José Herrera',
+      8 => 'Angelo Castellano',
+      9 => 'Carlos Suniaga',
+      10 => 'Ángel Rondón',
+      11 => 'Luis Pacheco',
+      12 => 'Darién Núñez',
+      13 => 'Claudio Custodio',
+      14 => 'Carlos Navas',
+      15 => 'Round Robin 2025-26',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/bravos-rompe-mala-racha-ninja-margarita-zulia.php',
+  ),
+  'cardenales-ritmo-final-17-hits-round-robin-rojo-vivo' => 
+  array (
+    'title' => 'Cardenales a ritmo de final: 17 hits y un Round Robin en rojo vivo',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>Siete en el 6.º</strong>: un inning que cambió la tabla.</li><li><strong>17 hits, cero errores</strong>: béisbol completo de Lara.</li><li><strong>Alí Sánchez y Danry Vásquez</strong>: ocho impulsadas entre ambos.</li><li><strong>Bravos 1-2</strong>: la presión sube, el margen se achica.</li></ul></section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Bravos de Margarita',
+      1 => 'Cardenales de Lara',
+      2 => 'LVBP',
+      3 => 'Round Robin',
+      4 => 'Venezuela',
+    ),
+    'tags' => 
+    array (
+      0 => 'Alí Sánchez',
+      1 => 'Carlos Pérez',
+      2 => 'Danry Vásquez',
+      3 => 'Dedgar Jimenez',
+      4 => 'Jorge Garcia',
+      5 => 'José “Tilín” Martínez',
+      6 => 'Juan Santana',
+      7 => 'Miguel Gomez',
+      8 => 'Rafael “Balita” Ortega',
+      9 => 'Resumen Diario Round Robin',
+      10 => 'Round Robin 2025-26',
+      11 => 'Werner Leal',
+      12 => 'Wilmer Font',
+      13 => 'Wilson Garcia',
+    ),
+    'date' => '9 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-ritmo-final-17-hits-round-robin-rojo-vivo.php',
+  ),
+  'caribes-roza-no-hit-magallanes-sin-respuesta' => 
+  array (
+    'title' => 'Caribes roza el no-hit-no-run y hunde a un Magallanes sin respuesta',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Caribes flirteó con el no-hit y silenció Valencia</li>
+
+    <li>El bullpen turco se derrumba justo cuando el juego estaba vivo</li>
+
+    <li>Mendoza y Valera rematan un octavo inning demoledor</li>
+
+    <li>Magallanes cae a 0-2 y se complica temprano en el Round Robin</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Ángel Cuenca',
+      2 => 'Liarvis Breto',
+      3 => 'Yoelvin Silven',
+      4 => 'Tucupita Marcano',
+      5 => 'José Marcos Torres',
+      6 => 'Antonio Piñero',
+      7 => 'William Martínez',
+      8 => 'Francis Peguero',
+      9 => 'Aldrem Corredor',
+      10 => 'Oliver Ortega',
+      11 => 'Jesús Reyes',
+      12 => 'Carlos Eduardo Mendoza',
+      13 => 'Álex Tovalín',
+      14 => 'Leonel Valera',
+      15 => 'Esmil Rogers',
+      16 => 'Eduardo Salazar',
+      17 => 'Round Robin 2025-26',
+    ),
+    'date' => '7 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-roza-no-hit-magallanes-sin-respuesta.php',
+  ),
+  'noche-hernan-perez-bullpen-caribes-hundio-magallanes' => 
+  array (
+    'title' => 'La noche de Hernán Pérez y el bullpen: así Caribes hundió más a Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>Cuatro rayitas en el 1.º</strong>: el juego se inclinó desde el arranque.</li><li><strong>Tres jonrones y 14 hits</strong>: la Tribu impuso su libreto ofensivo.</li><li><strong>El bullpen de Caribes</strong> hizo lo que no pudo el abridor.</li><li><strong>Magallanes cayó a 0-3</strong> y su margen de error es casi cero.</li></ul></section>',
+    'category' => 'Round Robin',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Hernán Pérez',
+      3 => 'Diego Infante',
+      4 => 'Jesús Sucre',
+      5 => 'Romer Cuadrado',
+      6 => 'Harol González',
+      7 => 'Yorvin Pantoja',
+      8 => 'Esmil Rogers',
+      9 => 'Carlos Rodríguez',
+      10 => 'Carlos Mendoza',
+    ),
+    'date' => '9 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/noche-hernan-perez-bullpen-caribes-hundio-magallanes.php',
+  ),
+  'pinango-cambio-noche-cardenales-caribes-clasico-extrainnings' => 
+  array (
+    'title' => 'Piñango cambió la noche: Cardenales deja en el terreno a Caribes en otro clásico de extrainnings',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Caribes tomó dos ventajas y Lara remontó ambas en Barquisimeto.</li>
+
+    <li>Jonrón de Piñango en 0-2 sentenció el duelo en el 10.º.</li>
+
+    <li>Relevo larense largo y sin boletos sostuvo la reacción crepuscular.</li>
+
+    <li>Cardenales se monta 1-0 y Caribes arranca contra la pared.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Resumen Diario',
+    'categories' => 
+    array (
+      0 => 'Resumen Diario',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Round Robin',
+      4 => 'Cardenales de Lara',
+      5 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Yohendrick Piñango',
+      3 => 'Hernán Pérez',
+      4 => 'Aldrem Corredor',
+      5 => 'Balbino Fuenmayor',
+      6 => 'Rafael “Balita” Ortega',
+      7 => 'Willians Astudillo',
+      8 => 'Listher Sosa',
+      9 => 'DJ Johnson',
+      10 => 'Sebastián Perrone',
+      11 => 'César Valdez',
+      12 => 'Herlis Rodríguez',
+      13 => 'Andruw Monasterio',
+      14 => 'Luisangel Acuña',
+      15 => 'Alí Sánchez',
+      16 => 'Yonny Hernández',
+    ),
+    'date' => '2 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/pinango-cambio-noche-cardenales-caribes-clasico-extrainnings.php',
+  ),
+  'pitcheo-cardenales-silencia-caribes-protege-invicto-barquisimeto' => 
+  array (
+    'title' => 'Pitcheo de Cardenales silencia a Caribes y protege el invicto en Barquisimeto',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Lara frena a una ofensiva de Caribes que venía encendida</li>
+
+    <li>Adrián Almeida marca la pauta y el bullpen baja la santamaría</li>
+
+    <li>Dos jonrones solitarios y un doble oportuno bastan para ganar</li>
+
+    <li>El campeón defensor se afirma como líder solitario del Round Robin</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Cardenales de Lara',
+    'categories' => 
+    array (
+      0 => 'Cardenales de Lara',
+      1 => 'Caribes de Anzoátegui',
+      2 => 'LVBP',
+      3 => 'Round Robin',
+      4 => 'Venezuela',
+    ),
+    'tags' => 
+    array (
+      0 => 'Adrián Almeida',
+      1 => 'Aldrem Corredor',
+      2 => 'Alí Sánchez',
+      3 => 'Eduardo Salazar',
+      4 => 'Jesús Bastidas',
+      5 => 'Listher Sosa',
+      6 => 'Rafael “Balita” Ortega',
+      7 => 'Resumen Diario Round Robin',
+      8 => 'Round Robin 2025-26',
+    ),
+    'date' => '8 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/pitcheo-cardenales-silencia-caribes-protege-invicto-barquisimeto.php',
+  ),
+  'aguilas-afila-alas-muzziotti-bonaci' => 
+  array (
+    'title' => 'Águilas afila sus alas: jornada perfecta de Muzziotti y despertar de Bonaci',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>Muzziotti</strong> se embasa cinco veces y firma juego redondo de <strong>5-5</strong>.</li><li><strong>Bonaci</strong> estrena su primer <strong>Grand Slam</strong> profesional y cambia el tono del <em>line up</em>.</li><li><strong>Águilas</strong> se instala con récord de <strong>3-1</strong> y sabor a candidato serio.</li><li>La mezcla de <strong>juventud</strong> y <strong>experiencia</strong> empieza a encajar en el Round Robin.</li></ul></section>',
+    'category' => 'Hazañas Individuales',
+    'categories' => 
+    array (
+      0 => 'Hazañas Individuales',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Brainer Bonaci',
+      1 => 'Draft de Refuerzos',
+      2 => 'Round Robin 2025-26',
+      3 => 'Simón Muzziotti',
+    ),
+    'date' => '11 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aguilas-afila-alas-muzziotti-bonaci.php',
+  ),
+  'aguilas-expone-crisis-magallanes-diez-primer-inning-18-hits' => 
+  array (
+    'title' => 'Águilas expone la crisis de Magallanes: Diez en el primer inning y 18 hits',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Diez carreras sin outs en el 1.er inning: juego resuelto temprano.</li><li><strong>Símon Muzziotti</strong> perfecto de 5-5, con doble, jonrón y 4 remolcadas.</li><li><strong>Grand slam</strong> de Brainer Bonaci y 18 hits para un Zulia desatado.</li><li><strong>Águilas</strong> se coloca 3-1; <strong>Magallanes</strong> se hunde en 0-4 en el round robin.</li></ul></section>',
+    'category' => 'Round Robin',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Águilas del Zulia',
+      4 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Símon Muzziotti',
+      3 => 'Brainer Bonaci',
+      4 => 'Luis Castro',
+      5 => 'José Suárez',
+      6 => 'Jefferson Medina',
+    ),
+    'date' => '10 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aguilas-expone-crisis-magallanes-diez-primer-inning-18-hits.php',
+  ),
+  'cardenales-21-9-luisangel-acuna-4-jonrones' => 
+  array (
+    'title' => 'Cardenales firma un 21-9 demoledor y Luisangel Acuña firma 4 jonrones',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Primer criollo con <strong>cuatro jonrones</strong> en un juego de LVBP.</li><li><strong>Cardenales</strong> borra un 0-4 temprano y termina ganando 21-9.</li><li>Lara se pone <strong>4-0</strong> en el round robin; Bravos cae a <strong>1-3</strong>.</li><li>Noche de poder: <strong>5 HR</strong> del club y una alineación sin huecos.</li></ul></section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Bravos de Margarita',
+      4 => 'Hazañas Individuales',
+    ),
+    'tags' => 
+    array (
+      0 => 'Danry Vásquez',
+      1 => 'Francisco Arcia',
+      2 => 'Ildemaro Vargas',
+      3 => 'Luisangel Acuña',
+      4 => 'Osmer Morales',
+      5 => 'Resumen Diario Round Robin',
+      6 => 'Round Robin 2025-26',
+    ),
+    'date' => '10 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-21-9-luisangel-acuna-4-jonrones.php',
+  ),
+  'luisangel-acuna-juego-cuatro-jonrones-reescribe-historia-lvbp' => 
+  array (
+    'title' => 'Luisángel Acuña: el juego de cuatro jonrones que reescribe la historia de la LVBP',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Primer pelotero con cuatro vuelacercas en un juego de LVBP.</li><li>Hazaña en pleno round robin, con foco nacional e internacional.</li><li><strong>Cardenales</strong> potencia su candidatura con un talento de <strong>23 años</strong>.</li><li>Una noche que cambia la forma en que se mira a <strong>Acuña</strong> en Venezuela.</li></ul></section>',
+    'category' => 'Bateadores Históricos',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Hazañas Individuales',
+      4 => 'Bateadores Históricos',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículo Patrocinado',
+      1 => 'Artículos Destacados',
+      2 => 'Juego de 3 jonrones',
+      3 => 'Juego de 4 jonrones',
+      4 => 'Luisángel Acuña',
+      5 => 'Round Robin 2025-26',
+    ),
+    'date' => '11 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/luisangel-acuna-juego-cuatro-jonrones-reescribe-historia-lvbp.php',
+  ),
+  'magallanes-local-monumental-jornada-dominical-mueve-tablero' => 
+  array (
+    'title' => 'Magallanes “local” en el Monumental: la jornada dominical que mueve el tablero',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>Caracas</strong> vuelve a tener beisbol de enero, pero con <strong>Magallanes</strong> de <em>home club</em>.</li><li>Dos juegos en simultáneo y <strong>Bravos</strong> libre: jornada corta, impacto grande.</li><li>El Monumental se estrena como <strong>sede neutral de lujo</strong> en pleno round robin.</li><li>Cada inning de hoy pesa doble en un calendario comprimido hasta el 25.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Águilas del Zulia',
+      4 => 'Navegantes del Magallanes',
+      5 => 'Cardenales de Lara',
+      6 => 'Caribes de Anzoátegui',
+      7 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+    ),
+    'date' => '11 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-local-monumental-jornada-dominical-mueve-tablero.php',
+  ),
+  'raffi-vizcaino-refuerzo-pitcheo-magallanes' => 
+  array (
+    'title' => 'Refuerzo de alto octanaje: Raffi Vizcaíno aterriza en un Magallanes desesperado por pitcheo',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li><strong>Magallanes</strong> recurre a un brazo dominicano de poder en pleno desastre monticular.</li><li><strong>Vizcaíno</strong> trae frescos números de calidad en <strong>LIDOM</strong> y experiencia en México.</li><li>El bullpen turco, con <strong>ERA</strong> altísima y diferencial negativo, exige cambios urgentes.</li><li>El rol que le dé <strong>Yadier Molina</strong> puede decidir si la nave revive o se hunde del todo.</li></ul></section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Raffi Vizcaíno',
+      1 => 'Round Robin 2025-26',
+      2 => 'Yadier Molina',
+    ),
+    'date' => '11 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/raffi-vizcaino-refuerzo-pitcheo-magallanes.php',
+  ),
+  'ruta-jalisco-2026-ligas-invernales-hora-verdad' => 
+  array (
+    'title' => '“Ruta a Jalisco 2026”: ligas invernales se acercan a la hora de la verdad',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>La Confederación del Caribe bautiza como “Ruta a Jalisco 2026” el tramo final hacia la Serie del Caribe en Zapopan.</li>
+
+    <li>México tendrá dos cupos vía LMP, mientras LIDOM y LBPRC mantienen el boleto clásico para su campeón.</li>
+
+    <li>La LVBP corona monarca sin vitrina caribeña, en un giro inédito para Venezuela.</li>
+
+    <li>La sede mexicana gana peso, pero la historia recuerda que el anfitrión no siempre levanta el trofeo.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Ausencia de Venezuela',
+      2 => 'CBPC',
+      3 => 'MLB',
+    ),
+    'date' => '11 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ruta-jalisco-2026-ligas-invernales-hora-verdad.php',
+  ),
+  'serie-americas-2026-torneo-politica-candado-mlb' => 
+  array (
+    'title' => 'Serie de las Américas 2026: un torneo atrapado entre la política y el candado de MLB',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Torneo anunciado para Venezuela, pero con su realización oficialmente en entredicho.</li><li>No está amparado por el Acuerdo Invernal: los peloteros de MLB no tienen vía libre.</li><li>Coincide en fechas con la Serie del Caribe y se parte la torta de talentos y atención.</li><li>Más que un problema de formato: es una prueba de estrés para la organización y la imagen del beisbol caribeño.</li></ul></section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Venezuela',
+      3 => 'LVBP',
+      4 => 'Serie del Caribe',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Serie del Caribe 2026',
+      2 => 'Ausencia de Venezuela',
+      3 => 'MLB',
+      4 => 'CBPC',
+    ),
+    'date' => '11 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-2026-torneo-politica-candado-mlb.php',
+  ),
+  'aguilas-pierde-zac-grotz-rotacion-mexico-dominicana' => 
+  array (
+    'title' => 'Águilas pierde a Zac Grotz y se reinventa: rotación parcheada con México y Dominicana',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Se va su primer pick de draft en plena semifinal.</li>
+
+    <li>Tres abridores menos en 24 horas, crisis de rotación.</li>
+
+    <li>Contreras y González llegan a apagar el fuego desde LIDOM y México.</li>
+
+    <li>Condiciones de Campeonato obligan a Zulia a ser creativo.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Carlos Contreras',
+      1 => 'Draft de Refuerzos',
+      2 => 'Felipe González',
+      3 => 'José Dávila',
+      4 => 'MLB',
+      5 => 'Round Robin 2025-26',
+      6 => 'Wendolyn Bautista',
+      7 => 'Zac Grotz',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aguilas-pierde-zac-grotz-rotacion-mexico-dominicana.php',
+  ),
+  'aguilas-zulia-desafia-cartas-lipso-nava-modelo-numeros' => 
+  array (
+    'title' => 'Águilas del Zulia desafía las cartas: Lipso Nava y el modelo que los números no vieron',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Diferencial de -76 y, aun así, equipo de Round Robin.</li>
+
+    <li>Juegos cerrados, bullpen y mentalidad: el “modelo Águilas”.</li>
+
+    <li>Nava obliga a los especialistas a barajar de nuevo.</li>
+
+    <li>Zulia se instala arriba de la tabla contra todo pronóstico.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Lipso Nava',
+      2 => 'Rubén Amaro',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aguilas-zulia-desafia-cartas-lipso-nava-modelo-numeros.php',
+  ),
+  'el-doble-de-sucre-que-volteo-el-round-robin-caribes-tumba-el-invicto-de-cardenales' => 
+  array (
+    'title' => 'El doble de Sucre que volteó el Round Robin: Caribes tumba el invicto de Cardenales',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Doble de Jesús Sucre en el 11mo inning dejó en el terreno a Cardenales y frenó su 4-0.</li>
+
+    <li>Caribes se mete de lleno en la pelea semifinal y alcanza el segundo lugar.</li>
+
+    <li>Los bullpens de ambos equipos dejaron abierta la herida con salvados desperdiciados.</li>
+
+    <li>Lara sigue líder, pero el Round Robin ya no luce como un paseo de un solo equipo.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Round Robin',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Jesús Sucre',
+      3 => 'Yohjan Quevedo',
+      4 => 'Romer Cuadrado',
+      5 => 'Yonny Hernández',
+      6 => 'Carlos Mendoza',
+      7 => 'Diego Infante',
+      8 => 'Leonel Valera',
+      9 => 'Norwith Gudiño',
+      10 => 'Listher Sosa',
+    ),
+    'date' => '11 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/el-doble-de-sucre-que-volteo-el-round-robin-caribes-tumba-el-invicto-de-cardenales.php',
+  ),
+  'el-golpe-mas-duro-carlos-hernandez-accidente-impacta-lvbp' => 
+  array (
+    'title' => 'El golpe más duro de Carlos Hernández: un accidente que también impacta a la LVBP',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Fractura de brazo y fémur en pleno pico de su carrera.</li>
+
+    <li>Un relevista entre Leones y Guardianes queda en pausa obligada.</li>
+
+    <li>El caso reabre el debate sobre riesgos extradeportivos del pelotero.</li>
+
+    <li>LVBP y MLB pendientes de una recuperación sin plazos claros.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Leones del Caracas',
+    ),
+    'tags' => 
+    array (
+      0 => 'Carlos Hernández',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/el-golpe-mas-duro-carlos-hernandez-accidente-impacta-lvbp.php',
+  ),
+  'herlis-rodriguez-campana-subio-vara-pelotero-completo-caribes' => 
+  array (
+    'title' => 'Herlis Rodríguez y la campaña que subió la vara del “pelotero completo” en Caribes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Nuevo rey de los robos y motor silencioso de la tribu.</li>
+
+    <li>Más boletos, menos ponches: la transformación desde el home.</li>
+
+    <li>De batidor “tapado” a referencia integral en la LVBP.</li>
+
+    <li>Liderazgo, familia y compromiso detrás de su mejor temporada.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Caribes de Anzoátegui',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Águilas del Zulia',
+      4 => 'Hazañas Individuales',
+    ),
+    'tags' => 
+    array (
+      0 => 'Asdrúbal Cabrera',
+      1 => 'Balbino Fuenmayor',
+      2 => 'Herlis Rodríguez',
+      3 => 'Niuman Romero',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/herlis-rodriguez-campana-subio-vara-pelotero-completo-caribes.php',
+  ),
+  'magallanes-levanta-anclas-sardinas-gomez-voltean-libreto' => 
+  array (
+    'title' => 'Magallanes por fin levanta anclas: Sardiñas y Gómez voltean el libreto',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Racimo de cuatro en el octavo cambia la historia del juego.</li>
+
+    <li>Luis Sardiñas y José Gómez le pusieron nombre propio a la remontada.</li>
+
+    <li>Magallanes sale de perdedor y respira en la tabla semifinal.</li>
+
+    <li>Águilas deja escapar una ventaja y una oportunidad de oro.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Águilas del Zulia',
+      4 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Christian Suárez',
+      1 => 'Jesús Reyes',
+      2 => 'José Gómez',
+      3 => 'Luis Sardiñas',
+      4 => 'Raffi Vizcaíno',
+      5 => 'Resumen Diario Round Robin',
+      6 => 'Ronaldo Alesandro',
+      7 => 'Round Robin 2025-26',
+    ),
+    'date' => '11 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-levanta-anclas-sardinas-gomez-voltean-libreto.php',
+  ),
+  'magallanes-sufre-otro-mazazo-carlos-rodriguez-despide-round-robin' => 
+  array (
+    'title' => 'Magallanes sufre otro mazazo: Carlos Rodríguez se despide del Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>La nave pierde a su primer bate en plena remontada.</li>
+
+    <li>Orden de los Padres de San Diego corta el impulso del jardinero.</li>
+
+    <li>Yadier Molina debe rediseñar lineup y centerfield sobre la marcha.</li>
+
+    <li>Otra baja se suma a un Round Robin ya cuesta arriba.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Carlos Rodríguez',
+      1 => 'MLB',
+      2 => 'Round Robin 2025-26',
+      3 => 'Yadier Molina',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-sufre-otro-mazazo-carlos-rodriguez-despide-round-robin.php',
+  ),
+  'serie-americas-2026-sedes-claras-calendario-zona-strike-dudoso' => 
+  array (
+    'title' => 'Serie de las Américas 2026: sedes claras, calendario en zona de strike dudoso',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Tres rangos de fechas, un mismo torneo y cero certeza oficial.</li>
+
+    <li>Cuba arma su agenda admitiendo que el calendario sigue en el aire.</li>
+
+    <li>Caracas y La Guaira están listas; el problema es “cuándo”, no “dónde”.</li>
+
+    <li>La Serie del Caribe en Guadalajara aprieta el margen y complica la ecuación.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Venezuela',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Asociación de Béisbol de las Américas',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-2026-sedes-claras-calendario-zona-strike-dudoso.php',
+  ),
+  'round-robin-2025-26-semana-1-cardenales-bravos-magallanes' => 
+  array (
+    'title' => 'Resumen 1 Round Robin 2025-26: Cardenales manda, Bravos y Magallanes juegan contra el tiempo',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Cardenales arrasa a punta de jonrones, pero ya conoce el dolor.</li>
+
+    <li>Caribes tumbó invictos y hundió a Magallanes a puro poder.</li>
+
+    <li>Águilas batea para rato, aunque su pitcheo todavía se prueba.</li>
+
+    <li>Bravos y Magallanes juegan contra la tabla… y contra el reloj.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Resumen Semanal',
+      1 => 'Round Robin',
+      2 => 'Venezuela',
+      3 => 'LVBP',
+      4 => 'Cardenales de Lara',
+      5 => 'Caribes de Anzoátegui',
+      6 => 'Águilas del Zulia',
+      7 => 'Bravos de Margarita',
+      8 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Adrián Almeida',
+      1 => 'Alexi “El Ninja” Amarista',
+      2 => 'Alí Castillo',
+      3 => 'Andrés Chaparro',
+      4 => 'Artículo Patrocinado',
+      5 => 'Brainer Bonaci',
+      6 => 'Breyvic Valera',
+      7 => 'Carlos Navas',
+      8 => 'Carlos Pérez',
+      9 => 'Carlos Rodríguez',
+      10 => 'Carlos Suniaga',
+      11 => 'Claudio Custodio',
+      12 => 'Danry Vásquez',
+      13 => 'Darién Núñez',
+      14 => 'Diego Infante',
+      15 => 'Esmil Rogers',
+      16 => 'Hernán Pérez',
+      17 => 'Ildemaro Vargas',
+      18 => 'Jackson Chourio',
+      19 => 'Jesús Sucre',
+      20 => 'José Gómez',
+      21 => 'José Pirela',
+      22 => 'Luis Sardiñas',
+      23 => 'Luisangel Acuña',
+      24 => 'Melvi Acosta',
+      25 => 'Rafael “Balita” Ortega',
+      26 => 'Raffi Vizcaíno',
+      27 => 'Resumen Semanal',
+      28 => 'Romer Cuadrado',
+      29 => 'Round Robin 2025-26',
+      30 => 'Silvino Bracho',
+      31 => 'Simón Muzziotti',
+      32 => 'Tabla de Posiciones',
+      33 => 'Wilson García',
+      34 => 'Yadier Molina',
+      35 => 'Yohendrick Piñango',
+      36 => 'Yonny Hernández',
+      37 => 'Zac Grotz',
+      38 => 'Ángel Cuenca',
+      39 => 'Ángel Rondón',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/round-robin-2025-26-semana-1-cardenales-bravos-magallanes.php',
+  ),
+  'carta-lvbp-cbpc-que-dice-que-reclama-que-significa' => 
+  array (
+    'title' => 'Carta de la LVBP a la CBPC: qué dice, qué reclama y qué significa para Venezuela',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>La LVBP fijó por escrito su posición tras perder la sede de la Serie del Caribe 2026.</li>
+
+    <li>El reclamo no es solo deportivo: apunta a dinero, credibilidad y rol político en la CBPC.</li>
+
+    <li>La liga habla de “estado de necesidad” por inversiones ya hechas en Caracas y La Guaira.</li>
+
+    <li>La respuesta de la CBPC puede marcar el futuro internacional del beisbol venezolano.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Ausencia de Venezuela',
+      2 => 'CBPC',
+      3 => 'MLB',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/carta-lvbp-cbpc-que-dice-que-reclama-que-significa.php',
+  ),
+  'serie-americas-2026-torneo-hibrido-equilibrio' => 
+  array (
+    'title' => 'Serie de las Américas 2026: un torneo híbrido que pone a prueba el equilibrio',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Ocho camisetas, dos modelos: selección nacional y campeón de liga.</li>
+
+    <li>Venezuela va con selección, no con su monarca de la LVBP.</li>
+
+    <li>Panamá y el resto del Caribe miran un formato todavía borroso.</li>
+
+    <li>El nivel competitivo dependerá más del roster que del escudo.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Venezuela',
+      3 => 'Argentina',
+      4 => 'Colombia',
+      5 => 'Curazao',
+      6 => 'Nicaragua',
+      7 => 'Panamá',
+      8 => 'Cuba',
+      9 => 'Brasil',
+      10 => 'LVBP',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+    ),
+    'date' => '13 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-2026-torneo-hibrido-equilibrio.php',
+  ),
+  'caribes-vuelta-0-5-cuatro-jonrones-relevo-magallanes' => 
+  array (
+    'title' => 'Caribes le da la vuelta al 0-5: cuatro jonrones, relevo clave y golpe a Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>De perder 0-5 a ganar 9-6: remontada de postemporada.</li>
+
+    <li>Hernán Pérez y Balbino Fuenmayor firman el vuelco con poder.</li>
+
+    <li>Cristian Hernández convierte un juego abierto en ruta de regreso.</li>
+
+    <li>Magallanes se hunde en la tabla y ve la final más lejos.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Hernán Pérez',
+      3 => 'Balbino Fuenmayor',
+      4 => 'Diego Infante',
+      5 => 'Cristian Hernández',
+      6 => 'Yasiel Puig',
+      7 => 'José Gómez',
+      8 => 'Carlos Rodríguez',
+      9 => 'Wilfredo Tovar',
+      10 => 'Antonio Piñero',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-vuelta-0-5-cuatro-jonrones-relevo-magallanes.php',
+  ),
+  'premios-grandes-lvbp-productor-cerrador-set-up' => 
+  array (
+    'title' => 'Premios “Los Grandes de la LVBP”: Productor del Año, Cerrador del Año y Set Up del Año',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Dos Productores del Año del mismo line up: Caribes impone respeto.</li>
+
+    <li>Silvino Bracho entra al club de los multi–Cerradores del Año.</li>
+
+    <li>El rol del set up se gana nombre propio con Jesús Reyes.</li>
+
+    <li>Los Grandes de la LVBP ponen números a lo que el aficionado veía en el terreno.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Los Grandes de la LVBP',
+      1 => 'Productor del Año',
+      2 => 'Cerrador del Año',
+      3 => 'Set Up del Año',
+      4 => 'Balbino Fuenmayor',
+      5 => 'Hernán Pérez',
+      6 => 'Silvino Bracho',
+      7 => 'Jesús Reyes',
+    ),
+    'date' => '13 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/premios-grandes-lvbp-productor-cerrador-set-up.php',
+  ),
+  'luisangel-acuna-jugador-semana-round-robin' => 
+  array (
+    'title' => 'Luisangel Acuña: Jugador de la Semana del Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>De promesa con apellido famoso a rostro del todos contra todos.</li>
+
+    <li>Cuatro jonrones en una noche lo impulsan al Jugador de la Semana.</li>
+
+    <li>Cardenales encuentra en Acuña el bate que cambia series y narrativa.</li>
+
+    <li>De aquí en adelante, cada turno suyo tendrá peso de obligación.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Bravos de Margarita',
+      4 => 'Round Robin',
+      5 => 'Hazañas Individuales',
+    ),
+    'tags' => 
+    array (
+      0 => 'Jugador de la Semana',
+      1 => 'Round Robin 2025-26',
+      2 => 'Luisangel Acuña',
+      3 => 'Ronald Acuña',
+    ),
+    'date' => '13 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/luisangel-acuna-jugador-semana-round-robin.php',
+  ),
+  'ley-ex-batazos-oportunos-bracho-historico-zulia' => 
+  array (
+    'title' => 'Ley del ex, batazos oportunos y Bracho histórico: la noche redonda del Zulia.',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>El juego se decidió entre el cuarto y el sexto inning.</li>
+
+    <li>Luis Castro castigó a su exequipo y encendió el nido.</li>
+
+    <li>Bravos reaccionó tarde, pero chocó contra el muro Bracho.</li>
+
+    <li>Con el 6-4, Águilas queda a tiro de la punta del Round Robin.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Bravos de Margarita',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Venezuela',
+      4 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Alexi “El Ninja” Amarista',
+      1 => 'Alí Castillo',
+      2 => 'Breyvic Valera',
+      3 => 'Emilio Márquez',
+      4 => 'Gorkys Hernández',
+      5 => 'José Herrera',
+      6 => 'José “Tilín” Martínez',
+      7 => 'Luis Castro',
+      8 => 'Melvi Acosta',
+      9 => 'Pedro Rodríguez',
+      10 => 'Resumen Diario Round Robin',
+      11 => 'Round Robin 2025-26',
+      12 => 'Silvino Bracho',
+      13 => 'Simón Muzziotti',
+      14 => 'Wilson García',
+    ),
+    'date' => '12 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ley-ex-batazos-oportunos-bracho-historico-zulia.php',
+  ),
+  'bullpens-limite-prospectos-parados-otra-cara-round-robin' => 
+  array (
+    'title' => 'Bullpens al límite y prospectos “parados”: la otra cara del Round Robin.',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Magallanes y Bravos pagan en la lomita lo que no resuelven con el bate.</li>
+
+    <li>Águilas y Cardenales ajustan rosters entre lesiones y llamadas de MLB.</li>
+
+    <li>Caribes nada contracorriente con la mejor efectividad colectiva del todos contra todos.</li>
+
+    <li>El Round Robin se define también en la oficina, no solo en el montículo.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Bravos de Margarita',
+      5 => 'Águilas del Zulia',
+      6 => 'Cardenales de Lara',
+      7 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículo Patrocinado',
+      1 => 'Artículos Destacados',
+      2 => 'Draft de Refuerzos',
+      3 => 'Eduardo García',
+      4 => 'Esmil Rogers',
+      5 => 'Gorkys Hernández',
+      6 => 'Henry Blanco',
+      7 => 'Juan Santana',
+      8 => 'MLB',
+      9 => 'Nomar Rojas',
+      10 => 'Round Robin 2025-26',
+      11 => 'Simón Muzziotti',
+      12 => 'Yohendrick Piñango',
+    ),
+    'date' => '14 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/bullpens-limite-prospectos-parados-otra-cara-round-robin.php',
+  ),
+  'caribes-sobrevive-aluvion-cardenales-lider-round-robin' => 
+  array (
+    'title' => 'Caribes sobrevive al aluvión de Cardenales y despierta como líder del Round Robin.',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>De 7-0 temprano a 9-8 sufrido: la cima cambió de dueño.</li>
+
+    <li>Balbino Fuenmayor castigó sin descanso y fue el eje de la remontada.</li>
+
+    <li>El rally larense del sexto casi voltea la historia… pero faltaba Piñero.</li>
+
+    <li>El resultado reacomoda la tabla y obliga a Cardenales a remar desde atrás.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Cardenales de Lara',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Cardenales de Lara',
+      4 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Antonio Piñero',
+      1 => 'Balbino Fuenmayor',
+      2 => 'Carlos Mendoza',
+      3 => 'Diego Infante',
+      4 => 'Edwar Colina',
+      5 => 'Francis Peguero',
+      6 => 'Ildemaro Vargas',
+      7 => 'Jecksson Flores',
+      8 => 'Luisangel Acuña',
+      9 => 'Norwith Gudiño',
+      10 => 'Resumen Diario Round Robin',
+      11 => 'Round Robin 2025-26',
+      12 => 'Yonny Hernández',
+    ),
+    'date' => '13 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-sobrevive-aluvion-cardenales-lider-round-robin.php',
+  ),
+  'doce-boletos-despues-bravos-reencuentra-victoria-aguilas' => 
+  array (
+    'title' => 'Doce boletos después: Bravos se reencuentra con la victoria ante Águilas.',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Se acaba la racha de cuatro derrotas en el momento justo.</li>
+
+    <li>Doce boletos de Águilas le dan oxígeno a una ofensiva necesitada.</li>
+
+    <li>El bullpen margariteño se dobla, pero no se rompe en el noveno.</li>
+
+    <li>Águilas deja ir un juego que podía consolidar su pelea por la punta.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Bravos de Margarita',
+      4 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'José “Tilín” Martínez',
+      3 => 'Breyvic Valera',
+      4 => 'Gorkys Hernández',
+      5 => 'Alexi “El Ninja” Amarista',
+      6 => 'Luis Castro',
+      7 => 'Eduardo Torrealba',
+      8 => 'Andrés Chaparro',
+      9 => 'Alí Castillo',
+      10 => 'Ulises Joaquín',
+      11 => 'Emilio Márquez',
+      12 => 'Darien Núñez',
+      13 => 'Delvis Alegre',
+      14 => 'Christian Suárez',
+      15 => 'Rayder Ascanio',
+    ),
+    'date' => '13 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/doce-boletos-despues-bravos-reencuentra-victoria-aguilas.php',
+  ),
+  'exclusion-venezuela-serie-caribe-2026-serie-americas' => 
+  array (
+    'title' => 'Exclusión de Venezuela de la Serie del Caribe 2026 y foco en la Serie de las Américas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>El campeón de la LVBP no tendrá vitrina en Guadalajara 2026.</li>
+
+    <li>Caracas y La Guaira cambian el logo: de Serie del Caribe a Serie de las Américas.</li>
+
+    <li>La CBPC cierra una puerta mientras ABAM abre otra, más amplia.</li>
+
+    <li>El beisbol venezolano se juega también su relato internacional en febrero.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Serie del Caribe',
+      3 => 'Serie de las Américas',
+      4 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Serie de las Américas 2026',
+      2 => 'Ausencia de Venezuela',
+      3 => 'CBPC',
+      4 => 'ABAM',
+    ),
+    'date' => '14 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/exclusion-venezuela-serie-caribe-2026-serie-americas.php',
+  ),
+  'jadher-areinamo-novato-ano-lvbp' => 
+  array (
+    'title' => 'Jadher Areinamo: un mes de fuego para quedarse con el Novato del Año',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Se fue el 1 de diciembre… y aun así arrasó en la votación.</li>
+
+    <li>Un juego de 2 jonrones y 7 empujadas cambió la narrativa de la temporada.</li>
+
+    <li>Solo un voto rebelde evitó la unanimidad para el infielder guairista.</li>
+
+    <li>Tiburones encuentra en Areinamo el prospecto que pedía su proyecto deportivo.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Tiburones de La Guaira',
+      3 => 'Tigres de Aragua',
+      4 => 'Leones del Caracas',
+      5 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Novato del Año',
+      1 => 'Jugador de la Semana',
+      2 => 'Jugador del Mes',
+      3 => 'Jadher Areinamo',
+      4 => 'Brainer Bonaci',
+      5 => 'Yohendrick Piñango',
+      6 => 'Jaison Chourio',
+    ),
+    'date' => '14 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/jadher-areinamo-novato-ano-lvbp.php',
+  ),
+  'magallanes-sin-polvora-sin-as-round-robin' => 
+  array (
+    'title' => 'Magallanes se queda sin pólvora y sin as: las bajas que complican su Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Se va Leandro Pineda antes de tiempo y se apaga un bate zurdo clave.</li>
+
+    <li>Carlos Rodríguez ya tiene fecha de salida en plena carrera por la final.</li>
+
+    <li>El caso Ricardo Sánchez deja a la rotación sin su ancla natural.</li>
+
+    <li>Magallanes entra en modo supervivencia con la serie todavía en juego.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Carlos Rodríguez',
+      1 => 'Draft de Refuerzos',
+      2 => 'Leandro Pineda',
+      3 => 'Pitcher del Año',
+      4 => 'Ricardo Sánchez',
+      5 => 'Rougned Odor',
+      6 => 'Round Robin 2025-26',
+    ),
+    'date' => '14 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-sin-polvora-sin-as-round-robin.php',
+  ),
+  'cardenales-9-6-bravos-golpe-autoridad-sostener-cima' => 
+  array (
+    'title' => 'Cardenales 9-6 sobre Bravos: golpe de autoridad para sostener la cima',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Rally inicial larense que marcó el tono desde el primer inning.</li>
+
+    <li>Jonrón de tres de José Rondón encendió una reacción que murió rápido.</li>
+
+    <li>Danry Vasquez, Ildemaro Vargas y el bullpen, claves para amarrar.</li>
+
+    <li>Bravos cae a la lona en la tabla y compromete su final.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Cardenales de Lara',
+      4 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'José Rondón',
+      3 => 'Danry Vásquez',
+      4 => 'Ildemaro Vargas',
+      5 => 'Brayan Pérez',
+      6 => 'Listher Sosa',
+      7 => 'Jorge García',
+      8 => 'Jesús Bastidas',
+      9 => 'Yonny Hernández',
+      10 => 'Francisco Arcia',
+      11 => 'Wilmer Font',
+      12 => 'Héctor Pérez',
+      13 => 'Norwith Gudiño',
+    ),
+    'date' => '14 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-9-6-bravos-golpe-autoridad-sostener-cima.php',
+  ),
+  'puig-explota-puerto-la-cruz-devuelve-vida-magallanes' => 
+  array (
+    'title' => 'Puig explota en Puerto La Cruz y le devuelve vida a Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Multijonrón de Yasiel Puig en la noche más oportuna para Magallanes.</li>
+
+    <li>Esmil Rogers y el bullpen firman una de las mejores salidas navieras.</li>
+
+    <li>Caribes vuelve a naufragar ofensivamente en su propio patio.</li>
+
+    <li>El 4-1 cambia el aire en la tabla y aprieta la pelea por la final.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Yasiel Puig',
+      3 => 'Esmil Rogers',
+      4 => 'Raffi Vizcaíno',
+      5 => 'Wilfredo Tovar',
+      6 => 'Romer Cuadrado',
+      7 => 'Naswell Paulino',
+    ),
+    'date' => '15 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/puig-explota-puerto-la-cruz-devuelve-vida-magallanes.php',
+  ),
+  '219-motor-tribu-regreso-ano-hernan-perez' => 
+  array (
+    'title' => 'De .219 a motor de la tribu: el Regreso del Año de Hernán Pérez',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>De bate discreto en Lara a colíder en impulsadas con Caribes.</li>
+
+    <li>Regreso del Año y Productor del Año compartido: doble sello de elite.</li>
+
+    <li>Línea brutal con corredores en posición de anotar cambió la ofensiva oriental.</li>
+
+    <li>Caribes arma un lineup temible alrededor de su nuevo capitán silencioso.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Hernán Pérez',
+      1 => 'Balbino Fuenmayor',
+      2 => 'Herlis Rodríguez',
+      3 => 'Premio "Luis Salazar"',
+      4 => 'Regreso del Año',
+      5 => 'Productor del Año',
+      6 => 'Jugador Más Valioso',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/219-motor-tribu-regreso-ano-hernan-perez.php',
+  ),
+  'cardenales-9-5-bravos-acuna-castiga-temprano-lara-barre-cima' => 
+  array (
+    'title' => 'Cardenales 9–5 Bravos: Acuña castiga temprano y Lara barre para afianzarse en la cima',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Bravos pegó primero, pero la reacción larense llegó de inmediato con poder.</li>
+
+    <li>Luisangel Acuña remolcó cinco carreras y volvió a ser la gran figura ofensiva.</li>
+
+    <li>César Valdez se recompuso tras el susto inicial y dio cinco entradas de control.</li>
+
+    <li>La barrida deja a Cardenales 6–2 y hunde a Bravos en el sótano con 2–6.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Cardenales de Lara',
+      4 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Luisangel Acuña',
+      3 => 'Rafael “Balita” Ortega',
+      4 => 'Danry Vásquez',
+      5 => 'Gorkys Hernández',
+      6 => 'Alexi “El Ninja” Amarista',
+      7 => 'Wilson García',
+      8 => 'José Rondón',
+      9 => 'César Valdez',
+      10 => 'Osmer Morales',
+      11 => 'Listher Sosa',
+      12 => 'Héctor Pérez',
+      13 => 'Norwith Gudiño',
+      14 => 'José Campos',
+      15 => 'Ronnie Williams',
+      16 => 'Ali Sánchez',
+      17 => 'Ricky Bones',
+      18 => 'Juan Gómez',
+    ),
+    'date' => '15 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-9-5-bravos-acuna-castiga-temprano-lara-barre-cima.php',
+  ),
+  'cardenales-lara-batea-sin-frenos-ildemaro-vargas-record-historico' => 
+  array (
+    'title' => 'Cardenales de Lara batea sin frenos e Ildemaro Vargas acecha un récord histórico',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>La ofensiva larense manda en promedio y carreras impulsadas del Round Robin.</li>
+
+    <li>El tridente Acuña–Vásquez–Vargas sostiene el ataque crepuscular.</li>
+
+    <li>Ildemaro suma 14 hits y una racha feroz de juegos multi-hit.</li>
+
+    <li>El de Caripito puede destronar a leyendas como Bob Abreu y Miguel Cabrera.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Hazañas Individuales',
+    'categories' => 
+    array (
+      0 => 'Hazañas Individuales',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Round Robin',
+      4 => 'Cardenales de Lara',
+      5 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Ildemaro Vargas',
+      1 => 'Luisangel Acuña',
+      2 => 'Danry Vásquez',
+      3 => 'Bob Abreu',
+      4 => 'Miguel Cabrera',
+      5 => 'César Izturis',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-lara-batea-sin-frenos-ildemaro-vargas-record-historico.php',
+  ),
+  'carlos-manin-hernandez-fuera-peligro-mensaje-calma-beisbol-venezolano' => 
+  array (
+    'title' => 'Carlos “Manín” Hernández: fuera de peligro y con un mensaje que calma al beisbol venezolano',
+    'subtitle' => '<p>El lanzador de Leones del Caracas, Carlos “Manín” Hernández, reaparece tras su accidente de tránsito y envía un mensaje de calma y agradecimiento al beisbol venezolano.</p>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'Leones del Caracas',
+      2 => 'Guardianes de Cleveland',
+    ),
+    'tags' => 
+    array (
+      0 => 'Carlos “Manín” Hernández',
+      1 => 'MLB',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/carlos-manin-hernandez-fuera-peligro-mensaje-calma-beisbol-venezolano.php',
+  ),
+  'carlos-sepulveda-infielder-importado-magallanes' => 
+  array (
+    'title' => '¿Puede Carlos Sepúlveda el nuevo infielder importado encender a Magallanes?',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>La directiva suma a un infielder extranjero en plena recta decisiva.</li>
+
+    <li>Buscan más profundidad ofensiva y defensiva detrás del factor Puig.</li>
+
+    <li>El mexicano llega encendido tras una sólida campaña invernal.</li>
+
+    <li>Magallanes aún tiene vida matemática en la lucha por la final.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Carlos Sepúlveda',
+      2 => 'Yasiel Puig',
+      3 => 'Yadier Molina',
+    ),
+    'date' => '15 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/carlos-sepulveda-infielder-importado-magallanes.php',
+  ),
+  'final-lvbp-siete-juegos-campeon-no-ira-serie-caribe-2026' => 
+  array (
+    'title' => 'Final de la LVBP seguirá a siete juegos y el campeón no irá a la Serie del Caribe 2026',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>La liga despeja dudas y ratifica la final al mejor de siete.</li>
+
+    <li>El calendario se aprieta, pero no se toca la serie por el título.</li>
+
+    <li>El campeón no viajará a Guadalajara para la Serie del Caribe 2026.</li>
+
+    <li>La nueva vitrina internacional será la Serie de las Américas Gran Caracas 2026.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Béisbol Internacional',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Serie del Caribe',
+      3 => 'Serie de las Américas',
+      4 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Asociación de Béisbol de las Américas',
+      2 => 'Ausencia de Venezuela',
+      3 => 'Confederación de Béisbol Profesional del Caribe',
+      4 => 'Serie de las Américas 2026',
+      5 => 'Serie del Caribe 2026',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/final-lvbp-siete-juegos-campeon-no-ira-serie-caribe-2026.php',
+  ),
+  'jadher-areinamo-novato-lvbp-2025-2026' => 
+  array (
+    'title' => 'Jadher Areinamo: Novato del Año que rozó la unanimidad',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Novato de 22 años que casi barre la votación del premio.</li>
+
+    <li>Dominó la liga ofensivamente pese a jugar menos que otros novatos.</li>
+
+    <li>Tiburones encuentra otro bate franquicia en años consecutivos.</li>
+
+    <li>Su explosión refuerza el puente LVBP–MLB para los Rays.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Tiburones de La Guaira',
+    ),
+    'tags' => 
+    array (
+      0 => 'Novato del Año',
+      1 => 'Jadher Areinamo',
+      2 => 'Salvador Pérez',
+      3 => 'Odúbel Herrera',
+      4 => 'Luis Matos',
+      5 => 'MLB',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/jadher-areinamo-novato-lvbp-2025-2026.php',
+  ),
+  'jesus-reyes-brazo-invisible-magallanes-campeon-octavo-inning' => 
+  array (
+    'title' => 'Jesús Reyes: el brazo invisible que sostiene al Magallanes campeón del octavo inning',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Primer gran premio individual para un relevista que casi no falla.</li>
+
+    <li>12 holds y rol de puente: la otra mitad del salvado turco.</li>
+
+    <li>Su trabajo silencioso explica parte del repunte del bullpen naviero.</li>
+
+    <li>El Setup del Año consolida una tradición de brazos claves en Magallanes.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Jesús Reyes',
+      1 => 'Setup del Año',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/jesus-reyes-brazo-invisible-magallanes-campeon-octavo-inning.php',
+  ),
+  'resurgir-pitcheo-caribes-liderar-round-robin' => 
+  array (
+    'title' => 'El resurgir del pitcheo de Caribes para liderar el Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>De la duda en la ronda regular a la solidez en enero.</li>
+
+    <li>El cuerpo de lanzadores firma la mejor efectividad del todos contra todos.</li>
+
+    <li>La mano de Jesús Hernández y del cuerpo médico cambia el relato.</li>
+
+    <li>La Tribu demuestra que también se puede ganar desde el montículo.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Jesús Hernández',
+    ),
+    'date' => '15 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/resurgir-pitcheo-caribes-liderar-round-robin.php',
+  ),
+  'ricardo-sanchez-carrao-bracho-magallanes' => 
+  array (
+    'title' => 'Ricardo Sánchez, el zurdo que arrasó con el “Carrao” Bracho',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>El as del Magallanes firmó su mejor campaña en la LVBP.</li>
+
+    <li>Recibió 59 de 60 votos al primer lugar para el Pitcher del Año.</li>
+
+    <li>Su dominio abrió el techo competitivo de la rotación turca.</li>
+
+    <li>Toma el testigo de Junior Guerra entre los grandes abridores de la liga.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Pitcher del Año',
+      1 => 'Premio “Carrao” Bracho',
+      2 => 'Ricardo Sánchez',
+      3 => 'Silvino Bracho',
+      4 => 'José Marcos Torres',
+      5 => 'Junior Guerra',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ricardo-sanchez-carrao-bracho-magallanes.php',
+  ),
+  'serie-americas-gran-caracas-2026-venezuela-toma-sede-vitrina' => 
+  array (
+    'title' => 'Serie de las Américas Gran Caracas 2026: Venezuela toma la sede y la vitrina',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>El Monumental y el Forum La Guaira serán los grandes escenarios de febrero.</li>
+
+    <li>Venezuela recibirá a siete países en un torneo de 25 juegos.</li>
+
+    <li>La LVBP se apoya en la ABAM para proyectarse más allá del Caribe.</li>
+
+    <li>El campeón criollo tendrá casa llena en su principal cita internacional.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Argentina',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Venezuela',
+      3 => 'LVBP',
+      4 => 'Cuba',
+      5 => 'Panamá',
+      6 => 'Nicaragua',
+      7 => 'Colombia',
+      8 => 'Curazao',
+      9 => 'Argentina',
+    ),
+    'tags' => 
+    array (
+      0 => 'ABAM',
+      1 => 'Ajax Delgado',
+      2 => 'Artículo Patrocinado',
+      3 => 'David Salayandia',
+      4 => 'LVBP',
+      5 => 'Serie de las Américas 2026',
+      6 => 'Serie del Caribe 2026',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-gran-caracas-2026-venezuela-toma-sede-vitrina.php',
+  ),
+  'bravos-4-0-magallanes-inning-letal-tabla' => 
+  array (
+    'title' => 'Bravos 4-0 Magallanes: un inning letal que complica a los dos en la tabla',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Jonrón de tres de José Sánchez parte el juego en dos.</li>
+
+    <li>Felix Doubront pone la veteranía al servicio de un bullpen impecable.</li>
+
+    <li>Magallanes conecta siete hits… y ni una sola carrera.</li>
+
+    <li>El 4-0 deja a ambos con 3-6, al borde del precipicio del Round Robin.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Bravos de Margarita',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'José Sánchez',
+      3 => 'Felix Doubront',
+      4 => 'Enmanuel De Jesús',
+      5 => 'Wilson García',
+      6 => 'Gorkys Hernández',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/bravos-4-0-magallanes-inning-letal-tabla.php',
+  ),
+  'brazo-dominicano-recta-final-caribes-suma-emilio-vargas' => 
+  array (
+    'title' => 'Un brazo dominicano para la recta final: Caribes suma a Emilio Vargas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Brazo dominicano para un Round Robin lleno de juegos de muchas carreras.</li>
+
+    <li>Puede abrir, relevar largo o apagar incendios en el medio juego.</li>
+
+    <li>Llega con ritmo de LIDOM y mejoría reciente en postemporada.</li>
+
+    <li>Movimiento que confirma a Caribes como equipo que se ve en la final.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Emilio Vargas',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/brazo-dominicano-recta-final-caribes-suma-emilio-vargas.php',
+  ),
+  'colombia-elige-serie-de-las-americas-sobre-serie-del-caribe' => 
+  array (
+    'title' => 'Colombia elige su propio camino: Serie de las Américas por encima de la Serie del Caribe',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Colombia dice “no” a Guadalajara y “sí” a su propio proyecto.</li>
+
+    <li>La liga apuesta por estabilidad y planificación antes que por glamour inmediato.</li>
+
+    <li>Serie del Caribe como vitrina histórica, Serie de las Américas como casa propia.</li>
+
+    <li>Decisión deportiva, económica… y también política dentro del mapa del Caribe.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Colombia',
+    'categories' => 
+    array (
+      0 => 'Colombia',
+      1 => 'Serie de las Américas',
+      2 => 'Serie del Caribe',
+      3 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Serie del Caribe 2026',
+      2 => 'Diprobéisbol',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/colombia-elige-serie-de-las-americas-sobre-serie-del-caribe.php',
+  ),
+  'lidom-en-zona-de-fuego-dominicana-pasaje-guadalajara' => 
+  array (
+    'title' => 'LIDOM en zona de fuego: Dominicana se juega el pasaje a Guadalajara',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Cuatro juegos por delante, dos cupos y cero margen de error.</li>
+
+    <li>Leones al frente; Toros y Águilas se juegan la vida por la final.</li>
+
+    <li>Gigantes casi sin opciones, pero con poder para arruinar planes ajenos.</li>
+
+    <li>El campeón será el pasaporte dominicano a la Serie del Caribe Jalisco 2026.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'República Dominicana',
+    'categories' => 
+    array (
+      0 => 'República Dominicana',
+      1 => 'LIDOM',
+      2 => 'Leones del Escogido',
+      3 => 'Toros del Este',
+      4 => 'Águilas Cibaeñas',
+      5 => 'Gigantes del Cibao',
+      6 => 'Serie del Caribe',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'CBPC',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/lidom-en-zona-de-fuego-dominicana-pasaje-guadalajara.php',
+  ),
+  'magallanes-pierde-yasiel-puig-cita-justicia' => 
+  array (
+    'title' => 'Magallanes pierde Yasiel Puig por una cita con la justicia',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Sale el bate más caliente de Magallanes en pleno Round Robin.</li>
+
+    <li>Viaje obligado a EE. UU. por una comparecencia judicial ya programada.</li>
+
+    <li>De un solo jonrón en 24 juegos a cinco cuadrangulares en sus últimos diez.</li>
+
+    <li>La nave pierde a su cubano de impacto justo cuando pelea el pase a la final.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Yasiel Puig',
+      2 => 'Rougned Odor',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-pierde-yasiel-puig-cita-justicia.php',
+  ),
+  'magallanes-recupera-mvp-as-odor-ricardo-sanchez' => 
+  array (
+    'title' => 'Magallanes recupera su MVP y su as: Rougned Odor y Ricardo Sánchez',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>La nave recupera a un casi-MVP justo cuando más aprieta el calendario.</li>
+
+    <li>Vuelve el Pitcher del Año y se reacomoda toda la rotación turca.</li>
+
+    <li>Magallanes está a tres juegos de la punta y ya no tiene margen de error.</li>
+
+    <li>El Round Robin obliga a reconstruir el plan sin Yasiel Puig, pero con nuevos líderes.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Rougned Odor',
+      2 => 'Ricardo Sánchez',
+      3 => 'Yasiel Puig',
+      4 => 'Pitcher del Año',
+      5 => 'Jugador Más Valioso',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-recupera-mvp-as-odor-ricardo-sanchez.php',
+  ),
+  'serie-de-las-americas-2026-formato-nadie-se-esconde' => 
+  array (
+    'title' => 'Serie de las Américas 2026: un formato pensado para que nadie se esconda',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Todos contra todos, 25 juegos y cero margen para inventos.</li>
+
+    <li>Semifinales a matar o morir y final al día siguiente.</li>
+
+    <li>Calendario comprimido que obliga a rotaciones profundas y bullpens largos.</li>
+
+    <li>Cada país garantiza vitrina completa: no hay rivales “que no te tocan”.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-de-las-americas-2026-formato-nadie-se-esconde.php',
+  ),
+  'como-puerto-rico-leyo-premio-manager-ano-molina' => 
+  array (
+    'title' => 'Cómo Puerto Rico leyó el premio de Mánager del Año de Yadier Molina en Venezuela',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Puerto Rico celebra un premio ganado en Venezuela como logro propio.</li>
+
+    <li>La remontada con Magallanes alimenta el relato del “dirigente ganador”.</li>
+
+    <li>Tres ligas invernales, un mismo sello competitivo para Molina.</li>
+
+    <li>El Caribe empieza a verlo más como mánager que como ex receptor de lujo.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Puerto Rico',
+    'categories' => 
+    array (
+      0 => 'Puerto Rico',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Criollos de Caguas',
+    ),
+    'tags' => 
+    array (
+      0 => 'Yadier Molina',
+      1 => 'Clásico Mundial',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/como-puerto-rico-leyo-premio-manager-ano-molina.php',
+  ),
+  'grandes-lvbp-2025-2026-mapa-premios' => 
+  array (
+    'title' => 'Los Grandes de la LVBP 2025–2026: el mapa de premios que ya salió al mundo',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>La LVBP ya tiene casi completo su cuadro de honor 25–26.</li>
+
+    <li>Caribes y Magallanes reparten buena parte de los premios gordos.</li>
+
+    <li>Los galardones saltan del boletín local al escaparate de MLB.</li>
+
+    <li>Falta solo el MVP “Víctor Davalillo” para cerrar la foto de la temporada.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Caribes de Anzoátegui',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Águilas del Zulia',
+      5 => 'Tiburones de La Guaira',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículo Patrocinado',
+      1 => 'Artículos Destacados',
+      2 => 'Balbino Fuenmayor',
+      3 => 'Cerrador del Año',
+      4 => 'Hernán Pérez',
+      5 => 'Jadher Areinamo',
+      6 => 'Jesús Reyes',
+      7 => 'Jugador Más Valioso',
+      8 => 'Los Grandes de la LVBP',
+      9 => 'MLB',
+      10 => 'Mánager del Año',
+      11 => 'Novato del Año',
+      12 => 'Pitcher del Año',
+      13 => 'Premio Víctor Davalillo',
+      14 => 'Productor del Año',
+      15 => 'Regreso del Año',
+      16 => 'Ricardo Sánchez',
+      17 => 'Set Up del Año',
+      18 => 'Silvino Bracho',
+      19 => 'Yadier Molina',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/grandes-lvbp-2025-2026-mapa-premios.php',
+  ),
+  'yadier-molina-chico-carrasquel-magallanes' => 
+  array (
+    'title' => 'El “Chico” Carrasquel de Yadier Molina: cuando Magallanes hizo historia con su mánager importado',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>De 8-15 en el sótano a Mánager del Año con sello histórico.</li>
+
+    <li>Magallanes se convierte en la franquicia con más “Chico” Carrasquel en la LVBP.</li>
+
+    <li>Primer boricua en ganar el premio y quinto importado en lograrlo.</li>
+
+    <li>Un galardón que consolida el proyecto turco construido desde el dugout.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Yadier Molina',
+      1 => 'Alfredo Pedrique',
+      2 => 'Carlos García',
+      3 => 'Luis Dorante',
+      4 => 'Wilfredo Romero',
+      5 => 'Premio “Chico” Carrasquel',
+      6 => 'Los Grandes de la LVBP',
+      7 => 'Mánager del Año',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/yadier-molina-chico-carrasquel-magallanes.php',
+  ),
+  'balbino-fuenmayor-repite-mvp-canoneros-historicos-lvbp' => 
+  array (
+    'title' => 'Balbino Fuenmayor repite MVP y se instala entre los cañoneros históricos de la LVBP',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+  <ul>
+    <li>Segundo MVP en cinco años, con números de videojuego.</li>
+    <li>Líder en poder y producción en plena lucha clasificatoria.</li>
+    <li>Caribes construyó su ofensiva alrededor de su bate del medio.</li>
+    <li>Se abre el debate: ¿ya es leyenda oriental de la LVBP?</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Jugador Más Valioso',
+      1 => '500 hits en la LVBP',
+      2 => 'Balbino “Balbinator” Fuenmayor',
+      3 => 'Wilson García',
+      4 => 'Rougned Odor',
+      5 => 'Los Grandes de la LVBP',
+    ),
+    'date' => '18 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/balbino-fuenmayor-repite-mvp-canoneros-historicos-lvbp.php',
+  ),
+  'caribes-arrolla-zulia-consolida-pelea-final' => 
+  array (
+    'title' => 'Caribes arrolla a Zulia y se consolida en la pelea por la final',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Pitcheo temprano de Cuenca marcó el rumbo del desafío.</li>
+
+    <li>Zulia volvió a fallar en momentos de presión.</li>
+
+    <li>Rally de cinco en el octavo quebró por completo la balanza.</li>
+
+    <li>Caribes se acomoda en zona de clasificación rumbo a la final.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Caribes de Anzoátegui',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Aldrem Corredor',
+      1 => 'Andrés Chaparro',
+      2 => 'Antonio Piñero',
+      3 => 'Balbino Fuenmayor',
+      4 => 'Henry Centeno',
+      5 => 'Herlis Rodríguez',
+      6 => 'Hernán Pérez',
+      7 => 'Jugador Más Valioso',
+      8 => 'Resumen Diario Round Robin',
+      9 => 'Romer Cuadrado',
+      10 => 'Round Robin 2025-26',
+      11 => 'Ángel Cuenca',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-arrolla-zulia-consolida-pelea-final.php',
+  ),
+  'gran-caracas-2026-logo-local-torneo-toda-america' => 
+  array (
+    'title' => 'Gran Caracas 2026: un logo local para un torneo que quiere ser de toda América',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+  <ul>
+    <li>Un solo logo para explicar Caracas, La Guaira y el Caribe.</li>
+    <li>Guacamaya, Waraira y mar: símbolos locales con ambición continental.</li>
+    <li>Nicaragua entra a escena bajo una marca fuertemente venezolana.</li>
+    <li>La identidad visual define cómo se verá el torneo en todo el continente.</li>
+  </ul>
+</section>',
+    'category' => 'Béisbol Internacional',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Venezuela',
+      3 => 'Nicaragua',
+    ),
+    'tags' => 
+    array (
+      0 => 'Gran Caracas 2026',
+      1 => 'Serie de las Américas 2026',
+    ),
+    'date' => '18 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/gran-caracas-2026-logo-local-torneo-toda-america.php',
+  ),
+  'round-robin-2025-2026-tabla-comprimida-no-deja-respirar' => 
+  array (
+    'title' => 'Round Robin 2025-2026: una tabla comprimida que no deja respirar a nadie',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+  <ul>
+    <li>Cardenales al frente, pero sin colchón real sobre sus perseguidores.</li>
+    <li>Caribes y Águilas viven en el segundo lugar… y en el filo.</li>
+    <li>Magallanes y Bravos siguen últimos, pero con vida matemática y moral.</li>
+    <li>Cada juego hasta el 25 de enero puede cambiar por completo el mapa.</li>
+  </ul>
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Cardenales de Lara',
+      4 => 'Caribes de Anzoátegui',
+      5 => 'Águilas del Zulia',
+      6 => 'Navegantes del Magallanes',
+      7 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículo Patrocinado',
+      1 => 'Artículos Destacados',
+      2 => 'Round Robin 2025-26',
+      3 => 'Tabla de Posiciones',
+    ),
+    'date' => '18 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/round-robin-2025-2026-tabla-comprimida-no-deja-respirar.php',
+  ),
+  'serie-caribe-jalisco-2026-mexico-juega-en-casa-contra-su-sequia' => 
+  array (
+    'title' => 'Serie del Caribe Jalisco 2026: México juega en casa contra su propia sequía',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+  <ul>
+    <li>Diez años sin título, ahora con dos equipos y localía.</li>
+    <li>Guadalajara se convierte en examen final para la LMP.</li>
+    <li>La presión no viene solo de los rivales, sino de la historia.</li>
+    <li>La meta interna es clara: aprovechar la casa o lamentarla años.</li>
+  </ul>
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Béisbol Internacional',
+      2 => 'México',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Serie del Caribe Mexicali 2025',
+    ),
+    'date' => '18 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-caribe-jalisco-2026-mexico-juega-en-casa-contra-su-sequia.php',
+  ),
+  'silvino-bracho-disciplina-profesionalismo-noveno-inning-bajo-control' => 
+  array (
+    'title' => 'Silvino Bracho: disciplina, profesionalismo y un noveno inning bajo control',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+  <ul>
+    <li>Tercer Cerrador del Año, con el noveno inning convertido en rutina.</li>
+    <li>Líder histórico de rescates en Águilas: cierre con sello propio.</li>
+    <li>Del jonrón de Trea Turner al dominio total en LVBP.</li>
+    <li>Manual viviente de cómo se maneja la presión en invierno.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Silvino Bracho',
+      1 => 'Trea Turner',
+      2 => 'Clásico Mundial 2023',
+      3 => 'MLB',
+      4 => 'Cerrador del Año',
+    ),
+    'date' => '18 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/silvino-bracho-disciplina-profesionalismo-noveno-inning-bajo-control.php',
+  ),
+  'triunfo-caracter-magallanes-resurge-dos-veces-deja-frio-lara-extrainnings' => 
+  array (
+    'title' => 'Un triunfo de carácter: Magallanes resurge dos veces y deja frío a Lara en extrainnings',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+  <ul>
+    <li>Magallanes borra déficit de 7-1 y cambia el guion del Round Robin.</li>
+    <li>Cedeño lidera la arremetida con poder y bateo oportuno.</li>
+    <li>Cardenales falla en cerrar el juego y entrega ventaja clave.</li>
+    <li>El boleto a Gómez define una noche dramática en Valencia.</li>
+  </ul>
+</section>',
+    'category' => 'Cardenales de Lara',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Edwin Escobar',
+      1 => 'José Gómez',
+      2 => 'Leandro Cedeño',
+      3 => 'Leonardo Pestana',
+      4 => 'Listher Sosa',
+      5 => 'Luis Sardiñas',
+      6 => 'Renato Núñez',
+      7 => 'Resumen Diario Round Robin',
+      8 => 'Rougned Odor',
+      9 => 'Round Robin 2025-26',
+    ),
+    'date' => '17 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/triunfo-caracter-magallanes-resurge-dos-veces-deja-frio-lara-extrainnings.php',
+  ),
+  'yadier-molina-manager-ano-revulsivo-magallanes' => 
+  array (
+    'title' => 'Yadier Molina, Mánager del Año y revulsivo que reanimó al Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+  <ul>
+    <li>De un 8–15 en el sótano a un 29–27 clasificado.</li>
+    <li>El sello del receptor líder trasladado al dugout turco.</li>
+    <li>Mánager importado, pero con manejo de club de casa.</li>
+    <li>Premio “Chico” Carrasquel como aval de una remontada real.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Yadier Molina',
+      1 => 'Premio “Chico” Carrasquel',
+      2 => 'Mánager del Año',
+      3 => 'Asdrúbal Cabrera',
+      4 => 'César Izturis',
+      5 => 'Los Grandes de la LVBP',
+    ),
+    'date' => '18 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/yadier-molina-manager-ano-revulsivo-magallanes.php',
+  ),
+  'rally-novena-cambio-mando-aguilas-alcanza-caribes-tabla' => 
+  array (
+    'title' => 'Rally en la novena y cambio de mando: Águilas alcanza a Caribes en la tabla',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+
+    <li>Juego de palo limpio que se definió con tres rayitas en la novena.</li>
+
+    <li>Aldrem Corredor, Hernán Pérez y José Pirela se enfrascan en duelo de poder.</li>
+
+    <li>Brainer Bonaci y el bullpen zuliano cambian la historia sobre la hora.</li>
+
+    <li>Caribes deja escapar la punta; Águilas se le sienta al lado en la tabla.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Águilas del Zulia',
+      3 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Aldrem Corredor',
+      3 => 'Hernán Pérez',
+      4 => 'José Pirela',
+      5 => 'Brainer Bonaci',
+      6 => 'Romer Cuadrado',
+      7 => 'Andrés Chaparro',
+      8 => 'Nomar Rojas',
+      9 => 'Silvino Bracho',
+      10 => 'Edwar Colina',
+    ),
+    'date' => '16 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/rally-novena-cambio-mando-aguilas-alcanza-caribes-tabla.php',
+  ),
+  'magallanes-10-4-aguilas-remontada-poder-noche-monumental' => 
+  array (
+    'title' => 'Magallanes 10–4 Águilas: remontada de poder en una noche “Monumental”',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Águilas se adelantó 2–0, pero la Nave volteó con tres jonrones.</li>
+
+    <li>Rally de cuatro en el quinto cambió por completo el guion del juego.</li>
+
+    <li>Ángel Reyes y Leandro Cedeño combinaron seis impulsadas.</li>
+
+    <li>El triunfo mete a Magallanes de lleno en la pelea y frena a Zulia.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Simón Muzziotti',
+      3 => 'José Pirela',
+      4 => 'Wilfredo Tovar',
+      5 => 'Ángel Reyes',
+      6 => 'Leandro Cedeño',
+      7 => 'Eliézer Alfonzo Jr.',
+      8 => 'José Suárez',
+      9 => 'Juan Mateo',
+      10 => 'Ronaldo Alesandro',
+      11 => 'José Gómez',
+    ),
+    'date' => '15 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-10-4-aguilas-remontada-poder-noche-monumental.php',
+  ),
+  'magallanes-alerta-lesion-yasiel-puig' => 
+  array (
+    'title' => 'Magallanes en alerta por la lesión de Yasiel Puig',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>La gran figura ofensiva del Round Robin salió del juego ante Águilas con molestias en la pierna izquierda.</li>
+
+    <li>El cubano apenas consumió un turno antes de abandonar el terreno en el Monumental Simón Bolívar.</li>
+
+    <li>Su producción de poder y embasado lo había convertido en el motor anímico de la Nave.</li>
+
+    <li>El cuerpo técnico espera el parte definitivo para saber cuánto tiempo estará fuera.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Yasiel Puig',
+      2 => 'Antonio Balleste',
+    ),
+    'date' => '15 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-alerta-lesion-yasiel-puig.php',
+  ),
+  'palmisano-traza-ruta-mas-sedes-lvbp-vitrina-internacional' => 
+  array (
+    'title' => 'Palmisano traza la ruta: más sedes y una LVBP con vitrina internacional',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>El Monumental de Caracas se consolida como eje de la estrategia a corto plazo.</li>
+
+    <li>La LVBP quiere repetir experiencias como el juego en San Cristóbal y sumar nuevas plazas.</li>
+
+    <li>La Serie de las Américas se convierte en la gran vidriera internacional tras perder la Serie del Caribe.</li>
+
+    <li>Incluso se asoma la idea de finales más largas, como parte de un producto más robusto.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Serie de las Américas',
+      3 => 'Béisbol Internacional',
+      4 => 'Navegantes del Magallanes',
+      5 => 'Caribes de Anzoátegui',
+      6 => 'Leones del Caracas',
+    ),
+    'tags' => 
+    array (
+      0 => 'Giuseppe Palmisano',
+      1 => 'Round Robin 2025-26',
+      2 => 'Serie de las Américas 2026',
+      3 => 'Asociación de Béisbol de las Américas (ABAM)',
+      4 => 'Estadio Monumental Simón Bolívar',
+      5 => 'Estadio Monumental de San Cristóbal',
+      6 => 'Caracas',
+      7 => 'Venezuela',
+      8 => 'San Cristóbal',
+      9 => 'Venezuela',
+      10 => 'La Guaira',
+      11 => 'Venezuela',
+    ),
+    'date' => '15 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/palmisano-traza-ruta-mas-sedes-lvbp-vitrina-internacional.php',
+  ),
+  'caribes-castiga-bravos-17-hits-liderato-round-robin' => 
+  array (
+    'title' => 'Caribes castiga a Bravos con 17 hits y se adueña del liderato del round robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Bateo oriental de 17 hits desnuda la fragilidad insular</li><li>Bravos reacciona tarde, cuando el juego ya tenía dueño</li><li>Antonio Piñero y Diego Infante marcan el tono ofensivo</li><li>El liderato de Caribes aprieta la carrera a la final</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Antonio Piñero',
+      3 => 'Diego Infante',
+      4 => 'Aldrem Corredor',
+      5 => 'Liarvis Breto',
+      6 => 'Yorvin Pantoja',
+      7 => 'Alexi Amarista',
+      8 => 'Moisés Gómez',
+      9 => 'Carlos Pérez',
+      10 => 'Melvi Acosta',
+    ),
+    'date' => '18 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-castiga-bravos-17-hits-liderato-round-robin.php',
+  ),
+  'error-acuna-bombazo-chaparro-aguilas-cardenales-round-robin' => 
+  array (
+    'title' => 'Error de Acuña y bombazo de Chaparro reaniman a Águilas y aprietan a Cardenales en el round robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>De 3-0 cómodo a derrumbe silencioso en Maracaibo</li><li>El swing de Chaparro reescribe un juego que parecía perdido</li><li>Pifia de Luisangel Acuña convierte un error en sentencia</li><li>Águilas se ponen medio juego detrás de Lara rumbo a la final</li></ul></section>',
+    'category' => 'Round Robin',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Águilas del Zulia',
+      4 => 'Cardenales de Lara',
+      5 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Andrés Chaparro',
+      3 => 'Luisangel Acuña',
+      4 => 'Arturo Nieto',
+      5 => 'Jaison Chourio',
+      6 => 'Nomar Rojas',
+      7 => 'Ronnie Williams',
+      8 => 'Silvino Bracho',
+      9 => 'Ildemaro Vargas',
+      10 => 'Robinson Hernández',
+    ),
+    'date' => '18 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/error-acuna-bombazo-chaparro-aguilas-cardenales-round-robin.php',
+  ),
+  'carlos-perez-catcher-referencia-poder-bravos-margarita' => 
+  array (
+    'title' => 'Carlos Pérez, el catcher que se volvió referencia de poder en Bravos de Margarita',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Receptor defensivo que terminó mandando en las remolcadas</li>
+    <li>Liderato histórico de CI en Bravos pese a una zafra irregular</li>
+    <li>Cuatro campañas seguidas entre los grandes cañoneros de la LVBP</li>
+    <li>Ícono de un proyecto competitivo que hoy sufre en el round robin</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Carlos Pérez',
+      1 => 'José “Cafecito” Martínez',
+      2 => 'Balbino Fuenmayor',
+      3 => 'Wilson García',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/carlos-perez-catcher-referencia-poder-bravos-margarita.php',
+  ),
+  'escogido-puerta-caribe-final-lidom-jalisco' => 
+  array (
+    'title' => 'Escogido otra vez en la puerta del Caribe: así llega a la final de LIDOM rumbo a Jalisco',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>El campeón caribeño vuelve a la final y se acerca a Jalisco</li>
+    <li>Águilas y Toros se juegan el último boleto con récord idéntico</li>
+    <li>República Dominicana defiende 23 coronas en el clásico caribeño</li>
+    <li>La final de LIDOM vale más que un título: define al retador de México</li>
+  </ul>
+</section>',
+    'category' => 'República Dominicana',
+    'categories' => 
+    array (
+      0 => 'República Dominicana',
+      1 => 'LIDOM',
+      2 => 'Leones del Escogido',
+      3 => 'Águilas Cibaeñas',
+      4 => 'Toros del Este',
+      5 => 'Tomateros',
+      6 => 'Charros',
+      7 => 'Serie del Caribe',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/escogido-puerta-caribe-final-lidom-jalisco.php',
+  ),
+  'luisangel-acuna-round-robin-epoca-robert-perez' => 
+  array (
+    'title' => 'Luisángel Acuña: un Round Robin de época bajo la sombra de Robert Pérez',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Bate joven, números de slugger histórico en Lara</li>
+    <li>A un jonrón del registro de Robert Pérez en semifinales</li>
+    <li>Sus 18 remolques sostienen la ofensiva crepuscular</li>
+    <li>Un todos contra todos que ya entra en la historia cardenalera</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Luisángel Acuña',
+      2 => 'Robert Pérez',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/luisangel-acuna-round-robin-epoca-robert-perez.php',
+  ),
+  'serie-americas-nueva-vitrina-integracion-curazao-primera-fila' => 
+  array (
+    'title' => 'Serie de las Américas: la nueva vitrina que empuja la integración… con Curazao en primera fila',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Torneo creado para sumar ligas, no para excluir historias</li>
+    <li>Curazao pasa de “productor de peloteros” a socio fundador con voz</li>
+    <li>ABAM abre una puerta donde las ligas emergentes pesan más</li>
+    <li>Venezuela se suma y la conversación sobre integración se acelera</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Curazao',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2025',
+      1 => 'Serie de las Américas 2026',
+      2 => 'Asociación de Béisbol de las Américas',
+      3 => 'ABAM',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-nueva-vitrina-integracion-curazao-primera-fila.php',
+  ),
+  'tomateros-charros-mexico-doble-bandera-serie-caribe-jalisco-2026' => 
+  array (
+    'title' => 'Tomateros y Charros: México se planta con doble bandera en la Serie del Caribe Jalisco 2026',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Dos equipos mexicanos confirmados antes de que caiga el último out en LAMP</li>
+    <li>Tomateros llega con pedigrí caribeño; Charros será anfitrión y campeón defensor</li>
+    <li>La ausencia de Venezuela abre la puerta a la doble representación azteca</li>
+    <li>LIDOM, Puerto Rico y Panamá ya conocen a dos rivales hechos a la medida de Jalisco</li>
+  </ul>
+</section>',
+    'category' => 'México',
+    'categories' => 
+    array (
+      0 => 'México',
+      1 => 'LMP',
+      2 => 'Tomateros de Culiacán',
+      3 => 'Charros de Jalisco',
+      4 => 'Serie del Caribe',
+      5 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Ausencia de Venezuela',
+      2 => 'CBPC',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/tomateros-charros-mexico-doble-bandera-serie-caribe-jalisco-2026.php',
+  ),
+  'yadier-molina-promete-guerra-plan-magallanes-sobrevivir-round-robin' => 
+  array (
+    'title' => 'Yadier Molina promete guerra: el plan de Magallanes para sobrevivir al round robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>De la remontada en Valencia al grito de “vinimos a guerrear”</li>
+    <li>Magallanes 4-6, con vida pero sin margen para equivocarse</li>
+    <li>Mánager del Año ahora dirige en modo emergencia permanente</li>
+    <li>Cardenales y Bravos marcan el camino de la resurrección naviera</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Yadier Molina',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/yadier-molina-promete-guerra-plan-magallanes-sobrevivir-round-robin.php',
+  ),
+  'caribes-resiste-14-innings-deja-bravos-borde-abismo' => 
+  array (
+    'title' => 'Caribes resiste 14 innings y deja a Bravos al borde del abismo',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Corredor firma el golpe definitivo en el inning 14</li>
+    <li>Margarita pierde una remontada que parecía encaminar</li>
+    <li>El bullpen indígena sostiene la clasificación</li>
+    <li>Bravos compromete casi por completo sus opciones a la final</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Aldrem Corredor',
+      3 => 'Carlos Mendoza',
+      4 => 'Naswell Paulino',
+      5 => 'Francisco Arcia',
+      6 => 'Gorkys Hernández',
+      7 => 'Alexi Amarista',
+      8 => 'Moisés Gómez',
+      9 => 'Breyvic Valera',
+      10 => 'Loiger Padron',
+      11 => 'Antonio Piñero',
+      12 => 'Hernán Pérez',
+      13 => 'Romer Cuadrado',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-resiste-14-innings-deja-bravos-borde-abismo.php',
+  ),
+  'magallanes-remonta-barquisimeto-aprieta-round-robin' => 
+  array (
+    'title' => 'Magallanes remonta en Barquisimeto y aprieta el Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Reyes decide y cambia todo en el octavo.</li>
+
+    <li>Lara desperdicia su reacción del sexto.</li>
+
+    <li>El error de Marcano casi cuesta caro.</li>
+
+    <li>La tabla se aprieta rumbo a la final.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Resumen Diario',
+    'categories' => 
+    array (
+      0 => 'Resumen Diario',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Round Robin',
+      4 => 'Navegantes del Magallanes',
+      5 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Angel Reyes',
+      3 => 'Ricardo Sánchez',
+      4 => 'Tucupita Marcano',
+      5 => 'Ildemaro Vargas',
+      6 => 'Yonny Hernández',
+      7 => 'Luisangel Acuña',
+      8 => 'Carlos Sepúlveda',
+      9 => 'Rougned Odor',
+      10 => 'Félix Cepeda',
+      11 => 'Felipe Vázquez',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-remonta-barquisimeto-aprieta-round-robin.php',
+  ),
+  'andres-chaparro-canonero-segunda-semana-round-robin' => 
+  array (
+    'title' => 'Andrés Chaparro, el cañonero que se adueñó de la segunda semana del Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>.478 de average y cuatro jonrones: semana de videojuego para Chaparro.</li>
+    <li>El inicialista de Águilas sostiene a un lineup que vive de su poder.</li>
+    <li>Se mete en la historia del Zulia y acecha registros de Ernesto Mejía.</li>
+    <li>Su nombre ya suena para premios grandes más allá del galardón semanal.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Águilas del Zulia',
+      4 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Jugador de la Semana',
+      2 => 'Andrés Chaparro',
+      3 => 'Luisángel Acuña',
+      4 => 'Simón Muzziotti',
+      5 => 'Alí Castillo',
+      6 => 'José Pirela',
+      7 => 'Ernesto Mejía',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/andres-chaparro-canonero-segunda-semana-round-robin.php',
+  ),
+  'brainer-bonaci-motor-silencioso-round-robin' => 
+  array (
+    'title' => 'Brainer Bonaci, el motor silencioso que más pisa el plato en el Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Refuerzo joven, 23 años y dueño del primer turno de la alineación.</li>
+    <li>Lidera el Round Robin en carreras anotadas con 13 pisadas de home.</li>
+    <li>Su corrido de bases y embasado sostienen la ofensiva de Águilas.</li>
+    <li>Es la pieza que conecta el plan de Lipso Nava con la pelea por la final.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Brainer Bonaci',
+      2 => 'Lipso Nava',
+      3 => 'José Pirela',
+      4 => 'Andrés Chaparro',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/brainer-bonaci-motor-silencioso-round-robin.php',
+  ),
+  'bravos-margarita-peor-efectividad-round-robin' => 
+  array (
+    'title' => 'Bravos de Margarita, atrapados en la peor efectividad del Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>De primer clasificado a un 3-7 que sabe a desplome.</li>
+    <li>Una efectividad de 8.07 que no se esconde con la ofensiva.</li>
+    <li>Abridores cortos, bullpen incendiado y un todos contra todos sin red.</li>
+    <li>Henry Blanco obligado a reinventar su pitcheo en tiempo de descuento.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Bravos de Margarita',
+      4 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Henry Blanco',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/bravos-margarita-peor-efectividad-round-robin.php',
+  ),
+  'cardenales-alerta-roja-comienzo-perfecto-riesgo-quedarse-fuera' => 
+  array (
+    'title' => 'Cardenales en alerta roja: del comienzo perfecto al riesgo de quedarse fuera',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>De un arranque 4-0 a un 6-4 que prende las alarmas.</li>
+    <li>El pitcheo permite 39 carreras en seis juegos y se rompe el libreto.</li>
+    <li>Remontadas de Magallanes y Águilas exponen a un bullpen sin respuestas.</li>
+    <li>Caribes toma la azotea y deja a Lara jugando con la calculadora.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Águilas del Zulia',
+      5 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'César Izturis',
+      2 => 'Andrés Chaparro',
+      3 => 'Luisángel Acuña',
+      4 => 'Arturo Nieto',
+      5 => 'Jaison Chourio',
+      6 => 'Ángel Reyes',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-alerta-roja-comienzo-perfecto-riesgo-quedarse-fuera.php',
+  ),
+  'caribes-anzoategui-tribu-encendio-polvora-manda-round-robin' => 
+  array (
+    'title' => 'Caribes de Anzoátegui: la tribu que encendió la pólvora y manda en el Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Cuatro triunfos en seis juegos y la cima cambia de dueño.</li>
+    <li>Veinte jonrones: la ofensiva oriental se adueña del cucharón.</li>
+    <li>Carlos Mendoza y Aldrem Corredor marcan el pulso del lineup.</li>
+    <li>Caribes entra a la semana final como el equipo más caliente.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Águilas del Zulia',
+      5 => 'Cardenales de Lara',
+      6 => 'Bravos de Margarita',
+      7 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Carlos Mendoza',
+      2 => 'Aldrem Corredor',
+      3 => 'Hernán Pérez',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-anzoategui-tribu-encendio-polvora-manda-round-robin.php',
+  ),
+  'formato-prueba-campeon-argentino-serie-americas' => 
+  array (
+    'title' => 'El formato que pone a prueba al campeón argentino en la Serie de las Américas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Todos contra todos, semis y final: cero margen para equivocarse.</li>
+    <li>El campeón LAB puede jugar hasta nueve veces en nueve días.</li>
+    <li>Rotación corta, bullpen largo: la clave del representante argentino.</li>
+    <li>La exigencia del calendario revelará la verdadera profundidad del roster.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Argentina',
+      3 => 'Venezuela',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Asociación de Béisbol de las Américas',
+      2 => 'Liga Argentina de Béisbol',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/formato-prueba-campeon-argentino-serie-americas.php',
+  ),
+  'magallanes-lider-jonrones-recibidos-factura-repunte' => 
+  array (
+    'title' => 'Magallanes, líder en jonrones recibidos: la factura oculta de su repunte',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Equipo en alza… pero con 17 jonrones en contra sobre la espalda</li>
+    <li>Pitcheo con efectividad inflada y margen mínimo en la tabla</li>
+    <li>Yadier Molina obligado a recalibrar su plan de Round Robin</li>
+    <li>Duelo ante Bravos: choque entre dos cuerpos de lanzadores en terapia intensiva</li>
+  </ul>
+</section>',
+    'category' => 'Round Robin',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Bravos de Margarita',
+      5 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Yadier Molina',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-lider-jonrones-recibidos-factura-repunte.php',
+  ),
+  'ruta-curazao-serie-americas-campeon-cpb' => 
+  array (
+    'title' => 'Ruta de Curazao a la Serie de las Américas: campeón CPB o nada',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>El título de la CPB 2026 vale pasaje directo a Caracas.</li>
+    <li>Tres franquicias, cuatro días y un solo boleto continental.</li>
+    <li>Curazao consolida el modelo “campeón de liga = representante”.</li>
+    <li>Calendario exprés: casi sin respiro entre la final y la Serie.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Curazao',
+      3 => 'CPB',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Serie de las Américas',
+      2 => 'Willemstad Cannons',
+      3 => 'Curaçao Goats',
+      4 => 'Curaçao Suns',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ruta-curazao-serie-americas-campeon-cpb.php',
+  ),
+  'serie-americas-legado-nica-gran-caracas' => 
+  array (
+    'title' => 'Serie de las Américas: el legado nica que ahora viaja a la Gran Caracas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Nicaragua estrenó el torneo y se ganó respeto siendo anfitrión y finalista.</li>
+    <li>Panamá levantó la primera corona, pero el foco también quedó en el local.</li>
+    <li>De seis a siete países: la Serie crece y se muda a Venezuela.</li>
+    <li>La marca del beisbol nica sigue presente, aunque ahora juegue de visitante.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Nicaragua',
+      3 => 'Venezuela',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Serie de las Américas 2025',
+      2 => 'Serie de las Américas 2026',
+      3 => 'Asociación de Béisbol de las Américas',
+      4 => 'ABAM',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-legado-nica-gran-caracas.php',
+  ),
+  'ultima-semana-del-round-robin-asi-se-juega-y-asi-lo-ves' => 
+  array (
+    'title' => 'Última semana del Round Robin: así se juega y así lo ves',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Tres noches con Caribes en pantalla peleando por la final.</li>
+    <li>Duelos directos por el segundo lugar en horario estelar.</li>
+    <li>Ocho canales y un streaming oficial llevan la LVBP a todo el país.</li>
+    <li>Señal abierta, cable y apps: la recta final cabe en el bolsillo.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Bravos de Margarita',
+      5 => 'Águilas del Zulia',
+      6 => 'Cardenales de Lara',
+      7 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Meridiano TV',
+      2 => 'SimplePlus',
+      3 => 'InterGO',
+      4 => 'Netuno Go',
+      5 => 'ABA TV Go',
+      6 => 'IVC',
+      7 => 'ByM Sport',
+      8 => 'Televen',
+      9 => 'TVES',
+      10 => 'Venevisión',
+      11 => 'Canal i',
+      12 => '1 Baseball',
+      13 => 'BeisbolPlay',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ultima-semana-del-round-robin-asi-se-juega-y-asi-lo-ves.php',
+  ),
+  'round-robin-2025-26-semana-2-caribes-cardenales-aguilas' => 
+  array (
+    'title' => 'Resumen 2 Round Robin 2025-26: Caribes manda, Cardenales tambalea y Águilas aprieta',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+
+
+  <ul>
+
+    <li>Caribes se adueña del liderato y mueve todas las fichas del tablero.</li>
+
+    <li>Cardenales pierde colchón: poder sobra, outs finales no.</li>
+
+    <li>Águilas vive del bullpen y del madero caliente de Andrés Chaparro.</li>
+
+    <li>Magallanes y Bravos reaccionan tarde y juegan contra el calendario.</li>
+
+  </ul>
+
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Bravos de Margarita',
+      1 => 'Cardenales de Lara',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'LVBP',
+      4 => 'Navegantes del Magallanes',
+      5 => 'Resumen Semanal',
+      6 => 'Round Robin',
+      7 => 'Venezuela',
+      8 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Aldrem Corredor',
+      1 => 'Alexi Amarista',
+      2 => 'Alí Castillo',
+      3 => 'Andrés Chaparro',
+      4 => 'Antonio Piñero',
+      5 => 'Artículo Patrocinado',
+      6 => 'Balbino Fuenmayor',
+      7 => 'Brainer Bonaci',
+      8 => 'Cristian Hernández',
+      9 => 'César Izturis',
+      10 => 'Edwar Colina',
+      11 => 'Eliézer Alfonzo Jr.',
+      12 => 'Esmil Rogers',
+      13 => 'Hernán Pérez',
+      14 => 'Ildemaro Vargas',
+      15 => 'José Herrera',
+      16 => 'José Pirela',
+      17 => 'José Rondón',
+      18 => 'José Sánchez',
+      19 => 'Leandro Cedeño',
+      20 => 'Luis Castro',
+      21 => 'Luis Sardiñas',
+      22 => 'Luisángel Acuña',
+      23 => 'Nomar Rojas',
+      24 => 'Raffi Vizcaíno',
+      25 => 'Renato Núñez',
+      26 => 'Resumen Semanal',
+      27 => 'Romer Cuadrado',
+      28 => 'Rougned Odor',
+      29 => 'Round Robin 2025-26',
+      30 => 'Silvino Bracho',
+      31 => 'Simón Muzziotti',
+      32 => 'Wilfredo Tovar',
+      33 => 'Wilson García',
+      34 => 'Yasiel Puig',
+      35 => 'Ángel Cuenca',
+      36 => 'Ángel Reyes',
+    ),
+    'date' => '19 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/round-robin-2025-26-semana-2-caribes-cardenales-aguilas.php',
+  ),
+  'aldrem-corredor-bujia-caribes-rumbo-final' => 
+  array (
+    'title' => 'Aldrem Corredor, la bujía que acerca a Caribes a la final',
+    'subtitle' => '<section class="meridiano-bloque-hooks">   <ul>     <li>Caribes no solo gana: impone ritmo en el Round Robin.</li>     <li>Aldrem Corredor encaja como refuerzo “de manual”.</li>     <li>Producción sostenida, turno a turno, sin depender del batazo largo.</li>     <li>Con la tabla a favor, la final huele más cerca que nunca.</li>   </ul> </section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Aldrem Corredor',
+      1 => 'Draft de Refuerzos',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '21 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aldrem-corredor-bujia-caribes-rumbo-final.php',
+  ),
+  'ali-castillo-200-hits-postemporada-lvbp' => 
+  array (
+    'title' => 'Alí Castillo entra al club de los 200 hits de postemporada',
+    'subtitle' => '<section class="meridiano-bloque-hooks">   <ul>     <li>200 hits en postemporada: una cifra reservada para pocos.</li>     <li>Castillo es el 18.º en lograrlo en la historia de la LVBP.</li>     <li>Consistencia probada en juegos de máxima presión.</li>     <li>Un activo que sigue sumando legado.</li>   </ul> </section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Alí Castillo',
+      1 => 'Alexi Amarista',
+      2 => 'Ildemaro Vargas',
+      3 => 'Henry Rodríguez',
+      4 => 'Gorkys Hernández',
+    ),
+    'date' => '21 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ali-castillo-200-hits-postemporada-lvbp.php',
+  ),
+  'astudillo-sanchez-altercado-disciplina-lvbp' => 
+  array (
+    'title' => 'Astudillo–Sánchez: conato en el Round Robin y debate disciplinario en la LVBP',
+    'subtitle' => '<section class="meridiano-bloque-hooks">   <ul>     <li>Un choque “rústico” en un doble play encendió la chispa.</li>     <li>Hubo empujones, reclamos y vaciamiento de bancas sin golpes mayores.</li>     <li>El Round Robin apretado multiplica la tensión en cada jugada.</li>     <li>La LVBP queda otra vez ante el espejo de su disciplina interna.</li>   </ul> </section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Willians Astudillo',
+      2 => 'Ricardo Sánchez',
+    ),
+    'date' => '21 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/astudillo-sanchez-altercado-disciplina-lvbp.php',
+  ),
+  'mentalidad-caribes-asdrubal-cabrera-todos-importantes' => 
+  array (
+    'title' => 'La mentalidad de Caribes: Asdrúbal Cabrera no negocia ningún juego',
+    'subtitle' => '<section class="meridiano-bloque-hooks">   <ul>     <li>Caribes gana, pero no se relaja.</li>     <li>“Todos los juegos son importantes”, el mensaje del manager.</li>     <li>El pitcheo derecho ha respondido cuando más se exige.</li>     <li>La final está cerca, pero aún no asegurada.</li>   </ul> </section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Asdrúbal Cabrera',
+      1 => 'Round Robin 2025-26',
+      2 => 'Mentalidad Competitiva',
+    ),
+    'date' => '21 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/mentalidad-caribes-asdrubal-cabrera-todos-importantes.php',
+  ),
+  'mercado-refuerzos-cardenales-yadir-drake' => 
+  array (
+    'title' => 'Mercado de refuerzos: Cardenales apunta a Yadir Drake',
+    'subtitle' => '<section class="meridiano-bloque-hooks">   <ul>     <li>El nombre de Drake gana fuerza como refuerzo ofensivo.</li>     <li>Las reglas de importados condicionan el movimiento.</li>     <li>El visado aparece como principal obstáculo.</li>     <li>Cardenales busca impacto inmediato sin violar el reglamento.</li>   </ul> </section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Yadir Drake',
+      1 => 'Mercado de Refuerzos',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '21 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/mercado-refuerzos-cardenales-yadir-drake.php',
+  ),
+  'sucre-danry-resiliencia-empuja-caribes-magallanes' => 
+  array (
+    'title' => 'Sucre y Danry: dos regresos que empujan a Caribes y Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">   <ul>     <li>Sucre pasó de acariciar el retiro a ser pieza vital.</li>     <li>Danry convirtió una lesión peligrosa en impulso ofensivo.</li>     <li>En un Round Robin parejo, cada veterano cuenta doble.</li>     <li>Resiliencia que se traduce en victorias y presión sobre la tabla.</li>   </ul> </section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Jesús Sucre',
+      1 => 'Danry Vásquez',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '21 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/sucre-danry-resiliencia-empuja-caribes-magallanes.php',
+  ),
+  'ali-sanchez-golpe-amarra-segundo-lara-apalea-11-3' => 
+  array (
+    'title' => 'Alí Sánchez y el golpe que amarra el 2do: Lara apalea 11-3 en Maracaibo',
+    'subtitle' => '<section class="meridiano-bloque-hooks">   <ul>     <li>Seis carreras en el 2do: el juego se partió temprano.</li>     <li>Alí Sánchez, 5-5: noche redonda en plena semifinal.</li>     <li>César Valdez y el bullpen: control y cero sustos.</li>     <li>El 7-5 deja a Lara dueño del segundo puesto.</li>   </ul> </section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Alí Sánchez',
+      3 => 'Danry Vázquez',
+      4 => 'Willians Astudillo',
+      5 => 'Luisangel Acuña',
+      6 => 'Yonny Hernández',
+      7 => 'César Valdez',
+      8 => 'José Campos',
+      9 => 'Héctor Pérez',
+      10 => 'Brayan Pérez',
+      11 => 'Andrés Chaparro',
+      12 => 'Juan Mateo',
+      13 => 'Francisco Carrillo',
+      14 => 'Eduardo Torrealba',
+      15 => 'José Pirela',
+      16 => 'Simón Muzziotti',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ali-sanchez-golpe-amarra-segundo-lara-apalea-11-3.php',
+  ),
+  'magallanes-remonta-elimina-bravos-7-5' => 
+  array (
+    'title' => 'Magallanes remonta y elimina a Bravos con golpe final en el noveno',
+    'subtitle' => '<section class="meridiano-bloque-hooks">   <ul>     <li>Magallanes anotó cinco carreras en los dos últimos innings.</li>     <li>Dobles consecutivos sentenciaron el juego en el noveno.</li>     <li>Bravos dejó escapar la ventaja y quedó eliminado.</li>     <li>El 6-6 mantiene a Magallanes en plena pelea.</li>   </ul> </section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Wilfredo Tovar',
+      3 => 'Luis Sardiñas',
+      4 => 'Ángel Reyes',
+      5 => 'Renato Núñez',
+      6 => 'Eliézer Alfonzo Jr.',
+      7 => 'Félix Cepeda',
+      8 => 'Breyvic Valera',
+      9 => 'Carlos Pérez',
+    ),
+    'date' => '20 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-remonta-elimina-bravos-7-5.php',
+  ),
+  'chaparro-jonron-sexto-aguilas-triunfo-vital-caribes' => 
+  array (
+    'title' => 'Chaparro truena en el sexto y Águilas gana un juego vital',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li><strong>Un inning</strong> cambió la noche: del 3-3 al 6-3.</li>
+    <li><strong>Águilas</strong> se sostiene en la pelea por la final.</li>
+    <li><strong>Caribes</strong> tuvo el juego, pero no el cierre.</li>
+    <li><strong>Bullpen zuliano</strong> apagó la amenaza desde el séptimo.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Águilas del Zulia',
+      4 => 'Caribes de Anzoátegui',
+      5 => 'Navegantes del Magallanes',
+      6 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Andrés Chaparro',
+      3 => 'Alí Castillo',
+      4 => 'José Pirela',
+      5 => 'Simón Muzziotti',
+      6 => 'Balbino Fuenmayor',
+      7 => 'Jaison Chourio',
+      8 => 'Aldrem Corredor',
+      9 => 'Christian Suárez',
+      10 => 'Nomar Rojas',
+      11 => 'Silvino Bracho',
+      12 => 'Valentín Linárez',
+      13 => 'Herlis Rodríguez',
+      14 => 'Diego Infante',
+      15 => 'Eduardo Torrealba',
+    ),
+    'date' => '21 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/chaparro-jonron-sexto-aguilas-triunfo-vital-caribes.php',
+  ),
+  'renato-nunez-dos-grand-slams-magallanes-bravos-round-robin' => 
+  array (
+    'title' => 'Renato Núñez hace historia y Magallanes aplasta a Bravos',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li><strong>Dos grand slams</strong> en una noche histórica.</li>
+    <li><strong>Magallanes</strong> ganó temprano y sin sobresaltos.</li>
+    <li><strong>Bravos</strong> quedó oficialmente eliminado.</li>
+    <li><strong>La tabla</strong> del Round Robin vuelve a apretarse.</li>
+  </ul>
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => 'Carlos Sepúlveda',
+      1 => 'Eliminación Round Robin',
+      2 => 'Eliézer Alfonzo Jr.',
+      3 => 'Félix Doubront',
+      4 => 'Gorkys Hernández',
+      5 => 'Luis Amaya',
+      6 => 'Ramón Flores',
+      7 => 'Renato Núñez',
+      8 => 'Resumen Diario Round Robin',
+      9 => 'Round Robin 2025-26',
+      10 => 'Tucupita Marcano',
+      11 => 'Wilfredo Tovar',
+      12 => 'Yohander Méndez',
+    ),
+    'date' => '21 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/renato-nunez-dos-grand-slams-magallanes-bravos-round-robin.php',
+  ),
+  'cpb-2026-temporada-relampago-tio-daou-serie-americas' => 
+  array (
+    'title' => 'CPB 2026: una temporada relámpago para llegar “afilados” a la Serie de las Américas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">  <ul>    <li>Cuatro días, cero margen: béisbol en modo “playoff”.</li>    <li>Una sola sede para apretar logística y televisión.</li>    <li>El campeón llega con ritmo, pero sin desgaste.</li>    <li>Reto: intensidad sin perder identidad de liga.</li>  </ul></section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Curaçao',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Tio Daou Ballpark',
+      2 => 'Curaçao Professional Baseball',
+      3 => 'CPB',
+      4 => 'Willemstad Cannons',
+      5 => 'Curaçao Goats',
+      6 => 'Suns',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cpb-2026-temporada-relampago-tio-daou-serie-americas.php',
+  ),
+  'harold-ramirez-inhabilitacion-protestas-aguilas-lvbp' => 
+  array (
+    'title' => 'Caso Harold Ramírez: protestas frenan su llegada a Águilas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li><strong>Inhabilitación</strong> por trabas administrativas.</li>
+    <li><strong>Protestas</strong> activan el freno reglamentario.</li>
+    <li><strong>Águilas</strong> pierde un refuerzo anunciado.</li>
+    <li><strong>LVBP</strong> vuelve al centro del debate.</li>
+  </ul>
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Administración LVBP',
+      1 => 'Draft de Refuerzos',
+      2 => 'Harold Ramírez',
+      3 => 'Reglamentos y Protestas',
+      4 => 'Round Robin 2025-26',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/harold-ramirez-inhabilitacion-protestas-aguilas-lvbp.php',
+  ),
+  'magallanes-equipo-primero-odor-recta-final' => 
+  array (
+    'title' => 'Magallanes: “equipo primero” y el bate de Odor en la recta final',
+    'subtitle' => '<section class="meridiano-bloque-hooks">  <ul>    <li>En Round Robin, el discurso pesa: “equipo primero” o se te va el calendario.</li>    <li>Rougned Odor reaparece tras una ausencia y el lineup vuelve a ordenarse alrededor de su energía.</li>    <li>Magallanes ajusta roles por bajas internas: ganar exige adaptarse, no lamentarse.</li>    <li>Cuando un líder produce, el club respira; cuando no, la presión se multiplica.</li>  </ul></section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => 'Rougned Odor',
+      1 => 'Round Robin 2025-26',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-equipo-primero-odor-recta-final.php',
+  ),
+  'republica-dominicana-23-coronas-presion-jalisco-2026' => 
+  array (
+    'title' => 'República Dominicana y sus 23 coronas: la presión histórica que reactivó la previa de Jalisco 2026',
+    'subtitle' => '<section class="meridiano-bloque-hooks">  <ul>    <li>El historial no es adorno: en la Serie del Caribe, RD marca el listón.</li>    <li>México será anfitrión con dos equipos, pero la “vara” sigue siendo dominicana.</li>    <li>Leones del Escogido llega como campeón defensor: eso cambia la lectura del torneo.</li>    <li>Con Venezuela fuera, el tablero competitivo se reordena desde el primer lanzamiento.</li>  </ul></section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Béisbol Internacional',
+      2 => 'República Dominicana',
+      3 => 'México',
+      4 => 'Puerto Rico',
+      5 => 'LIDOM',
+      6 => 'LMP',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Ausencia de Venezuela',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/republica-dominicana-23-coronas-presion-jalisco-2026.php',
+  ),
+  'serie-americas-argentina-abam-integracion-regional' => 
+  array (
+    'title' => 'Serie de las Américas: Argentina se sienta a la mesa de ABAM y el torneo gana sentido',
+    'subtitle' => '<section class="meridiano-bloque-hooks">  <ul>    <li>Integración como bandera… y como filtro de oportunidades.</li>    <li>Argentina: cupo regular, roce real y vitrina regional.</li>    <li>ABAM busca unir ligas fuertes y emergentes en un mismo formato.</li>    <li>El reto: que el discurso se traduzca en estructura y continuidad.</li>  </ul></section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Argentina',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Asociación de Béisbol de las Américas',
+      2 => 'Liga Argentina de Béisbol',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-argentina-abam-integracion-regional.php',
+  ),
+  'renato-nunez-dos-grand-slams-record-historico-lvbp-round-robin' => 
+  array (
+    'title' => 'Renato Núñez y el récord de 2 grand slams en un mismo juego',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li><strong>Primer bateador</strong> en 80 temporadas de LVBP con 2 grand slams en un juego.</li>
+    <li><strong>Ocho impulsadas</strong> que igualan la máxima cifra en un encuentro de Round Robin.</li>
+    <li>Un <strong>récord transversal</strong>: vale para ronda regular, Round Robin y finales.</li>
+    <li>La hazaña reabre la conversación sobre <strong>remolcadores históricos</strong> en enero.</li>
+  </ul>
+</section>',
+    'category' => 'Hazañas Individuales',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Round Robin',
+      4 => 'Récords Históricos',
+    ),
+    'tags' => 
+    array (
+      0 => 'Andrés Chaparro',
+      1 => 'Artículos Destacados',
+      2 => 'Renato Núñez',
+      3 => 'Round Robin 2025-26',
+      4 => 'Récord LVBP',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/renato-nunez-dos-grand-slams-record-historico-lvbp-round-robin.php',
+  ),
+  'aguilas-metropolitanas-campeon-defensor-unico-confirmado-serie-de-las-americas-2026' => 
+  array (
+    'title' => 'Águilas Metropolitanas de Panamá, campeón defensor y único equipo confirmado para la Serie de las Américas 2026',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Panamá ganó la edición inaugural 2025 y ahora defiende la corona.</li>
+    <li>Ser el único club confirmado convierte a las Águilas en el “rival a derribar”.</li>
+    <li>El antecedente: un torneo de margen corto donde el carácter define series.</li>
+    <li>El foco inmediato: sostener la identidad del campeón con un roster competitivo.</li>
+  </ul>
+</section>',
+    'category' => 'Béisbol Internacional',
+    'categories' => 
+    array (
+      0 => 'Panamá',
+      1 => 'Serie de las Américas',
+      2 => 'Béisbol',
+    ),
+    'tags' => 
+    array (
+      0 => 'ABAM',
+      1 => 'Panamá 2025',
+      2 => 'Serie de las Américas 2026',
+      3 => 'Águilas Metropolitanas',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aguilas-metropolitanas-campeon-defensor-unico-confirmado-serie-de-las-americas-2026.php',
+  ),
+  'panama-puede-sorprender-serie-del-caribe-2026-federales-chiriqui' => 
+  array (
+    'title' => 'Panamá “puede sorprender” en la Serie del Caribe 2026: el discurso de confianza que arropa a Federales',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Confianza pública, presión interna: “dar un golpe”.</li>
+    <li>Continuidad con José Mayorga como ventaja táctica.</li>
+    <li>Formato corto: dos triunfos cambian el torneo.</li>
+    <li>Mezcla de oficio internacional y hambre competitiva.</li>
+  </ul>
+</section>',
+    'category' => 'Panamá',
+    'categories' => 
+    array (
+      0 => 'Panamá',
+      1 => 'Serie del Caribe',
+      2 => 'Federales de Chiriquí',
+    ),
+    'tags' => 
+    array (
+      0 => 'Dámaso Espino',
+      1 => 'José Mayorga',
+      2 => 'Serie del Caribe 2026',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/panama-puede-sorprender-serie-del-caribe-2026-federales-chiriqui.php',
+  ),
+  'andres-chaparro-record-jonrones-round-robin' => 
+  array (
+    'title' => 'Andrés Chaparro, récord jonronero que mantiene viva a Águilas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Suma siete jonrones en un solo Round Robin e iguala una marca histórica.</li>
+    <li>Números de .489 de promedio y OPS de 1.495 lo colocan en otra dimensión ofensiva.</li>
+    <li>Se instala en la élite del Zulia, cerca de nombres como Ernesto Mejía y Freddy Galvis.</li>
+    <li>Su poder mantiene a Águilas en plena lucha por la clasificación.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Andrés Chaparro',
+      1 => 'Eliézer "El Matatán" Alfonzo',
+      2 => 'Ernesto Mejía',
+      3 => 'Freddy Galvis',
+      4 => 'Round Robin 2025-26',
+      5 => 'Águilas del Zulia',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/andres-chaparro-record-jonrones-round-robin.php',
+  ),
+  'caribes-aplasta-aguilas-y-queda-a-un-triunfo-de-la-final' => 
+  array (
+    'title' => 'Exhibición oriental: Caribes castiga a Águilas y roza la Gran Final',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Caribes conecta 17 hits y arma un racimo de cinco carreras en el primer inning.</li>
+    <li>El corazón del lineup (Rodríguez, Infante, Cuadrado y Sucre) se combina para 11 imparables.</li>
+    <li>Ángel Cuenca domina otra vez a Águilas y mantiene su efectividad perfecta en carreras limpias ante los rapaces.</li>
+    <li>Con la victoria, Caribes llega a 9 triunfos y queda a solo una victoria de la Gran Final; Águilas queda con margen mínimo.</li>
+  </ul>
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'LVBP',
+      1 => 'Round Robin',
+      2 => 'Venezuela',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Caribes de Anzoátegui',
+      2 => 'Águilas del Zulia',
+      3 => 'Diego Infante',
+      4 => 'Romer Cuadrado',
+      5 => 'Hernán Pérez',
+      6 => 'Balbino Fuenmayor',
+      7 => 'Herlis Rodríguez',
+      8 => 'Jesús Sucre',
+      9 => 'Ángel Cuenca',
+      10 => 'Delvis Alegre',
+      11 => 'Alí Castillo',
+      12 => 'Brainer Bonaci',
+      13 => 'Round Robin 2025-26',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-aplasta-aguilas-y-queda-a-un-triunfo-de-la-final.php',
+  ),
+  'diego-infante-bate-silencioso-caribes-final' => 
+  array (
+    'title' => 'Diego Infante, el bate silencioso que empuja a Caribes rumbo a la final',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Tres jonrones y once empujadas lo ponen en vitrina.</li>
+    <li>Protagonista silencioso de la paliza reciente ante Águilas.</li>
+    <li>Su bate derecho equilibra una alineación sin huecos.</li>
+    <li>Caribes se apoya en su constancia rumbo a la final.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Diego Infante',
+      1 => 'Herlis Rodríguez',
+      2 => 'Romer Cuadrado',
+      3 => 'Jesús Sucre',
+      4 => 'Round Robin 2025-26',
+    ),
+    'date' => '23 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/diego-infante-bate-silencioso-caribes-final.php',
+  ),
+  'lesion-jose-aguila-negra-pirela-impacto-aguilas' => 
+  array (
+    'title' => 'La lesión del “Águila Negra” que golpea el plan de Águilas en el Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Ruptura total del tendón de Aquiles del pie derecho deja fuera a José Pirela de la postemporada.</li>
+    <li>El slugger se despedía del Round Robin con línea de .367/.377/.592 y 12 impulsadas.</li>
+    <li>Su ausencia se sintió de inmediato en la caída 11-3 ante Caribes en Maracaibo.</li>
+    <li>Águilas pierde a su récord histórico de impulsadas en playoff justo antes de un cierre a vida o muerte.</li>
+  </ul>
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'LVBP',
+      1 => 'Round Robin',
+      2 => 'Venezuela',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'José "Águila Negra" Pirela',
+    ),
+    'date' => '23 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/lesion-jose-aguila-negra-pirela-impacto-aguilas.php',
+  ),
+  'magallanes-remontada-hit-oro-tucupita-marcano-cardenales' => 
+  array (
+    'title' => 'Hit de oro y remontada: la noche en que Magallanes dejó en el terreno a Cardenales',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Tucupita Marcano decide con sencillo al derecho en el noveno.</li>
+    <li>Cardenales desperdicia ventaja de 9-4 construida en un rally de nueve carreras.</li>
+    <li>Ángel Reyes conecta jonrón de tres rayitas y anota la carrera del triunfo.</li>
+    <li>La victoria consolida a Magallanes en el segundo lugar del Round Robin (8-6).</li>
+  </ul>
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'LVBP',
+      1 => 'Round Robin',
+      2 => 'Venezuela',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Tucupita Marcano',
+      2 => 'Ángel Reyes',
+      3 => 'Carlos Sepúlveda',
+      4 => 'Rougned Odor',
+      5 => 'Luis Sardiñas',
+      6 => 'Felipe Rivero',
+      7 => 'Luis Barrera',
+      8 => 'Jesús Bastidas',
+      9 => 'Brayan Pérez',
+      10 => 'Listher Sosa',
+      11 => 'Yonny Hernández',
+      12 => 'Alí Sánchez',
+      13 => 'Rafael Ortega',
+      14 => 'Round Robin 2025-26',
+    ),
+    'date' => '22 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-remontada-hit-oro-tucupita-marcano-cardenales.php',
+  ),
+  'round-robin-rojo-vivo-cuatro-equipos-vivos-bravos-unico-eliminado' => 
+  array (
+    'title' => 'Round Robin al rojo vivo: cuatro equipos vivos y Bravos único eliminado',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Caribes toma la punta y se acerca a la Serie Final.</li>
+    <li>Magallanes se metió en la pelea con una racha oportuna.</li>
+    <li>Cardenales y Águilas dependen de un cierre casi perfecto.</li>
+    <li>Bravos, primer clasificado al Round Robin, es ahora el único eliminado.</li>
+  </ul>
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Round Robin',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Navegantes del Magallanes',
+      5 => 'Cardenales de Lara',
+      6 => 'Águilas del Zulia',
+      7 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Artículo Patrocinado',
+      2 => 'Artículos Destacados',
+      3 => 'Round Robin 2025-26',
+    ),
+    'date' => '23 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/round-robin-rojo-vivo-cuatro-equipos-vivos-bravos-unico-eliminado.php',
+  ),
+  'cardenales-liquida-aguilas-aprieta-lucha-segundo-cupo' => 
+  array (
+    'title' => 'Cardenales liquida a Águilas y aprieta la lucha por el segundo cupo',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Cardenales remonta y firma paliza clave en Barquisimeto.</li>
+    <li>Rally de siete carreras sepulta las últimas esperanzas zulianas.</li>
+    <li>Adrián Almeida domina seis entradas sin boletos ni titubeos.</li>
+    <li>Empate con Magallanes y final se definirá en la última jornada.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Hazañas Individuales',
+      4 => 'Cardenales de Lara',
+      5 => 'Águilas del Zulia',
+      6 => 'Navegantes del Magallanes',
+      7 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Adrián Almeida',
+      3 => 'Luisángel Acuña',
+      4 => 'Alí Sánchez',
+      5 => 'Jesús Bastidas',
+      6 => 'Rafael Ortega',
+      7 => 'Danry Vásquez',
+      8 => 'Yadir Drake',
+      9 => 'Yonny Hernández',
+      10 => 'Simón Muzziotti',
+      11 => 'Arturo Nieto',
+      12 => 'Eybersson Polanco',
+      13 => 'Alí Castillo',
+      14 => 'Juan Mateo',
+      15 => 'Wilmer Font',
+    ),
+    'date' => '23 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-liquida-aguilas-aprieta-lucha-segundo-cupo.php',
+  ),
+  'caribes-amarra-final-9-3-bravos-round-robin-redefinido' => 
+  array (
+    'title' => 'Caribes amarra la final: 9-3 ante Bravos y Round Robin redefinido',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Caribes asegura en casa el primer boleto a la Serie Final.</li>
+    <li>Lineup oriental castigó temprano y nunca soltó el comando.</li>
+    <li>Bravos quedó eliminado y la lucha es entre Lara y Magallanes.</li>
+    <li>Novena final en la historia para la tribu anzoatiguense.</li>
+  </ul>
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Round Robin',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Bravos de Margarita',
+      5 => 'Cardenales de Lara',
+      6 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Carlos Mendoza',
+      2 => 'Eduardo Salazar',
+      3 => 'Eybersson Polanco',
+      4 => 'Herlis Rodríguez',
+      5 => 'Hernán Pérez',
+      6 => 'Jesús Sucre',
+      7 => 'Loiger Padrón',
+      8 => 'Melvi Acosta',
+      9 => 'Resumen Diario Round Robin',
+      10 => 'Romer Cuadrado',
+      11 => 'Round Robin 2025-26',
+      12 => 'Yonathan Mendoza',
+    ),
+    'date' => '23 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-amarra-final-9-3-bravos-round-robin-redefinido.php',
+  ),
+  'caribes-asistencias-recientes-finales-lvbp' => 
+  array (
+    'title' => 'Caribes y su dominio reciente en finales de la LVBP',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Caribes vuelve a la Serie Final tras tres temporadas de ausencia.</li>
+    <li>Nueve finales en 25 años consolidan a la tribu como potencia de enero.</li>
+    <li>Un ciclo reciente con un título y dos subcampeonatos entre 2019 y 2022.</li>
+    <li>Asdrúbal Cabrera, mánager debutante, guía el nuevo intento por el quinto trofeo.</li>
+  </ul>
+</section>',
+    'category' => 'Caribes de Anzoátegui',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Artículos Destacados',
+      2 => 'Asdrúbal Cabrera',
+      3 => 'Caribes finales LVBP',
+      4 => 'Round Robin 2025-26',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-asistencias-recientes-finales-lvbp.php',
+  ),
+  'angel-reyes-20-jonrones-postemporada-lvbp' => 
+  array (
+    'title' => 'Ángel Reyes y el poder que manda en enero: 20 jonrones en postemporada',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Llegó a 20 jonrones de por vida en playoffs de la LVBP.</li>
+    <li>Nadie ha sacado más pelotas que él en enero desde 2020.</li>
+    <li>Su rol como refuerzo lo ha convertido en especialista de postemporada.</li>
+    <li>Está a un paso de meterse en la conversación con los jonroneros históricos.</li>
+  </ul>
+</section>',
+    'category' => 'Bateadores Históricos',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Cardenales de Lara',
+      4 => 'Águilas del Zulia',
+      5 => 'Tiburones de La Guaira',
+    ),
+    'tags' => 
+    array (
+      0 => 'Alexi Amarista',
+      1 => 'Andrés Chaparro',
+      2 => 'Antonio Armas',
+      3 => 'Artículos Destacados',
+      4 => 'Balbino Fuenmayor',
+      5 => 'Bob Abreu',
+      6 => 'Hernán Pérez',
+      7 => 'Juan Rivera',
+      8 => 'Luis Raven',
+      9 => 'René Reyes',
+      10 => 'Ronny Cedeño',
+      11 => 'Round Robin 2025-26',
+      12 => 'Ángel Reyes',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/angel-reyes-20-jonrones-postemporada-lvbp.php',
+  ),
+  'hernan-perez-ruta-dobles-marcan-epoca' => 
+  array (
+    'title' => 'Hernán Pérez y la ruta de los dobles que marcan época',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Igualó a Scutaro y Delgado con 28 dobles de por vida.</li>
+    <li>Su producción en el round robin impulsa el dominio de Caribes.</li>
+    <li>Dobles, versatilidad y experiencia lo confirman como pelotero de enero.</li>
+    <li>Apunta a romper la barrera de los 30 extrabases en plena carrera al título.</li>
+  </ul>
+</section>',
+    'category' => 'Caribes de Anzoátegui',
+    'categories' => 
+    array (
+      0 => 'Hazañas Individuales',
+      1 => 'Bateadores Históricos',
+      2 => 'Historia del Beisbol Venezolano',
+      3 => 'Round Robin',
+      4 => 'Venezuela',
+      5 => 'LVBP',
+      6 => 'Caribes de Anzoátegui',
+      7 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Alberto Callaspo',
+      1 => 'Alex Delgado',
+      2 => 'Hernán Pérez',
+      3 => 'Marco Scutaro',
+      4 => 'Round Robin 2025-26',
+      5 => 'Ángel Reyes',
+      6 => 'Óscar Azócar',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/hernan-perez-ruta-dobles-marcan-epoca.php',
+  ),
+  'lesion-de-jose-pirela-el-golpe-mas-duro-para-unas-aguilas-en-pleno-round-robin' => 
+  array (
+    'title' => 'Lesión de José Pirela: el golpe más duro para unas Águilas en pleno Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Águilas pierde a su pelotero franquicia en el peor momento.</li>
+    <li>Rotura del tendón de Aquiles implica cirugía y meses fuera.</li>
+    <li>El lineup zuliano se queda sin su líder emocional y ofensivo.</li>
+    <li>La planificación deportiva del club cambia hasta la zafra 2026-2027.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'José “Águila Negra” Pirela',
+      2 => 'Arnaldo Machado',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/lesion-de-jose-pirela-el-golpe-mas-duro-para-unas-aguilas-en-pleno-round-robin.php',
+  ),
+  'unico-jonron-oswaldo-olivares-memoria-magallanera' => 
+  array (
+    'title' => 'El único jonrón de Oswaldo Olivares, convertido en memoria eterna del Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Un bateador de contacto que solo una vez se fue para la calle.</li>
+    <li>3 de enero de 1991: Magallanes vs Caracas y una conexión inolvidable.</li>
+    <li>Más de 3.000 turnos, un solo jonrón y el hit 900 en la misma noche.</li>
+    <li>Por qué ese batazo sigue vivo en la nostalgia turca décadas después.</li>
+  </ul>
+</section>',
+    'category' => 'Bateadores Históricos',
+    'categories' => 
+    array (
+      0 => 'Historia del Beisbol Venezolano',
+      1 => 'Navegantes del Magallanes',
+      2 => 'LVBP',
+      3 => 'Venezuela',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículos Destacados',
+      1 => 'Oswaldo “El Gago” Olivares',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'The Meridiano Staff',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/unico-jonron-oswaldo-olivares-memoria-magallanera.php',
+  ),
+  'caimanes-colombia-serie-de-las-americas-2026' => 
+  array (
+    'title' => 'Caimanes será Colombia en la Serie de las Américas: el club más ganador se pone la camiseta del país',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Caimanes de Barranquilla confirma su presencia como representante de Colombia.</li>
+    <li>Un palmarés de 15 títulos y tricampeonato reciente alimentan la narrativa de dinastía.</li>
+    <li>La Serie de las Américas se convierte en la nueva vitrina continental del campeón colombiano.</li>
+    <li>El club asume el reto de ser “Colombia” en un escenario internacional exigente.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Colombia',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Caimanes de Barranquilla',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caimanes-colombia-serie-de-las-americas-2026.php',
+  ),
+  'panama-doble-vitrina-serie-caribe-serie-americas' => 
+  array (
+    'title' => 'Panamá en doble vitrina: así se reparte entre Serie del Caribe y Serie de las Américas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Panamá tendrá dos equipos en torneos distintos en la misma quincena.</li>
+    <li>Federales de Chiriquí representarán al país en la Serie del Caribe 2026.</li>
+    <li>Águilas Metropolitanas asumirán el reto en la Serie de las Américas en la Gran Caracas.</li>
+    <li>El país canalero se convierte en caso único del “doble calendario” internacional.</li>
+  </ul>
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Serie de las Américas',
+      2 => 'Béisbol Internacional',
+      3 => 'Panamá',
+    ),
+    'tags' => 
+    array (
+      0 => 'CBPC',
+      1 => 'Serie del Caribe 2026',
+      2 => 'Serie de las Américas 2026',
+      3 => 'Ausencia de Venezuela',
+      4 => 'Federales de Chiriquí',
+      5 => 'Águilas Metropolitanas',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/panama-doble-vitrina-serie-caribe-serie-americas.php',
+  ),
+  'serie-caribe-jalisco-2026-invitados-boleto' => 
+  array (
+    'title' => 'Serie del Caribe Jalisco 2026: los invitados que ya tienen su boleto',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Cuatro de cinco boletos definidos antes de que caiga el último out de enero.</li>
+    <li>México suma dos equipos y ocupa la plaza que no tendrá Venezuela.</li>
+    <li>Cangrejeros y Federales aseguran presencia boricua y panameña en Jalisco.</li>
+    <li>Dominicana define al último invitado mientras la sede afina detalles.</li>
+  </ul>
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Béisbol Internacional',
+      2 => 'México',
+      3 => 'LMP',
+    ),
+    'tags' => 
+    array (
+      0 => 'CBPC',
+      1 => 'Serie del Caribe 2026',
+      2 => 'Ausencia de Venezuela',
+      3 => 'Cangrejeros de Santurce',
+      4 => 'Federales de Chiriquí',
+      5 => 'Tomateros de Culiacán',
+      6 => 'Charros de Jalisco',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-caribe-jalisco-2026-invitados-boleto.php',
+  ),
+  'serie-de-las-americas-integracion-argentina-abam' => 
+  array (
+    'title' => 'Serie de las Américas: integración regional y el rol de Argentina en ABAM',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Nace un torneo pensado para unir a las ligas del continente.</li>
+    <li>ABAM articula a Argentina, Colombia, Cuba, Curazao, Nicaragua y más países.</li>
+    <li>Argentina gana un cupo internacional estable ligado a su liga local.</li>
+    <li>La Serie de las Américas se instala como complemento perfecto de la Serie del Caribe.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Argentina',
+      3 => 'Venezuela',
+      4 => 'Colombia',
+      5 => 'Cuba',
+      6 => 'Curazao',
+      7 => 'Nicaragua',
+      8 => 'Panamá',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'ABAM',
+      2 => 'Liga Argentina de Béisbol',
+      3 => 'LAB',
+      4 => 'Beisbol en Sudamérica',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-de-las-americas-integracion-argentina-abam.php',
+  ),
+  'magallanes-remontada-0-5-lara-back-to-back-11' => 
+  array (
+    'title' => 'Back-to-back en el 11 y bullpen de acero: Magallanes volteó 0-5 y dejó a Lara contra la pared',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>De 0-5 a 8-5 en 11 innings: el giro que cambió la tabla.</li>
+    <li>9.1 entradas en blanco del relevo naviero: el partido se jugó ahí.</li>
+    <li>Balk, hit y empate en el 9.º: Lara dejó la puerta abierta.</li>
+    <li>Renato Núñez y Tucupita Marcano: jonrones consecutivos para sentenciar.</li>
+  </ul>
+</section>',
+    'category' => 'Cardenales de Lara',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Carlos Sepúlveda',
+      2 => 'Felipe Vásquez',
+      3 => 'Félix Cepeda',
+      4 => 'Jesús Reyes',
+      5 => 'José Suárez',
+      6 => 'Leandro Cedeño',
+      7 => 'Listher Sosa',
+      8 => 'Luis Martínez',
+      9 => 'Raffi Vizcaíno',
+      10 => 'Renato Núñez',
+      11 => 'Resumen Diario Round Robin',
+      12 => 'Ricardo Sánchez',
+      13 => 'Ronnie Williams',
+      14 => 'Round Robin 2025-26',
+      15 => 'Tucupita Marcano',
+      16 => 'Wilfredo Tovar',
+      17 => 'Wilmer Font',
+      18 => 'Yadier Molina',
+      19 => 'Yonny Hernández',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-remontada-0-5-lara-back-to-back-11.php',
+  ),
+  'remontada-bravos-caribes-14-12-cierre-round-robin' => 
+  array (
+    'title' => 'La remontada que no cambió al finalista, pero sí el relato: Bravos 14, Caribes 12',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Caribes clavó 10 en el 1.º… y aun así perdió.</li>
+    <li>Ocho entradas de paciencia; una de furia para voltear.</li>
+    <li>Grand Slam de Jason López: el swing que selló la noche.</li>
+    <li>Bravos cerró con orgullo; Caribes con tarea pendiente.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Bravos de Margarita',
+      3 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => 'Resumen Diario Round Robin',
+      1 => 'Round Robin 2025-26',
+      2 => 'Edgar Torres',
+      3 => 'Diego Guzmán',
+      4 => 'Manuel Meléndez',
+      5 => 'Aldrem Corredor',
+      6 => 'Pedro Martínez',
+      7 => 'Ramón Flores',
+      8 => 'Juan Carlos Ramírez',
+      9 => 'Alexi Amarista',
+      10 => 'José Sánchez',
+      11 => 'Edgar Isea',
+      12 => 'Diego Moreno',
+      13 => 'Jason López',
+      14 => 'Wilmer Pérez',
+      15 => 'Gorkys Hernández',
+      16 => 'Adrián Luna',
+      17 => 'Werner Leal',
+      18 => 'Claudio Custodio',
+      19 => 'Naswell Paulino',
+      20 => 'Carlos Jesús Pérez',
+    ),
+    'date' => '24 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/remontada-bravos-caribes-14-12-cierre-round-robin.php',
+  ),
+  'curazao-serie-americas-2026-club-campeon-vs-seleccion' => 
+  array (
+    'title' => 'Curazao en la Serie de las Américas 2026: ¿club campeón o selección nacional?',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Dos etiquetas, una misma duda: “campeón CPB” vs “Team Curaçao”.</li>
+    <li>La edición 2025 ya dejó un híbrido: club base con refuerzos.</li>
+    <li>El nombre oficial importa: define elegibilidad, roster y narrativa.</li>
+    <li>Lo que falta es un comunicado que cierre la discusión.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Curazao',
+      3 => 'Venezuela',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Curacao Professional Baseball',
+      2 => 'ABAM',
+      3 => 'CPB',
+      4 => 'Curaçao Goats',
+      5 => 'Willemstad Cannons',
+      6 => 'Curaçao Suns',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/curazao-serie-americas-2026-club-campeon-vs-seleccion.php',
+  ),
+  'federales-chiriqui-afinan-pitcheo-ritmo-entrenamientos-rumbo-guadalajara' => 
+  array (
+    'title' => 'Federales de Chiriquí acelera el pitcheo: comando, bullpen y ritmo rumbo a Guadalajara',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Menos de dos semanas: el staff se arma con urgencia y método.</li>
+    <li>Prioridad: atacar la zona y bajar el “tráfico” por boletos.</li>
+    <li>El bullpen se entrena como si ya estuviera en Serie: roles definidos.</li>
+    <li>Rod Carew como laboratorio antes del salto a Guadalajara.</li>
+  </ul>
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Panamá',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Dámaso Espino',
+      2 => 'José Mayorga',
+      3 => 'Rubén Rivera',
+      4 => 'CBPC',
+      5 => 'PROBEIS',
+      6 => 'Federales de Chiriquí',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/federales-chiriqui-afinan-pitcheo-ritmo-entrenamientos-rumbo-guadalajara.php',
+  ),
+  'leones-de-leon-representante-nicaragua-serie-de-las-americas-2026' => 
+  array (
+    'title' => 'Leones de León, el campeón que llevará a Nicaragua a la Serie de las Américas 2026',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Nicaragua no improvisa: va con su club campeón y punto.</li>
+    <li>Leones de León ya tiene febrero en el radar: del festejo al avión.</li>
+    <li>El ruido no es el cupo, es el roster: ausencias y piezas por definir.</li>
+    <li>En torneos cortos, la química de club puede pesar más que el “equipo ideal”.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Nicaragua',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Sandor Guido',
+      2 => 'Omar Vizquel',
+      3 => 'Leones de Leó',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/leones-de-leon-representante-nicaragua-serie-de-las-americas-2026.php',
+  ),
+  'lidom-contra-reloj-posposiciones-viaje-expres-serie-caribe-2026' => 
+  array (
+    'title' => 'LIDOM contra el reloj: posposiciones y viaje exprés a la Serie del Caribe 2026',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Una lluvia puede robarte el único día “libre”.</li>
+    <li>El campeón dominicano aún no tiene nombre… ni maleta.</li>
+    <li>Menos margen para refuerzos, prácticas y ajuste del bullpen.</li>
+    <li>Del Quisqueya a Jalisco: logística en modo sprint.</li>
+  </ul>
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Béisbol Internacional',
+      2 => 'República Dominicana',
+      3 => 'LIDOM',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'CBPC',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/lidom-contra-reloj-posposiciones-viaje-expres-serie-caribe-2026.php',
+  ),
+  'magallanes-racha-pie-gran-final' => 
+  array (
+    'title' => 'Magallanes: racha y un pie en la Gran Final',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Seis al hilo y nueve victorias en los últimos 11: el Round Robin se le acomodó.</li>
+    <li>El “piso” ya está: Magallanes tiene asegurado, mínimo, un juego extra por el segundo cupo.</li>
+    <li>Remontar se volvió costumbre: cinco de los seis triunfos llegaron apretando al final.</li>
+    <li>El cierre define todo: el margen es pequeño, pero la confianza está grande.</li>
+  </ul>
+</section>',
+    'category' => 'Cardenales de Lara',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Cardenales de Lara',
+      5 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'José Suárez',
+      2 => 'Leandro Cedeño',
+      3 => 'Renato Núñez',
+      4 => 'Round Robin 2025-26',
+      5 => 'Tucupita Marcano',
+      6 => 'Wilfredo Tovar',
+      7 => 'Yadier Molina',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-racha-pie-gran-final.php',
+  ),
+  'puerto-rico-cangrejeros-roster-plan-entrenamientos-serie-del-caribe-2026' => 
+  array (
+    'title' => 'Puerto Rico acelera el paso: roster de 28 y plan de entrenamientos para la Serie del Caribe 2026',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Roster temprano: ventaja real en un torneo corto.</li>
+    <li>Receptores con colmillo MLB suben el piso competitivo.</li>
+    <li>Entrenamientos desde el 26: ritmo antes del viaje.</li>
+    <li>Mientras otros arman tarde, Santurce ya tiene guion.</li>
+  </ul>
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Puerto Rico',
+      2 => 'LBPRC',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Christian Vázquez',
+      2 => 'Juan Centeno',
+      3 => 'Cangrejeros de Santurce',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/puerto-rico-cangrejeros-roster-plan-entrenamientos-serie-del-caribe-2026.php',
+  ),
+  'serie-americas-2026-calendario-oficial-reto-cuba-seleccion' => 
+  array (
+    'title' => 'Serie de las Américas 2026: calendario oficial y el reto de Cuba con selección',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Fechas y sedes confirmadas: la planificación ya tiene reloj.</li>
+    <li>Caracas y La Guaira reparten el torneo en dos escenarios.</li>
+    <li>Cuba cambia el enfoque: selección de destacados, no club.</li>
+    <li>La ventana es corta: roster, logística y elegibilidad apremian.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Venezuela',
+      3 => 'Cuba',
+      4 => 'Federación Cubana de Béisbol',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-2026-calendario-oficial-reto-cuba-seleccion.php',
+  ),
+  'cardenales-con-la-calculadora-ultimo-dia-por-el-cupo-y-el-juego-extra' => 
+  array (
+    'title' => 'Cardenales con la calculadora: último día por el cupo y el juego extra',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Barquisimeto amanece con un solo mandato: ganar y seguir respirando.</li><li>Lara llega 8-7 y depende de combinaciones para clasificar o forzar extra.</li><li>El pitcheo abridor se volvió el ancla en la semana más dura.</li><li>Magallanes–Bravos define el tablero mientras Caribes ya espera rival.</li></ul></section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Águilas del Zulia',
+      4 => 'Navegantes del Magallanes',
+      5 => 'Bravos de Margarita',
+      6 => 'Caribes de Anzoátegui',
+    ),
+    'tags' => 
+    array (
+      0 => '',
+      1 => '"La Final" 2025-26',
+      2 => 'Adrián Almeida',
+      3 => 'Danry Vásquez',
+      4 => 'Round Robin 2025-26',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-con-la-calculadora-ultimo-dia-por-el-cupo-y-el-juego-extra.php',
+  ),
+  'caribes-comodin-primer-finalista-tribu-manda-enero' => 
+  array (
+    'title' => 'Caribes, de comodín a primer finalista: la Tribu manda en enero',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Del comodín al boleto: enero cambió el relato oriental.</li><li>Récord 10-6 y clinch temprano en el Round Robin.</li><li>Novena final: la Tribu reabre su ventana competitiva.</li><li>Magallanes o Cardenales, con el draft al acecho.</li></ul></section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Bravos de Margarita',
+      4 => 'Navegantes del Magallanes',
+      5 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Artículos Destacados',
+      1 => 'Asdrúbal Cabrera',
+      2 => 'Danry Vásquez',
+      3 => 'Draft de Refuerzos',
+      4 => 'Round Robin 2025-26',
+      5 => 'Serie de Comodín 2025-26',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-comodin-primer-finalista-tribu-manda-enero.php',
+  ),
+  'tv-juegos-decisivos-probables-round-robin' => 
+  array (
+    'title' => '25 de enero: TV, juegos decisivos y pitchers probables',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Magallanes puede dejar lista la Gran Final hoy.</li>
+    <li>Lara depende de ganar y mirar a Caracas.</li>
+    <li>Dos juegos a la misma hora: control remoto listo.</li>
+    <li>Abridores “por confirmar”: ojo con cambios de última hora.</li>
+  </ul>
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Bravos de Margarita',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Cardenales de Lara',
+      5 => 'Águilas del Zulia',
+      6 => 'Caribes de Anzoátegui',
+      7 => 'Round Robi',
+    ),
+    'tags' => 
+    array (
+      0 => '1Baseball',
+      1 => 'Abdiel Saldaña',
+      2 => 'BeisbolPlay',
+      3 => 'ByM',
+      4 => 'César Valdez',
+      5 => 'IVC',
+      6 => 'José Marcos Torres',
+      7 => 'Juan Mateo',
+      8 => 'Round Robin 2025-26',
+      9 => 'Televen',
+      10 => 'Venevisión',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/tv-juegos-decisivos-probables-round-robin.php',
+  ),
+  'ultima-cuenta-magallanes-cardenales-juego-extra' => 
+  array (
+    'title' => 'La última cuenta: Magallanes y Cardenales pueden citarse en un juego extra',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Un empate en el 2do lugar no se negocia: se juega.</li><li>Solo una combinación abre la puerta al extra: Magallanes pierde y Lara gana.</li><li>El precio oculto no es la tabla: es el bullpen antes de la final.</li><li>Caribes espera rival… y también mira quién llega más gastado.</li></ul></section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Cardenales de Lara',
+      4 => 'Caribes de Anzoátegui',
+      5 => 'Bravos de Margarita',
+      6 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => '',
+      1 => 'Round Robin 2025-26',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ultima-cuenta-magallanes-cardenales-juego-extra.php',
+  ),
+  'cardenales-gano-3-1-en-maracaibo-pero-la-victoria-no-alcanzo' => 
+  array (
+    'title' => 'Cardenales ganó 3-1 en Maracaibo, pero la victoria no alcanzó',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Tres carreras en el 1er inning: el plan salió perfecto… por un rato.</li>
+    <li>César Valdez puso el juego en piloto automático y José Vicente Campos lo cerró.</li>
+    <li>Águilas descontó por un error y apretó el drama sin remontar.</li>
+    <li>La ironía del Round Robin: Lara ganó, pero el boleto se le fue en otra ciudad.</li>
+  </ul>
+</section>',
+    'category' => 'Cardenales de Lara',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+      3 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Angelo Castellano',
+      2 => 'César Valdez',
+      3 => 'Danry Vásquez',
+      4 => 'Felipe González',
+      5 => 'Ildemaro Vargas',
+      6 => 'Jesús Bastidas',
+      7 => 'José Vicente Campos',
+      8 => 'Resumen Diario Round Robin',
+      9 => 'Round Robin 2025-26',
+      10 => 'Simón Muzziotti',
+      11 => 'Yadir Drake',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-gano-3-1-en-maracaibo-pero-la-victoria-no-alcanzo.php',
+  ),
+  'magallanes-margarita-round-robin-remontada-boleto-bases-llenas' => 
+  array (
+    'title' => 'Magallanes 3-2 Bravos: la Nave firmó su boleto a la Gran Final con una remontada de guion',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Bravos pegó primero: 2-0 en el 5to y el juego parecía inclinarse.</li>
+    <li>Magallanes respondió a tiempo: una en el 6to y dos en el 7mo.</li>
+    <li>La carrera decisiva llegó con bases llenas: un boleto que pesó como un hit.</li>
+    <li>El triunfo selló la clasificación y dejó el panorama final del Round Robin sin margen para Bravos.</li>
+  </ul>
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'LVBP',
+      1 => 'Round Robin',
+      2 => 'Navegantes del Magallanes',
+      3 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Carlos Sepúlveda',
+      2 => 'Jesús Reyes',
+      3 => 'Luis Sardiñas',
+      4 => 'Raffi Vizcaíno',
+      5 => 'Resumen Diario Round Robin',
+      6 => 'Rougned Odor',
+      7 => 'Round Robin LVBP 2025-26',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/magallanes-margarita-round-robin-remontada-boleto-bases-llenas.php',
+  ),
+  'serie-americas-club-daom-cupo-argentino-veremos' => 
+  array (
+    'title' => 'Serie de las Américas: Club Daom y el cupo argentino en veremos',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Daom vuelve a sonar como cara argentina en Caracas.</li>
+    <li>El criterio de la LAB empuja, pero falta el sello.</li>
+    <li>Experiencia previa: la Serie no perdona improvisaciones.</li>
+    <li>Entre confirmación y rumor, la ventana se achica.</li>
+  </ul>
+</section>',
+    'category' => 'Argentina',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Argentina',
+    ),
+    'tags' => 
+    array (
+      0 => 'Club Daom',
+      1 => 'Federación Argentina de Béisbol',
+      2 => 'LAB',
+      3 => 'Serie de las Américas 2026',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-club-daom-cupo-argentino-veremos.php',
+  ),
+  'serie-americas-cuba-18-plan-preparacion-tres-etapas' => 
+  array (
+    'title' => 'Serie de las Américas: Cuba arranca con 18 y arma un plan de fogueo en tres paradas',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Arranque en el Latinoamericano con una base corta: <strong>18</strong> convocados.</li>
+    <li>La lista crecerá a medida que caigan equipos en playoffs: “sumar sin romper la dinámica”.</li>
+    <li>Plan por etapas: La Habana → <strong>Nicaragua</strong> (partidos) → <strong>Arizona</strong> (amistosos).</li>
+    <li>El reto real: llegar con rodaje, pero sin perder tiempo en semanas de reloj apretado.</li>
+  </ul>
+</section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Cuba',
+      3 => 'Nicaragua',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Clásico Mundial de Béisbol',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-cuba-18-plan-preparacion-tres-etapas.php',
+  ),
+  'serie-americas-puente-nicaragua-torneo' => 
+  array (
+    'title' => 'Serie de las Américas: el puente que Nicaragua está construyendo sin playball oficial',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>La liga baja el telón; el foco regional sube volumen.</li>
+    <li>Protagonistas locales, vitrina inmediata en Venezuela.</li>
+    <li>Un campeón cambia de dugout en plena transición.</li>
+    <li>León viaja con ausencias que también cuentan historia.</li>
+  </ul>
+</section>',
+    'category' => 'Béisbol Internacional',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Venezuela',
+      3 => 'LVBP',
+      4 => 'Leones de León',
+      5 => 'Tigres de Chinandega',
+    ),
+    'tags' => 
+    array (
+      0 => 'Leones de León',
+      1 => 'Omar Vizquel',
+      2 => 'Sandor Guido',
+      3 => 'Serie de las Américas 2026',
+      4 => 'Tigres de Chinandega',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-puente-nicaragua-torneo.php',
+  ),
+  'serie-del-caribe-2026-panama-mayorga-continuidad-roce' => 
+  array (
+    'title' => 'Serie del Caribe 2026: el Panamá de Mayorga apuesta por continuidad y roce internacional',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Un róster curtido en torneos fuera de casa, sin vender humo.</li>
+    <li>José Mayorga repite mando: ventaja táctica y humana.</li>
+    <li>Núcleo reducido: la clave es administrar el desgaste de febrero.</li>
+    <li>La Serie se vuelve laboratorio real rumbo al Clásico Mundial.</li>
+  </ul>
+</section>',
+    'category' => 'Serie del Caribe',
+    'categories' => 
+    array (
+      0 => 'Serie del Caribe',
+      1 => 'Béisbol Internacional',
+      2 => 'Panamá',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'José Mayorga',
+      2 => 'Dámaso Espino',
+      3 => 'Clásico Mundial de Béisbol',
+      4 => 'PROBEIS',
+      5 => 'Federales de Chiriquí',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-del-caribe-2026-panama-mayorga-continuidad-roce.php',
+  ),
+  'cardenales-blinda-futuro-cesar-izturis-ratificado-2026-2027' => 
+  array (
+    'title' => 'Cardenales blinda el futuro: César Izturis ratificado para 2026-2027',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>En plena postemporada, Lara mueve primero y fija rumbo.</li><li>Continuidad en el dugout: el proyecto no se reinicia, se afina.</li><li>Coaches, importados y roles: la ratificación acelera decisiones.</li><li>La presión sube: sostener el proceso suele ser más difícil que iniciarlo.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'César Izturis',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/cardenales-blinda-futuro-cesar-izturis-ratificado-2026-2027.php',
+  ),
+  'donde-ver-final-lvbp-tv-streaming-cobertura-anunciada' => 
+  array (
+    'title' => 'Dónde ver la Final: TV y streaming con la cobertura anunciada',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>La Final se consume en dos pantallas: TV tradicional y streaming oficial.</li>
+    <li>El listado de canales puede variar por región y derechos de transmisión.</li>
+    <li>BeisbolPlay aparece como alternativa para ver la serie desde cualquier dispositivo compatible.</li>
+    <li>Horarios tentativos: la referencia más repetida apunta a 7:00 p. m., con confirmación por día.</li>
+  </ul>
+</section>',
+    'category' => 'LVBP',
+    'categories' => 
+    array (
+      0 => 'LVBP',
+      1 => 'Venezuela',
+    ),
+    'tags' => 
+    array (
+      0 => 'BeisbolPlay',
+      1 => 'Canales de TV',
+      2 => 'Streaming béisbol',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/donde-ver-final-lvbp-tv-streaming-cobertura-anunciada.php',
+  ),
+  'final-lvbp-donde-arranca-calendario-unico-descanso' => 
+  array (
+    'title' => 'Final LVBP: ¿dónde arranca y cómo se juega una serie con un solo descanso?',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Juego 1 en Puerto La Cruz: abrir en casa cambia rotación y boletaje.</li><li>Calendario comprimido: un solo día libre y mudanza exprés a Valencia.</li><li>Bullpen bajo estrés: la serie se decide en la “palanca” del sexto al noveno.</li><li>Si hay Juego 7, el cierre vuelve a PLC: la localía puede pesar.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/final-lvbp-donde-arranca-calendario-unico-descanso.php',
+  ),
+  'gran-final-confirmada-caribes-magallanes-calendario-rosters' => 
+  array (
+    'title' => 'Gran Final confirmada: Caribes vs. Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">  <ul>    <li>Calendario corto, decisiones largas en la pizarra.</li>    <li>Rosters y bullpen: la final se gana antes del playball.</li>    <li>Magallanes persigue historia; Caribes defiende su identidad.</li>    <li>La rivalidad vuelve con presión total: sin margen para fallar.</li>  </ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Draft de Refuerzos',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/gran-final-confirmada-caribes-magallanes-calendario-rosters.php',
+  ),
+  'historial-finales-caribes-magallanes-ultima-quedo-siete' => 
+  array (
+    'title' => 'Historial de finales Caribes–Magallanes: la última quedó para siete',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Tres finales desde 2013-14: la rivalidad ya tiene archivo.</li><li>La más reciente se fue a siete: presión sin atajos.</li><li>En estas series manda el bullpen y la banca.</li><li>La memoria pesa: lo emocional también se planifica.</li></ul></section>',
+    'category' => 'Caribes de Anzoátegui',
+    'categories' => 
+    array (
+      0 => 'Historia del Beisbol Venezolano',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Caribes de Anzoátegui',
+      4 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => '',
+      1 => 'Artículos Destacados',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/historial-finales-caribes-magallanes-ultima-quedo-siete.php',
+  ),
+  'serie-americas-2026-calendario-oficial-sedes-caracas-la-guaira' => 
+  array (
+    'title' => 'Serie de las Américas 2026: el calendario ya manda (5–13F) y la doble sede define la operación',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Del anuncio a la ejecución: el calendario oficial pone a correr a todos.</li><li>Nueve días, dos sedes: Caracas y Macuto se reparten el torneo.</li><li>Un detalle que pesa: 14 juegos en Caracas y 7 en La Guaira en la fase inicial.</li><li>Boletaje, acreditaciones y logística: la verdadera serie también se juega fuera del terreno.</li></ul></section>',
+    'category' => 'Serie de las Américas',
+    'categories' => 
+    array (
+      0 => 'Serie de las Américas',
+      1 => 'Béisbol Internacional',
+      2 => 'Venezuela',
+      3 => 'LVBP',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+      1 => 'Estadio Monumental Simón Bolívar',
+      2 => 'Estadio Jorge Luis García Carneiro',
+      3 => 'Caracas',
+      4 => 'La Guaira',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-americas-2026-calendario-oficial-sedes-caracas-la-guaira.php',
+  ),
+  'draft-adiciones-refuerzo-equipo-final' => 
+  array (
+    'title' => 'Draft de adiciones: un solo refuerzo por equipo para decidir la Final',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Caribes escogerá primero en un draft con margen mínimo de error.</li>
+    <li>Solo un jugador por cada roster eliminado: menos opciones, más presión.</li>
+    <li>El calendario sin pausas vuelve oro cada brazo fresco del bullpen.</li>
+    <li>Nombres como Adrián Almeida, Brayan Pérez y Danry Vásquez asoman como tentaciones.</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => 'Draft de Refuerzos',
+      1 => '"La Final" 2025-26',
+      2 => 'Adrián Almeida',
+      3 => 'Brayan Pérez',
+      4 => 'Danry Vásquez',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/draft-adiciones-refuerzo-equipo-final.php',
+  ),
+  'round-robin-2025-26-semana-final-caribes-magallanes' => 
+  array (
+    'title' => 'Resumen 3 Round Robin 2025-26 Remontadas, extrainnings y presión: la semana que armó la final Caribes–Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li><strong>Magallanes</strong> convirtió la urgencia en 6-0 y se metió en la final.</li>
+    <li><strong>Caribes</strong> sobrevivió a juegos largos… y selló su pase.</li>
+    <li><strong>Cardenales</strong> produjo y lanzó, pero los cierres lo dejaron fuera.</li>
+    <li><strong>Bravos</strong> reaccionó tarde: orgullo sí, eliminación confirmada.</li>
+  </ul>
+</section>',
+    'category' => 'Bravos de Margarita',
+    'categories' => 
+    array (
+      0 => 'Resumen Semanal',
+      1 => 'Venezuela',
+      2 => 'LVBP',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Caribes de Anzoátegui',
+      5 => 'Cardenales de Lara',
+      6 => 'Bravos de Margarita',
+      7 => 'Águilas del Zulia',
+    ),
+    'tags' => 
+    array (
+      0 => '',
+      1 => 'Adrián Almeida',
+      2 => 'Aldrem Corredor',
+      3 => 'Alexi Amarista',
+      4 => 'Alfonso Hernández',
+      5 => 'Alí Castillo',
+      6 => 'Alí Sánchez',
+      7 => 'Andrés Chaparro',
+      8 => 'Artículo Patrocinado',
+      9 => 'Artículos Destacados',
+      10 => 'Balbino Fuenmayor',
+      11 => 'Brainer Bonaci',
+      12 => 'Carlos Mendoza',
+      13 => 'Carlos Navas',
+      14 => 'Carlos Sepúlveda',
+      15 => 'César Valdez',
+      16 => 'Danry Vásquez',
+      17 => 'Delvis Alegre',
+      18 => 'Felipe González',
+      19 => 'Félix Doubront',
+      20 => 'Herlis Rodríguez',
+      21 => 'Hernán Pérez',
+      22 => 'Ildemaro Vargas',
+      23 => 'Jesús Bastidas',
+      24 => 'Jesús Sucre',
+      25 => 'Juan Mateo',
+      26 => 'Luis Sardiñas',
+      27 => 'Melvi Acosta',
+      28 => 'Naswell Paulino',
+      29 => 'Renato Núñez',
+      30 => 'Resumen Semanal',
+      31 => 'Ricardo Sánchez',
+      32 => 'Round Robin 2025-26',
+      33 => 'Tucupita Marcano',
+      34 => 'Wilfredo Tovar',
+      35 => 'Ángel Reyes',
+    ),
+    'date' => '25 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/round-robin-2025-26-semana-final-caribes-magallanes.php',
+  ),
+  'aldrem-corredor-mvp-round-robin-2025-2026' => 
+  array (
+    'title' => 'Aldrem Corredor, Jugador Más Valioso del Round Robin',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>El refuerzo que cambió la ecuación ofensiva de Caribes</li>
+    <li>Números de impacto en los 16 juegos del Round Robin</li>
+    <li>Votación clara: liderazgo estadístico y constancia</li>
+    <li>Un premio que confirma el peso del Draft de Adiciones</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Leones del Caracas',
+    ),
+    'tags' => 
+    array (
+      0 => 'Round Robin 2025-26',
+      1 => 'Aldrem Corredor',
+      2 => 'Draft de Adiciones',
+      3 => 'Jugador Más Valioso',
+      4 => '"La Final" 2025-26',
+    ),
+    'date' => '27 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/aldrem-corredor-mvp-round-robin-2025-2026.php',
+  ),
+  'boletaje-serie-americas-2026-checklist-fan' => 
+  array (
+    'title' => 'Boletaje al play: la Serie de las Américas 2026 activa la fiebre y la cautela',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>El anuncio llegó sin precios ni mapa.</li><li>La urgencia sube: la información fina aún no.</li><li>Compra sí, pero con checklist en mano.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Serie de las Américas',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+    ),
+    'date' => '27 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/boletaje-serie-americas-2026-checklist-fan.php',
+  ),
+  'bracho-williams-refuerzos-bullpen-gran-final' => 
+  array (
+    'title' => 'Bracho y Williams: el “todo al bullpen” para la Gran Final',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Un solo cupo, dos equipos y la misma obsesión: el cierre.</li><li>Bracho llega con cartel de finalista y salvados de élite.</li><li>Williams es la apuesta por brazos largos y flexibilidad táctica.</li><li>Serie en ocho días: el bullpen puede decidirlo todo.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Águilas del Zulia',
+      5 => 'Tigres de Aragua',
+      6 => 'Cardenales de Lara',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Draft de Refuerzos',
+      2 => 'Round Robin 2025-26',
+      3 => 'Silvino Bracho',
+      4 => 'Ronnie Williams',
+      5 => 'Giuseppe Palmisano',
+      6 => 'Amador Montes',
+      7 => 'Cerrador del Año',
+    ),
+    'date' => '27 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/bracho-williams-refuerzos-bullpen-gran-final.php',
+  ),
+  'caribes-vs-magallanes-final-mas-repetida-siglo-68-lvbp' => 
+  array (
+    'title' => 'Caribes vs Magallanes: la final más repetida del siglo y el pulso por la 68.ª',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Rivalidad moderna, presión vieja: ganar o cargar historia</li>
+    <li>Cuarta final entre ambos desde 2013-14: ya huele a clásico</li>
+    <li>La LVBP entra en su 68.ª serie decisiva en año aniversario</li>
+    <li>Draft, bullpen y detalles: la serie se decide en márgenes</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+      4 => 'Leones del Caracas',
+      5 => 'Tiburones de La Guaira',
+      6 => 'Cardenales de Lara',
+      7 => 'Bravos de Margarita',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+      1 => 'Draft de Refuerzos',
+      2 => 'Round Robin 2025-26',
+      3 => 'Jugador Más Valioso',
+      4 => 'Silvino Bracho',
+      5 => 'Ronnie Williams',
+      6 => 'Aldrem Corredor',
+      7 => 'David Concepción',
+      8 => 'César Izturis',
+    ),
+    'date' => '27 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/caribes-vs-magallanes-final-mas-repetida-siglo-68-lvbp.php',
+  ),
+  'hernan-perez-bate-mas-peligroso-caribes-magallanes' => 
+  array (
+    'title' => 'Hernán Pérez, el bate más peligroso de Caribes frente a Magallanes',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>Fue el verdugo ofensivo de la Tribu en el Round Robin.</li><li>Produce poder, embasado y liderazgo en un solo turno.</li><li>Magallanes lo tiene marcado en rojo para la final.</li><li>El Regreso del Año quiere cerrar con un título.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => 'Hernán Pérez',
+      1 => '"La Final" 2025-26',
+      2 => 'Round Robin 2025-26',
+    ),
+    'date' => '27 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/hernan-perez-bate-mas-peligroso-caribes-magallanes.php',
+  ),
+  'precios-entradas-expectativa-llenazo-gran-final' => 
+  array (
+    'title' => 'Precios de entradas y expectativa de “llenazo” para la Gran Final',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Tarifarios por zonas: la final se vive distinto según la localidad</li>
+    <li>Dos plazas, una misma ansiedad: Puerto La Cruz y Valencia se preparan</li>
+    <li>Venta online y taquilla: el reto es comprar sin perder el juego fuera del campo</li>
+    <li>La serie también se gana en logística: traslados, horarios y presupuesto</li>
+  </ul>
+</section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Caribes de Anzoátegui',
+      3 => 'Navegantes del Magallanes',
+    ),
+    'tags' => 
+    array (
+      0 => '"La Final" 2025-26',
+    ),
+    'date' => '27 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/precios-entradas-expectativa-llenazo-gran-final.php',
+  ),
+  'serie-caribe-2026-federales-afina-rod-carew-nucleo-mlb' => 
+  array (
+    'title' => 'Serie del Caribe 2026: Federales afina en el Rod Carew con núcleo MLB',
+    'subtitle' => '<section class="meridiano-bloque-hooks">
+
+  <ul>
+    <li>Panamá viaja como invitado, pero quiere jugar con cara de favorito incómodo.</li>
+    <li>Un núcleo con roce MLB y Caribe pone orden en el clubhouse antes del vuelo.</li>
+    <li>El Rod Carew funciona como laboratorio: defensa, bullpen y roles sin ruido.</li>
+    <li>La clave no es el nombre: es la profundidad para sobrevivir a una serie corta.</li>
+  </ul>
+</section>',
+    'category' => 'Panamá',
+    'categories' => 
+    array (
+      0 => 'Panamá',
+      1 => 'Serie del Caribe',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie del Caribe 2026',
+      1 => 'Christian Bethancourt',
+      2 => 'Paolo Espino',
+      3 => 'Johan Camargo',
+      4 => 'Rubén Tejada',
+      5 => 'Federales de Chiriquí',
+    ),
+    'date' => '26 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/serie-caribe-2026-federales-afina-rod-carew-nucleo-mlb.php',
+  ),
+  'ventana-corta-serie-americas-calendario-roster' => 
+  array (
+    'title' => 'La ventana corta de la Serie de las Américas: cuando el calendario manda sobre el roster',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>El 5 de febrero no es una fecha: es una presión.</li><li>Finales y cierres de liga se aprietan para “llegar a tiempo”.</li><li>La superposición pega primero en el descanso y después en el lineup.</li><li>Sin reglas claras de elegibilidad, el rumor corre más rápido que el autobús.</li></ul></section>',
+    'category' => 'Venezuela',
+    'categories' => 
+    array (
+      0 => 'Venezuela',
+      1 => 'LVBP',
+      2 => 'Serie de las Américas',
+      3 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => 'Serie de las Américas 2026',
+    ),
+    'date' => '27 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/ventana-corta-serie-americas-calendario-roster.php',
+  ),
+  'sandor-guido-doble-via-serie-americas-agenda' => 
+  array (
+    'title' => 'Sandor Guido, agenda al límite: la “doble vía” entre el club y los compromisos locales',
+    'subtitle' => '<section class="meridiano-bloque-hooks"><ul><li>El mánager cambia de chip: trabajo local, pausa y viaje.</li><li>La Serie de las Américas no espera: planificación exprés.</li><li>Roster, cuerpo técnico y logística: tres frentes abiertos.</li><li>El calendario comprimido convierte cada día en una decisión.</li></ul></section>',
+    'category' => 'Nicaragua',
+    'categories' => 
+    array (
+      0 => 'Nicaragua',
+      1 => 'Serie de las Américas',
+      2 => 'Béisbol Internacional',
+    ),
+    'tags' => 
+    array (
+      0 => 'Sandor Guido',
+      1 => 'Leones de León',
+      2 => 'Serie de las Américas 2026',
+    ),
+    'date' => '27 de enero de 2026',
+    'author' => 'Redacción Meridiano',
+    'image' => 'https://www.meridiano.com/assets/img/assets/img/post-bg.jpg',
+    'url' => 'https://www.meridiano.com/post/sandor-guido-doble-via-serie-americas-agenda.php',
   ),
 );

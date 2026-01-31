@@ -1,13 +1,131 @@
 <?php
 include '../config.php';
 
-// Validar que se recibió el formulario
-if ($_SERVER['REQUEST_METHOD'] !== 'POST' || !isset($_POST['datos_documento'])) {
-    header('Location: crear-post-admin.php');
-    exit;
+// ============ DETECCIÓN DE MODO API ============
+/**
+ * Detecta si la petición proviene de un cliente API
+ * @return bool true si es petición API, false si es formulario web
+ */
+function esApiRequest() {
+    // Detectar por header Accept
+    if (isset($_SERVER['HTTP_ACCEPT']) && 
+        strpos($_SERVER['HTTP_ACCEPT'], 'application/json') !== false) {
+        return true;
+    }
+
+    // Detectar por X-Requested-With (AJAX)
+    if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && 
+        strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest') {
+        return true;
+    }
+
+    // Detectar por parámetro explícito
+    if (isset($_POST['api']) || isset($_GET['api'])) {
+        return true;
+    }
+
+    // Detectar por Content-Type JSON
+    if (isset($_SERVER['CONTENT_TYPE']) && 
+        strpos($_SERVER['CONTENT_TYPE'], 'application/json') !== false) {
+        return true;
+    }
+
+    return false;
 }
 
-$datos_raw = $_POST['datos_documento'];
+// Variable global para modo de operación
+$isApiMode = esApiRequest();
+
+// ============ FUNCIÓN UNIFICADA DE RESPUESTA ============
+/**
+ * Envía respuesta según el modo de operación (API o Formulario)
+ * @param bool $exito Indica si la operación fue exitosa
+ * @param string $mensaje Mensaje descriptivo de la operación
+ * @param array $datos Datos adicionales (para API mode)
+ * @param array $errores Lista de errores (si los hay)
+ */
+function enviarRespuesta($exito, $mensaje = '', $datos = [], $errores = []) {
+    global $isApiMode;
+
+    // Si headers ya fueron enviados, registrar advertencia
+    if (headers_sent($file, $line)) {
+        error_log("ADVERTENCIA: Headers ya enviados en {$file}:{$line}");
+    }
+
+    if ($isApiMode) {
+        // Modo API: responder con JSON
+        if (!headers_sent()) {
+            header('Content-Type: application/json; charset=utf-8');
+            http_response_code($exito ? 200 : 400);
+        }
+
+        echo json_encode([
+            'success' => $exito,
+            'message' => $mensaje,
+            'data' => $datos,
+            'errors' => $errores,
+            'timestamp' => date('c')
+        ], JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+        exit;
+    } else {
+        // Modo Formulario: comportamiento tradicional
+        if (!$exito) {
+            mostrarErroresHTML($errores);
+        } else {
+            // Redirigir al post creado
+            if (isset($datos['url_post'])) {
+                if (!headers_sent()) {
+                    header('Location: ' . $datos['url_post']);
+                }
+                exit;
+            }
+        }
+    }
+}
+
+// ============ VALIDACIÓN INICIAL Y OBTENCIÓN DE DATOS ============
+// Validar método POST
+if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    if ($isApiMode) {
+        enviarRespuesta(false, 'Method Not Allowed', [], ['Se requiere método POST']);
+    } else {
+        header('Location: crear-post-admin.php');
+        exit;
+    }
+}
+
+// Obtener datos según el tipo de petición
+$datos_documento = null;
+
+// Content-Type puede venir en diferentes headers según servidor
+$contentType = $_SERVER['CONTENT_TYPE'] ?? ($_SERVER['HTTP_CONTENT_TYPE'] ?? '');
+
+if ($isApiMode && stripos($contentType, 'application/json') !== false) {
+    // Petición API con JSON body
+    $json_input = file_get_contents('php://input');
+    $json_data = json_decode($json_input, true);
+
+    if (json_last_error() !== JSON_ERROR_NONE) {
+        enviarRespuesta(false, 'JSON inválido', [], ['Error al parsear JSON: ' . json_last_error_msg()]);
+    }
+
+    $datos_documento = $json_data['datos_documento'] ?? null;
+} else {
+    // Petición tradicional de formulario (form-data o x-www-form-urlencoded)
+    $datos_documento = $_POST['datos_documento'] ?? null;
+}
+
+// Validar que se recibieron los datos
+if (!$datos_documento) {
+    if ($isApiMode) {
+        enviarRespuesta(false, 'Datos faltantes', [], ['El campo datos_documento es requerido']);
+    } else {
+        header('Location: crear-post-admin.php');
+        exit;
+    }
+}
+
+$datos_raw = $datos_documento;
 $errores = [];
 
 // ============ PARSEAR EL BLOQUE [DATOS_DOCUMENTO] ============
@@ -164,7 +282,7 @@ if (empty($tags)) {
 }
 
 if (!empty($errores)) {
-    mostrarErrores($errores);
+    enviarRespuesta(false, 'Error en validación de campos', [], $errores);
 }
 
 // ============ PROCESAR RUTAS DE IMÁGENES ============
@@ -191,18 +309,27 @@ $ruta_post = SITE_DIR . ltrim(POST_DIR, '/') . $nombre_archivo_php;
 
 // Verificar que el directorio existe
 $dir_posts = dirname($ruta_post);
+$ruta_usada_fallback = false;
 if (!is_dir($dir_posts)) {
-    mostrarErrores(["El directorio de posts no existe: {$dir_posts}"]);
+    // Entorno de desarrollo: intentar usar carpeta local /post/ del proyecto
+    $local_posts = __DIR__ . '/../post/';
+    if (is_dir($local_posts) && is_writable($local_posts)) {
+        $ruta_post = rtrim(realpath($local_posts), '/') . '/' . $nombre_archivo_php;
+        $dir_posts = dirname($ruta_post);
+        $ruta_usada_fallback = true;
+    } else {
+        enviarRespuesta(false, 'Error de configuración', [], ["El directorio de posts no existe: {$dir_posts}"]);
+    }
 }
 
 // Verificar que el directorio es escribible
 if (!is_writable($dir_posts)) {
-    mostrarErrores(["El directorio de posts no tiene permisos de escritura: {$dir_posts}"]);
+    enviarRespuesta(false, 'Error de permisos', [], ["El directorio de posts no tiene permisos de escritura: {$dir_posts}"]);
 }
 
 // Verificar que el archivo no existe
 if (file_exists($ruta_post)) {
-    mostrarErrores(["El archivo {$nombre_archivo_php} ya existe."]);
+    enviarRespuesta(false, 'Archivo duplicado', [], ["El archivo {$nombre_archivo_php} ya existe."]);
 }
 
 // ============ LIMPIAR CONTENIDO HTML ============
@@ -264,10 +391,10 @@ include __DIR__ . '/../header_common.php';
 
 try {
     if (file_put_contents($ruta_post, $codigo_php) === false) {
-        mostrarErrores(["No se pudo crear el archivo {$nombre_archivo_php}."]);
+        enviarRespuesta(false, 'Error al escribir archivo', [], ["No se pudo crear el archivo {$nombre_archivo_php}."]);
     }
 } catch (Exception $e) {
-    mostrarErrores(["Error al crear el archivo: " . $e->getMessage()]);
+    enviarRespuesta(false, 'Error de sistema', [], ["Error al crear el archivo: " . $e->getMessage()]);
 }
 
 // ============ REGENERAR MANIFIESTO (DESACTIVADO AUTO) ============
@@ -276,15 +403,36 @@ try {
 
 // ============ REDIRIGIR AL POST CREADO ============
 
-// Construir URL del post
+// ============ RESPUESTA SEGÚN MODO ============
+
+// Construir URL del post (URL pública)
 $url_post = rtrim(SITE_URL, '/') . '/post/' . urlencode($nombre_archivo_php);
 
-header('Location: ' . $url_post);
-exit;
+// Preparar datos de respuesta completos
+$datos_respuesta = [
+    'archivo' => $nombre_archivo_php,
+    'url_post' => $url_post,
+    'ruta_fisica' => $ruta_post,
+    'titulo' => $titulo_visible,
+    'subtitulo' => $subtitulo_visible,
+    'autor' => $autor_visible,
+    'fecha' => $fecha_visible,
+    'categoria' => $category,
+    'categorias' => $categories,
+    'tags' => $tags,
+    'imagen_fondo' => $imagen_fondo,
+    'og_image' => $og_image_nombre,
+    'twitter_image' => $twitter_image_nombre,
+    'created_at' => date('Y-m-d H:i:s'),
+    'fallback_used' => isset($ruta_usada_fallback) && $ruta_usada_fallback
+];
+
+enviarRespuesta(true, 'Post creado exitosamente', $datos_respuesta, []);
+
 
 // ============ FUNCIÓN PARA MOSTRAR ERRORES ============
 
-function mostrarErrores($errores)
+function mostrarErroresHTML($errores)
 {
 ?>
     <!DOCTYPE html>
@@ -371,5 +519,10 @@ function mostrarErrores($errores)
     </html>
 <?php
     exit;
+}
+
+// Wrapper por compatibilidad: mantener nombre antiguo
+function mostrarErrores($errores) {
+    mostrarErroresHTML($errores);
 }
 ?>
